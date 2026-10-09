@@ -1,0 +1,3088 @@
+ir,com,zone,hiv,n_screened,n_symptom_pos,n_tb
+Round 1,1,1,Self-reported living with HIV & NOT on ART,12,1,1
+Round 1,1,1,Tested positive by CHiP,47,1,0
+Round 1,1,1,Tested negative by CHiP,670,8,0
+Round 1,1,1,Not tested/indeterminate,265,3,1
+Round 1,1,1,Self-reported living with HIV & on ART,64,2,0
+Round 1,1,2,Self-reported living with HIV & NOT on ART,17,0,0
+Round 1,1,2,Tested positive by CHiP,53,0,0
+Round 1,1,2,Tested negative by CHiP,647,2,0
+Round 1,1,2,Not tested/indeterminate,312,1,0
+Round 1,1,2,Self-reported living with HIV & on ART,55,1,0
+Round 1,1,3,Self-reported living with HIV & NOT on ART,22,0,0
+Round 1,1,3,Tested positive by CHiP,35,3,0
+Round 1,1,3,Tested negative by CHiP,713,5,0
+Round 1,1,3,Not tested/indeterminate,564,0,0
+Round 1,1,3,Self-reported living with HIV & on ART,79,6,2
+Round 1,1,4,Self-reported living with HIV & NOT on ART,10,0,0
+Round 1,1,4,Tested positive by CHiP,40,2,0
+Round 1,1,4,Tested negative by CHiP,663,5,0
+Round 1,1,4,Not tested/indeterminate,439,1,0
+Round 1,1,4,Self-reported living with HIV & on ART,57,2,1
+Round 1,1,5,Self-reported living with HIV & NOT on ART,18,0,0
+Round 1,1,5,Tested positive by CHiP,18,0,0
+Round 1,1,5,Tested negative by CHiP,524,5,0
+Round 1,1,5,Not tested/indeterminate,727,0,0
+Round 1,1,5,Self-reported living with HIV & on ART,64,2,1
+Round 1,1,6,Self-reported living with HIV & NOT on ART,23,1,1
+Round 1,1,6,Tested positive by CHiP,42,1,0
+Round 1,1,6,Tested negative by CHiP,695,1,0
+Round 1,1,6,Not tested/indeterminate,218,0,0
+Round 1,1,6,Self-reported living with HIV & on ART,47,0,0
+Round 1,1,7,Self-reported living with HIV & NOT on ART,8,1,0
+Round 1,1,7,Tested positive by CHiP,31,3,0
+Round 1,1,7,Tested negative by CHiP,640,2,1
+Round 1,1,7,Not tested/indeterminate,337,0,0
+Round 1,1,7,Self-reported living with HIV & on ART,78,2,0
+Round 1,1,8,Self-reported living with HIV & NOT on ART,23,0,0
+Round 1,1,8,Tested positive by CHiP,60,2,0
+Round 1,1,8,Tested negative by CHiP,753,5,1
+Round 1,1,8,Not tested/indeterminate,576,1,0
+Round 1,1,8,Self-reported living with HIV & on ART,98,1,0
+Round 1,1,9,Self-reported living with HIV & NOT on ART,20,0,0
+Round 1,1,9,Tested positive by CHiP,36,3,0
+Round 1,1,9,Tested negative by CHiP,721,4,0
+Round 1,1,9,Not tested/indeterminate,458,0,0
+Round 1,1,9,Self-reported living with HIV & on ART,80,0,0
+Round 1,1,10,Self-reported living with HIV & NOT on ART,11,0,0
+Round 1,1,10,Tested positive by CHiP,39,2,0
+Round 1,1,10,Tested negative by CHiP,701,7,1
+Round 1,1,10,Not tested/indeterminate,209,0,0
+Round 1,1,10,Self-reported living with HIV & on ART,50,0,0
+Round 1,1,11,Self-reported living with HIV & NOT on ART,17,1,0
+Round 1,1,11,Tested positive by CHiP,28,1,0
+Round 1,1,11,Tested negative by CHiP,635,0,0
+Round 1,1,11,Not tested/indeterminate,440,0,0
+Round 1,1,11,Self-reported living with HIV & on ART,70,1,0
+Round 1,1,12,Self-reported living with HIV & NOT on ART,15,1,0
+Round 1,1,12,Tested positive by CHiP,47,1,0
+Round 1,1,12,Tested negative by CHiP,825,3,0
+Round 1,1,12,Not tested/indeterminate,268,1,0
+Round 1,1,12,Self-reported living with HIV & on ART,78,2,0
+Round 1,1,13,Self-reported living with HIV & NOT on ART,24,3,0
+Round 1,1,13,Tested positive by CHiP,53,3,1
+Round 1,1,13,Tested negative by CHiP,786,5,0
+Round 1,1,13,Not tested/indeterminate,458,1,0
+Round 1,1,13,Self-reported living with HIV & on ART,96,3,0
+Round 1,1,14,Self-reported living with HIV & NOT on ART,22,0,0
+Round 1,1,14,Tested positive by CHiP,34,0,0
+Round 1,1,14,Tested negative by CHiP,786,1,0
+Round 1,1,14,Not tested/indeterminate,533,0,0
+Round 1,1,14,Self-reported living with HIV & on ART,67,0,0
+Round 1,1,15,Self-reported living with HIV & NOT on ART,14,0,0
+Round 1,1,15,Tested positive by CHiP,54,1,0
+Round 1,1,15,Tested negative by CHiP,709,4,1
+Round 1,1,15,Not tested/indeterminate,365,0,0
+Round 1,1,15,Self-reported living with HIV & on ART,43,0,0
+Round 1,1,16,Self-reported living with HIV & NOT on ART,11,1,1
+Round 1,1,16,Tested positive by CHiP,37,3,0
+Round 1,1,16,Tested negative by CHiP,618,2,1
+Round 1,1,16,Not tested/indeterminate,551,3,2
+Round 1,1,16,Self-reported living with HIV & on ART,58,4,3
+Round 1,1,17,Self-reported living with HIV & NOT on ART,11,0,0
+Round 1,1,17,Tested positive by CHiP,49,1,0
+Round 1,1,17,Tested negative by CHiP,762,3,0
+Round 1,1,17,Not tested/indeterminate,268,0,0
+Round 1,1,17,Self-reported living with HIV & on ART,68,0,0
+Round 1,1,18,Self-reported living with HIV & NOT on ART,16,1,0
+Round 1,1,18,Tested positive by CHiP,76,2,0
+Round 1,1,18,Tested negative by CHiP,848,8,2
+Round 1,1,18,Not tested/indeterminate,265,0,0
+Round 1,1,18,Self-reported living with HIV & on ART,70,2,0
+Round 1,1,19,Self-reported living with HIV & NOT on ART,21,0,0
+Round 1,1,19,Tested positive by CHiP,38,2,0
+Round 1,1,19,Tested negative by CHiP,669,9,0
+Round 1,1,19,Not tested/indeterminate,304,1,0
+Round 1,1,19,Self-reported living with HIV & on ART,60,0,0
+Round 1,1,20,Self-reported living with HIV & NOT on ART,19,0,0
+Round 1,1,20,Tested positive by CHiP,37,1,0
+Round 1,1,20,Tested negative by CHiP,679,2,1
+Round 1,1,20,Not tested/indeterminate,286,0,0
+Round 1,1,20,Self-reported living with HIV & on ART,63,2,0
+Round 1,2,21,Self-reported living with HIV & NOT on ART,15,0,0
+Round 1,2,21,Tested positive by CHiP,23,2,0
+Round 1,2,21,Tested negative by CHiP,453,7,0
+Round 1,2,21,Not tested/indeterminate,549,2,0
+Round 1,2,21,Self-reported living with HIV & on ART,66,4,0
+Round 1,2,22,Self-reported living with HIV & NOT on ART,13,0,0
+Round 1,2,22,Tested positive by CHiP,38,1,0
+Round 1,2,22,Tested negative by CHiP,1134,9,0
+Round 1,2,22,Not tested/indeterminate,342,3,1
+Round 1,2,22,Self-reported living with HIV & on ART,39,0,0
+Round 1,2,23,Self-reported living with HIV & NOT on ART,6,0,0
+Round 1,2,23,Tested positive by CHiP,30,2,0
+Round 1,2,23,Tested negative by CHiP,521,6,0
+Round 1,2,23,Not tested/indeterminate,454,8,1
+Round 1,2,23,Self-reported living with HIV & on ART,23,0,0
+Round 1,2,24,Self-reported living with HIV & NOT on ART,15,1,0
+Round 1,2,24,Tested positive by CHiP,54,1,0
+Round 1,2,24,Tested negative by CHiP,903,2,0
+Round 1,2,24,Not tested/indeterminate,454,0,0
+Round 1,2,24,Self-reported living with HIV & on ART,52,1,0
+Round 1,2,25,Self-reported living with HIV & NOT on ART,15,0,0
+Round 1,2,25,Tested positive by CHiP,19,1,0
+Round 1,2,25,Tested negative by CHiP,438,7,1
+Round 1,2,25,Not tested/indeterminate,790,2,0
+Round 1,2,25,Self-reported living with HIV & on ART,65,1,0
+Round 1,2,26,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,2,26,Tested positive by CHiP,16,3,0
+Round 1,2,26,Tested negative by CHiP,439,8,0
+Round 1,2,26,Not tested/indeterminate,349,2,0
+Round 1,2,26,Self-reported living with HIV & on ART,42,2,0
+Round 1,2,27,Self-reported living with HIV & NOT on ART,9,0,0
+Round 1,2,27,Tested positive by CHiP,43,2,0
+Round 1,2,27,Tested negative by CHiP,573,9,1
+Round 1,2,27,Not tested/indeterminate,814,3,0
+Round 1,2,27,Self-reported living with HIV & on ART,58,1,0
+Round 1,2,28,Self-reported living with HIV & NOT on ART,6,3,0
+Round 1,2,28,Tested positive by CHiP,34,3,0
+Round 1,2,28,Tested negative by CHiP,908,12,0
+Round 1,2,28,Not tested/indeterminate,206,0,0
+Round 1,2,28,Self-reported living with HIV & on ART,38,1,0
+Round 1,2,29,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,2,29,Tested positive by CHiP,19,4,0
+Round 1,2,29,Tested negative by CHiP,467,4,0
+Round 1,2,29,Not tested/indeterminate,701,1,0
+Round 1,2,29,Self-reported living with HIV & on ART,22,1,0
+Round 1,2,30,Self-reported living with HIV & NOT on ART,9,0,0
+Round 1,2,30,Tested positive by CHiP,31,5,0
+Round 1,2,30,Tested negative by CHiP,668,10,1
+Round 1,2,30,Not tested/indeterminate,364,0,0
+Round 1,2,30,Self-reported living with HIV & on ART,41,2,1
+Round 1,5,31,Self-reported living with HIV & NOT on ART,11,0,0
+Round 1,5,31,Tested positive by CHiP,91,6,0
+Round 1,5,31,Tested negative by CHiP,874,12,1
+Round 1,5,31,Not tested/indeterminate,90,0,0
+Round 1,5,31,Self-reported living with HIV & on ART,90,5,2
+Round 1,5,32,Self-reported living with HIV & NOT on ART,4,0,0
+Round 1,5,32,Tested positive by CHiP,80,3,0
+Round 1,5,32,Tested negative by CHiP,978,13,1
+Round 1,5,32,Not tested/indeterminate,304,1,0
+Round 1,5,32,Self-reported living with HIV & on ART,68,1,0
+Round 1,5,33,Self-reported living with HIV & NOT on ART,1,0,0
+Round 1,5,33,Tested positive by CHiP,93,10,0
+Round 1,5,33,Tested negative by CHiP,653,5,0
+Round 1,5,33,Not tested/indeterminate,124,0,0
+Round 1,5,33,Self-reported living with HIV & on ART,63,1,0
+Round 1,5,34,Self-reported living with HIV & NOT on ART,7,1,1
+Round 1,5,34,Tested positive by CHiP,76,7,2
+Round 1,5,34,Tested negative by CHiP,682,17,4
+Round 1,5,34,Not tested/indeterminate,237,5,0
+Round 1,5,34,Self-reported living with HIV & on ART,73,4,0
+Round 1,5,35,Self-reported living with HIV & NOT on ART,7,1,0
+Round 1,5,35,Tested positive by CHiP,64,4,0
+Round 1,5,35,Tested negative by CHiP,898,20,1
+Round 1,5,35,Not tested/indeterminate,79,1,0
+Round 1,5,35,Self-reported living with HIV & on ART,75,0,0
+Round 1,5,36,Self-reported living with HIV & NOT on ART,14,2,0
+Round 1,5,36,Tested positive by CHiP,60,1,0
+Round 1,5,36,Tested negative by CHiP,907,10,2
+Round 1,5,36,Not tested/indeterminate,36,0,0
+Round 1,5,36,Self-reported living with HIV & on ART,41,0,0
+Round 1,5,37,Self-reported living with HIV & NOT on ART,2,0,0
+Round 1,5,37,Tested positive by CHiP,67,10,2
+Round 1,5,37,Tested negative by CHiP,1096,6,0
+Round 1,5,37,Not tested/indeterminate,38,0,0
+Round 1,5,37,Self-reported living with HIV & on ART,47,3,0
+Round 1,5,38,Self-reported living with HIV & NOT on ART,6,0,0
+Round 1,5,38,Tested positive by CHiP,99,2,1
+Round 1,5,38,Tested negative by CHiP,901,1,0
+Round 1,5,38,Not tested/indeterminate,163,1,0
+Round 1,5,38,Self-reported living with HIV & on ART,62,3,0
+Round 1,5,39,Self-reported living with HIV & NOT on ART,25,0,0
+Round 1,5,39,Tested positive by CHiP,81,2,0
+Round 1,5,39,Tested negative by CHiP,822,5,0
+Round 1,5,39,Not tested/indeterminate,302,0,0
+Round 1,5,39,Self-reported living with HIV & on ART,102,1,0
+Round 1,5,40,Self-reported living with HIV & NOT on ART,18,0,0
+Round 1,5,40,Tested positive by CHiP,63,3,1
+Round 1,5,40,Tested negative by CHiP,741,9,0
+Round 1,5,40,Not tested/indeterminate,63,1,0
+Round 1,5,40,Self-reported living with HIV & on ART,61,2,0
+Round 1,5,41,Self-reported living with HIV & NOT on ART,20,1,0
+Round 1,5,41,Tested positive by CHiP,84,6,0
+Round 1,5,41,Tested negative by CHiP,689,5,1
+Round 1,5,41,Not tested/indeterminate,188,1,0
+Round 1,5,41,Self-reported living with HIV & on ART,101,2,1
+Round 1,5,42,Self-reported living with HIV & NOT on ART,9,0,0
+Round 1,5,42,Tested positive by CHiP,77,5,0
+Round 1,5,42,Tested negative by CHiP,796,9,0
+Round 1,5,42,Not tested/indeterminate,121,0,0
+Round 1,5,42,Self-reported living with HIV & on ART,51,1,0
+Round 1,5,43,Self-reported living with HIV & NOT on ART,11,1,0
+Round 1,5,43,Tested positive by CHiP,62,1,0
+Round 1,5,43,Tested negative by CHiP,649,5,1
+Round 1,5,43,Not tested/indeterminate,276,1,0
+Round 1,5,43,Self-reported living with HIV & on ART,71,0,0
+Round 1,5,44,Self-reported living with HIV & NOT on ART,20,1,0
+Round 1,5,44,Tested positive by CHiP,91,13,2
+Round 1,5,44,Tested negative by CHiP,693,6,0
+Round 1,5,44,Not tested/indeterminate,255,0,0
+Round 1,5,44,Self-reported living with HIV & on ART,73,2,1
+Round 1,5,45,Self-reported living with HIV & NOT on ART,15,0,0
+Round 1,5,45,Tested positive by CHiP,46,2,1
+Round 1,5,45,Tested negative by CHiP,715,6,1
+Round 1,5,45,Not tested/indeterminate,291,0,0
+Round 1,5,45,Self-reported living with HIV & on ART,83,1,0
+Round 1,5,46,Self-reported living with HIV & NOT on ART,7,2,2
+Round 1,5,46,Tested positive by CHiP,94,1,0
+Round 1,5,46,Tested negative by CHiP,822,3,0
+Round 1,5,46,Not tested/indeterminate,181,1,0
+Round 1,5,46,Self-reported living with HIV & on ART,94,2,0
+Round 1,5,47,Self-reported living with HIV & NOT on ART,6,0,0
+Round 1,5,47,Tested positive by CHiP,64,1,0
+Round 1,5,47,Tested negative by CHiP,816,5,0
+Round 1,5,47,Not tested/indeterminate,472,3,0
+Round 1,5,47,Self-reported living with HIV & on ART,94,2,0
+Round 1,5,48,Self-reported living with HIV & NOT on ART,10,0,0
+Round 1,5,48,Tested positive by CHiP,63,1,0
+Round 1,5,48,Tested negative by CHiP,765,7,1
+Round 1,5,48,Not tested/indeterminate,117,2,0
+Round 1,5,48,Self-reported living with HIV & on ART,53,0,0
+Round 1,5,49,Self-reported living with HIV & NOT on ART,4,1,0
+Round 1,5,49,Tested positive by CHiP,73,7,0
+Round 1,5,49,Tested negative by CHiP,790,15,1
+Round 1,5,49,Not tested/indeterminate,256,5,1
+Round 1,5,49,Self-reported living with HIV & on ART,78,4,0
+Round 1,5,50,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,5,50,Tested positive by CHiP,101,2,0
+Round 1,5,50,Tested negative by CHiP,780,8,0
+Round 1,5,50,Not tested/indeterminate,17,1,0
+Round 1,5,50,Self-reported living with HIV & on ART,69,0,0
+Round 1,6,51,Self-reported living with HIV & NOT on ART,15,0,0
+Round 1,6,51,Tested positive by CHiP,48,4,0
+Round 1,6,51,Tested negative by CHiP,535,13,2
+Round 1,6,51,Not tested/indeterminate,387,3,0
+Round 1,6,51,Self-reported living with HIV & on ART,50,1,0
+Round 1,6,52,Self-reported living with HIV & NOT on ART,15,1,0
+Round 1,6,52,Tested positive by CHiP,64,4,0
+Round 1,6,52,Tested negative by CHiP,711,10,0
+Round 1,6,52,Not tested/indeterminate,520,2,0
+Round 1,6,52,Self-reported living with HIV & on ART,97,5,0
+Round 1,6,53,Self-reported living with HIV & NOT on ART,10,0,0
+Round 1,6,53,Tested positive by CHiP,41,2,0
+Round 1,6,53,Tested negative by CHiP,529,7,1
+Round 1,6,53,Not tested/indeterminate,513,2,0
+Round 1,6,53,Self-reported living with HIV & on ART,47,4,1
+Round 1,6,54,Self-reported living with HIV & NOT on ART,16,1,0
+Round 1,6,54,Tested positive by CHiP,49,3,0
+Round 1,6,54,Tested negative by CHiP,926,29,0
+Round 1,6,54,Not tested/indeterminate,333,5,0
+Round 1,6,54,Self-reported living with HIV & on ART,61,3,0
+Round 1,6,55,Self-reported living with HIV & NOT on ART,23,2,1
+Round 1,6,55,Tested positive by CHiP,61,7,0
+Round 1,6,55,Tested negative by CHiP,728,8,0
+Round 1,6,55,Not tested/indeterminate,261,6,0
+Round 1,6,55,Self-reported living with HIV & on ART,85,4,0
+Round 1,6,56,Self-reported living with HIV & NOT on ART,20,1,0
+Round 1,6,56,Tested positive by CHiP,29,1,0
+Round 1,6,56,Tested negative by CHiP,609,5,0
+Round 1,6,56,Not tested/indeterminate,365,0,0
+Round 1,6,56,Self-reported living with HIV & on ART,83,1,0
+Round 1,6,57,Self-reported living with HIV & NOT on ART,26,0,0
+Round 1,6,57,Tested positive by CHiP,53,0,0
+Round 1,6,57,Tested negative by CHiP,449,5,0
+Round 1,6,57,Not tested/indeterminate,317,0,0
+Round 1,6,57,Self-reported living with HIV & on ART,77,0,0
+Round 1,6,58,Self-reported living with HIV & NOT on ART,14,0,0
+Round 1,6,58,Tested positive by CHiP,71,2,1
+Round 1,6,58,Tested negative by CHiP,713,3,0
+Round 1,6,58,Not tested/indeterminate,271,1,0
+Round 1,6,58,Self-reported living with HIV & on ART,89,3,1
+Round 1,6,59,Self-reported living with HIV & NOT on ART,24,1,0
+Round 1,6,59,Tested positive by CHiP,45,3,0
+Round 1,6,59,Tested negative by CHiP,501,5,0
+Round 1,6,59,Not tested/indeterminate,416,0,0
+Round 1,6,59,Self-reported living with HIV & on ART,92,2,0
+Round 1,6,60,Self-reported living with HIV & NOT on ART,14,1,0
+Round 1,6,60,Tested positive by CHiP,44,5,0
+Round 1,6,60,Tested negative by CHiP,598,5,0
+Round 1,6,60,Not tested/indeterminate,152,1,0
+Round 1,6,60,Self-reported living with HIV & on ART,91,1,0
+Round 1,6,61,Self-reported living with HIV & NOT on ART,19,0,0
+Round 1,6,61,Tested positive by CHiP,84,1,0
+Round 1,6,61,Tested negative by CHiP,644,3,0
+Round 1,6,61,Not tested/indeterminate,605,1,0
+Round 1,6,61,Self-reported living with HIV & on ART,107,2,0
+Round 1,6,62,Self-reported living with HIV & NOT on ART,34,2,0
+Round 1,6,62,Tested positive by CHiP,102,11,3
+Round 1,6,62,Tested negative by CHiP,914,13,0
+Round 1,6,62,Not tested/indeterminate,263,0,0
+Round 1,6,62,Self-reported living with HIV & on ART,132,2,0
+Round 1,6,63,Self-reported living with HIV & NOT on ART,18,0,0
+Round 1,6,63,Tested positive by CHiP,45,1,0
+Round 1,6,63,Tested negative by CHiP,914,1,0
+Round 1,6,63,Not tested/indeterminate,194,0,0
+Round 1,6,63,Self-reported living with HIV & on ART,78,0,0
+Round 1,6,64,Self-reported living with HIV & NOT on ART,21,0,0
+Round 1,6,64,Tested positive by CHiP,75,2,0
+Round 1,6,64,Tested negative by CHiP,725,10,1
+Round 1,6,64,Not tested/indeterminate,347,0,0
+Round 1,6,64,Self-reported living with HIV & on ART,120,1,0
+Round 1,6,65,Self-reported living with HIV & NOT on ART,29,2,0
+Round 1,6,65,Tested positive by CHiP,61,5,1
+Round 1,6,65,Tested negative by CHiP,658,5,1
+Round 1,6,65,Not tested/indeterminate,368,0,0
+Round 1,6,65,Self-reported living with HIV & on ART,95,2,0
+Round 1,6,66,Self-reported living with HIV & NOT on ART,19,2,0
+Round 1,6,66,Tested positive by CHiP,33,1,0
+Round 1,6,66,Tested negative by CHiP,459,5,0
+Round 1,6,66,Not tested/indeterminate,217,2,0
+Round 1,6,66,Self-reported living with HIV & on ART,90,5,0
+Round 1,8,67,Self-reported living with HIV & NOT on ART,8,0,0
+Round 1,8,67,Tested positive by CHiP,130,11,0
+Round 1,8,67,Tested negative by CHiP,627,12,2
+Round 1,8,67,Not tested/indeterminate,394,0,0
+Round 1,8,67,Self-reported living with HIV & on ART,126,5,1
+Round 1,8,68,Self-reported living with HIV & NOT on ART,16,0,0
+Round 1,8,68,Tested positive by CHiP,78,4,0
+Round 1,8,68,Tested negative by CHiP,622,8,1
+Round 1,8,68,Not tested/indeterminate,278,1,0
+Round 1,8,68,Self-reported living with HIV & on ART,123,7,1
+Round 1,8,69,Self-reported living with HIV & NOT on ART,21,1,0
+Round 1,8,69,Tested positive by CHiP,85,4,1
+Round 1,8,69,Tested negative by CHiP,703,13,0
+Round 1,8,69,Not tested/indeterminate,345,3,0
+Round 1,8,69,Self-reported living with HIV & on ART,85,6,1
+Round 1,8,70,Self-reported living with HIV & NOT on ART,33,5,1
+Round 1,8,70,Tested positive by CHiP,83,12,0
+Round 1,8,70,Tested negative by CHiP,786,13,0
+Round 1,8,70,Not tested/indeterminate,108,0,0
+Round 1,8,70,Self-reported living with HIV & on ART,92,2,0
+Round 1,8,71,Self-reported living with HIV & NOT on ART,11,0,0
+Round 1,8,71,Tested positive by CHiP,59,11,2
+Round 1,8,71,Tested negative by CHiP,718,10,3
+Round 1,8,71,Not tested/indeterminate,48,0,0
+Round 1,8,71,Self-reported living with HIV & on ART,79,3,1
+Round 1,8,72,Self-reported living with HIV & NOT on ART,18,1,1
+Round 1,8,72,Tested positive by CHiP,60,5,2
+Round 1,8,72,Tested negative by CHiP,468,12,0
+Round 1,8,72,Not tested/indeterminate,225,2,0
+Round 1,8,72,Self-reported living with HIV & on ART,89,9,1
+Round 1,8,73,Self-reported living with HIV & NOT on ART,12,1,0
+Round 1,8,73,Tested positive by CHiP,52,3,0
+Round 1,8,73,Tested negative by CHiP,666,8,0
+Round 1,8,73,Not tested/indeterminate,269,1,0
+Round 1,8,73,Self-reported living with HIV & on ART,78,1,0
+Round 1,8,74,Self-reported living with HIV & NOT on ART,10,1,0
+Round 1,8,74,Tested positive by CHiP,45,8,0
+Round 1,8,74,Tested negative by CHiP,453,8,0
+Round 1,8,74,Not tested/indeterminate,90,1,0
+Round 1,8,74,Self-reported living with HIV & on ART,35,2,0
+Round 1,8,75,Self-reported living with HIV & NOT on ART,10,1,0
+Round 1,8,75,Tested positive by CHiP,40,4,1
+Round 1,8,75,Tested negative by CHiP,685,20,0
+Round 1,8,75,Not tested/indeterminate,227,2,0
+Round 1,8,75,Self-reported living with HIV & on ART,74,4,0
+Round 1,8,76,Self-reported living with HIV & NOT on ART,4,0,0
+Round 1,8,76,Tested positive by CHiP,47,0,0
+Round 1,8,76,Tested negative by CHiP,671,0,0
+Round 1,8,76,Not tested/indeterminate,182,0,0
+Round 1,8,76,Self-reported living with HIV & on ART,65,3,0
+Round 1,8,77,Self-reported living with HIV & NOT on ART,10,3,1
+Round 1,8,77,Tested positive by CHiP,54,8,0
+Round 1,8,77,Tested negative by CHiP,825,6,0
+Round 1,8,77,Not tested/indeterminate,122,1,0
+Round 1,8,77,Self-reported living with HIV & on ART,60,2,0
+Round 1,8,78,Self-reported living with HIV & NOT on ART,10,0,0
+Round 1,8,78,Tested positive by CHiP,64,8,1
+Round 1,8,78,Tested negative by CHiP,728,4,0
+Round 1,8,78,Not tested/indeterminate,163,1,1
+Round 1,8,78,Self-reported living with HIV & on ART,77,3,0
+Round 1,8,79,Self-reported living with HIV & NOT on ART,22,1,0
+Round 1,8,79,Tested positive by CHiP,114,9,0
+Round 1,8,79,Tested negative by CHiP,864,9,0
+Round 1,8,79,Not tested/indeterminate,249,0,0
+Round 1,8,79,Self-reported living with HIV & on ART,83,1,1
+Round 1,8,80,Self-reported living with HIV & NOT on ART,11,0,0
+Round 1,8,80,Tested positive by CHiP,89,5,0
+Round 1,8,80,Tested negative by CHiP,837,12,0
+Round 1,8,80,Not tested/indeterminate,177,2,1
+Round 1,8,80,Self-reported living with HIV & on ART,68,4,0
+Round 1,8,81,Self-reported living with HIV & NOT on ART,4,0,0
+Round 1,8,81,Tested positive by CHiP,49,2,0
+Round 1,8,81,Tested negative by CHiP,655,0,0
+Round 1,8,81,Not tested/indeterminate,139,0,0
+Round 1,8,81,Self-reported living with HIV & on ART,52,0,0
+Round 1,8,82,Self-reported living with HIV & NOT on ART,20,0,0
+Round 1,8,82,Tested positive by CHiP,37,1,0
+Round 1,8,82,Tested negative by CHiP,862,8,0
+Round 1,8,82,Not tested/indeterminate,81,0,0
+Round 1,8,82,Self-reported living with HIV & on ART,71,2,0
+Round 1,8,83,Self-reported living with HIV & NOT on ART,16,0,0
+Round 1,8,83,Tested positive by CHiP,41,0,0
+Round 1,8,83,Tested negative by CHiP,467,2,0
+Round 1,8,83,Not tested/indeterminate,245,0,0
+Round 1,8,83,Self-reported living with HIV & on ART,77,1,0
+Round 1,8,84,Self-reported living with HIV & NOT on ART,12,0,0
+Round 1,8,84,Tested positive by CHiP,30,1,0
+Round 1,8,84,Tested negative by CHiP,510,3,0
+Round 1,8,84,Not tested/indeterminate,133,2,0
+Round 1,8,84,Self-reported living with HIV & on ART,34,1,0
+Round 1,8,85,Self-reported living with HIV & NOT on ART,3,0,0
+Round 1,8,85,Tested positive by CHiP,14,0,0
+Round 1,8,85,Tested negative by CHiP,387,2,0
+Round 1,8,85,Not tested/indeterminate,296,0,0
+Round 1,8,85,Self-reported living with HIV & on ART,23,1,0
+Round 1,8,86,Self-reported living with HIV & NOT on ART,11,1,0
+Round 1,8,86,Tested positive by CHiP,33,2,0
+Round 1,8,86,Tested negative by CHiP,844,1,0
+Round 1,8,86,Not tested/indeterminate,72,0,0
+Round 1,8,86,Self-reported living with HIV & on ART,46,0,0
+Round 1,8,87,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,8,87,Tested positive by CHiP,42,0,0
+Round 1,8,87,Tested negative by CHiP,711,5,0
+Round 1,8,87,Not tested/indeterminate,59,1,0
+Round 1,8,87,Self-reported living with HIV & on ART,50,0,0
+Round 1,8,88,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,8,88,Tested positive by CHiP,30,1,0
+Round 1,8,88,Tested negative by CHiP,715,6,0
+Round 1,8,88,Not tested/indeterminate,115,0,0
+Round 1,8,88,Self-reported living with HIV & on ART,41,3,0
+Round 1,8,89,Self-reported living with HIV & NOT on ART,8,1,0
+Round 1,8,89,Tested positive by CHiP,29,2,0
+Round 1,8,89,Tested negative by CHiP,556,21,1
+Round 1,8,89,Not tested/indeterminate,51,9,0
+Round 1,8,89,Self-reported living with HIV & on ART,15,0,0
+Round 1,8,90,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,8,90,Tested positive by CHiP,39,1,0
+Round 1,8,90,Tested negative by CHiP,649,6,0
+Round 1,8,90,Not tested/indeterminate,148,0,0
+Round 1,8,90,Self-reported living with HIV & on ART,32,1,0
+Round 1,8,91,Self-reported living with HIV & NOT on ART,3,2,0
+Round 1,8,91,Tested positive by CHiP,30,3,0
+Round 1,8,91,Tested negative by CHiP,347,6,1
+Round 1,8,91,Not tested/indeterminate,319,2,0
+Round 1,8,91,Self-reported living with HIV & on ART,32,1,0
+Round 1,8,92,Self-reported living with HIV & NOT on ART,8,1,0
+Round 1,8,92,Tested positive by CHiP,28,2,0
+Round 1,8,92,Tested negative by CHiP,571,5,0
+Round 1,8,92,Not tested/indeterminate,324,2,0
+Round 1,8,92,Self-reported living with HIV & on ART,55,3,2
+Round 1,8,93,Self-reported living with HIV & NOT on ART,2,0,0
+Round 1,8,93,Tested positive by CHiP,42,2,1
+Round 1,8,93,Tested negative by CHiP,580,8,0
+Round 1,8,93,Not tested/indeterminate,51,0,0
+Round 1,8,93,Self-reported living with HIV & on ART,34,0,0
+Round 1,8,94,Self-reported living with HIV & NOT on ART,8,0,0
+Round 1,8,94,Tested positive by CHiP,30,1,0
+Round 1,8,94,Tested negative by CHiP,256,3,1
+Round 1,8,94,Not tested/indeterminate,130,0,0
+Round 1,8,94,Self-reported living with HIV & on ART,46,1,0
+Round 1,8,95,Self-reported living with HIV & NOT on ART,6,0,0
+Round 1,8,95,Tested positive by CHiP,49,4,0
+Round 1,8,95,Tested negative by CHiP,414,3,0
+Round 1,8,95,Not tested/indeterminate,45,1,0
+Round 1,8,95,Self-reported living with HIV & on ART,55,1,0
+Round 1,8,96,Self-reported living with HIV & NOT on ART,6,0,0
+Round 1,8,96,Tested positive by CHiP,44,1,0
+Round 1,8,96,Tested negative by CHiP,407,2,0
+Round 1,8,96,Not tested/indeterminate,632,0,0
+Round 1,8,96,Self-reported living with HIV & on ART,98,0,0
+Round 1,8,97,Self-reported living with HIV & NOT on ART,8,0,0
+Round 1,8,97,Tested positive by CHiP,35,6,1
+Round 1,8,97,Tested negative by CHiP,434,3,0
+Round 1,8,97,Not tested/indeterminate,288,1,0
+Round 1,8,97,Self-reported living with HIV & on ART,69,1,0
+Round 1,8,98,Self-reported living with HIV & NOT on ART,11,3,0
+Round 1,8,98,Tested positive by CHiP,42,8,0
+Round 1,8,98,Tested negative by CHiP,293,9,2
+Round 1,8,98,Not tested/indeterminate,125,1,0
+Round 1,8,98,Self-reported living with HIV & on ART,62,4,0
+Round 1,8,99,Self-reported living with HIV & NOT on ART,6,1,0
+Round 1,8,99,Tested positive by CHiP,16,2,0
+Round 1,8,99,Tested negative by CHiP,473,4,1
+Round 1,8,99,Not tested/indeterminate,196,0,0
+Round 1,8,99,Self-reported living with HIV & on ART,43,5,0
+Round 1,8,100,Self-reported living with HIV & NOT on ART,3,0,0
+Round 1,8,100,Tested positive by CHiP,54,11,0
+Round 1,8,100,Tested negative by CHiP,507,6,0
+Round 1,8,100,Not tested/indeterminate,493,0,0
+Round 1,8,100,Self-reported living with HIV & on ART,35,2,0
+Round 1,8,101,Self-reported living with HIV & NOT on ART,5,0,0
+Round 1,8,101,Tested positive by CHiP,17,1,0
+Round 1,8,101,Tested negative by CHiP,388,5,1
+Round 1,8,101,Not tested/indeterminate,66,0,0
+Round 1,8,101,Self-reported living with HIV & on ART,14,2,1
+Round 1,8,102,Self-reported living with HIV & NOT on ART,11,1,0
+Round 1,8,102,Tested positive by CHiP,24,1,0
+Round 1,8,102,Tested negative by CHiP,439,2,0
+Round 1,8,102,Not tested/indeterminate,437,5,0
+Round 1,8,102,Self-reported living with HIV & on ART,55,2,0
+Round 1,8,103,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,8,103,Tested positive by CHiP,28,2,0
+Round 1,8,103,Tested negative by CHiP,375,2,0
+Round 1,8,103,Not tested/indeterminate,239,1,0
+Round 1,8,103,Self-reported living with HIV & on ART,42,1,0
+Round 1,8,104,Self-reported living with HIV & NOT on ART,9,2,0
+Round 1,8,104,Tested positive by CHiP,50,2,0
+Round 1,8,104,Tested negative by CHiP,501,3,0
+Round 1,8,104,Not tested/indeterminate,104,0,0
+Round 1,8,104,Self-reported living with HIV & on ART,53,2,0
+Round 1,8,105,Self-reported living with HIV & NOT on ART,10,1,0
+Round 1,8,105,Tested positive by CHiP,27,1,0
+Round 1,8,105,Tested negative by CHiP,349,4,0
+Round 1,8,105,Not tested/indeterminate,204,1,0
+Round 1,8,105,Self-reported living with HIV & on ART,54,1,0
+Round 1,8,106,Self-reported living with HIV & NOT on ART,4,0,0
+Round 1,8,106,Tested positive by CHiP,8,1,0
+Round 1,8,106,Tested negative by CHiP,257,2,0
+Round 1,8,106,Not tested/indeterminate,75,0,0
+Round 1,8,106,Self-reported living with HIV & on ART,13,0,0
+Round 1,8,107,Self-reported living with HIV & NOT on ART,11,0,0
+Round 1,8,107,Tested positive by CHiP,65,5,0
+Round 1,8,107,Tested negative by CHiP,555,9,0
+Round 1,8,107,Not tested/indeterminate,267,1,0
+Round 1,8,107,Self-reported living with HIV & on ART,96,4,0
+Round 1,8,108,Self-reported living with HIV & NOT on ART,2,1,0
+Round 1,8,108,Tested positive by CHiP,36,4,0
+Round 1,8,108,Tested negative by CHiP,620,2,0
+Round 1,8,108,Not tested/indeterminate,103,1,1
+Round 1,8,108,Self-reported living with HIV & on ART,32,0,0
+Round 1,8,109,Self-reported living with HIV & NOT on ART,12,1,0
+Round 1,8,109,Tested positive by CHiP,42,4,1
+Round 1,8,109,Tested negative by CHiP,780,4,0
+Round 1,8,109,Not tested/indeterminate,268,2,0
+Round 1,8,109,Self-reported living with HIV & on ART,76,3,1
+Round 1,8,110,Self-reported living with HIV & NOT on ART,21,0,0
+Round 1,8,110,Tested positive by CHiP,83,8,0
+Round 1,8,110,Tested negative by CHiP,821,6,1
+Round 1,8,110,Not tested/indeterminate,549,1,1
+Round 1,8,110,Self-reported living with HIV & on ART,99,2,0
+Round 1,8,111,Self-reported living with HIV & NOT on ART,30,0,0
+Round 1,8,111,Tested positive by CHiP,37,4,0
+Round 1,8,111,Tested negative by CHiP,489,0,0
+Round 1,8,111,Not tested/indeterminate,743,0,0
+Round 1,8,111,Self-reported living with HIV & on ART,56,1,0
+Round 1,8,112,Self-reported living with HIV & NOT on ART,3,0,0
+Round 1,8,112,Tested positive by CHiP,46,4,0
+Round 1,8,112,Tested negative by CHiP,522,10,0
+Round 1,8,112,Not tested/indeterminate,97,0,0
+Round 1,8,112,Self-reported living with HIV & on ART,27,0,0
+Round 1,8,113,Self-reported living with HIV & NOT on ART,4,0,0
+Round 1,8,113,Tested positive by CHiP,31,4,1
+Round 1,8,113,Tested negative by CHiP,671,5,0
+Round 1,8,113,Not tested/indeterminate,358,3,0
+Round 1,8,113,Self-reported living with HIV & on ART,22,0,0
+Round 1,8,114,Self-reported living with HIV & NOT on ART,6,0,0
+Round 1,8,114,Tested positive by CHiP,36,4,0
+Round 1,8,114,Tested negative by CHiP,676,4,1
+Round 1,8,114,Not tested/indeterminate,149,0,0
+Round 1,8,114,Self-reported living with HIV & on ART,60,2,0
+Round 1,8,115,Self-reported living with HIV & NOT on ART,5,0,0
+Round 1,8,115,Tested positive by CHiP,42,1,0
+Round 1,8,115,Tested negative by CHiP,568,4,0
+Round 1,8,115,Not tested/indeterminate,389,0,0
+Round 1,8,115,Self-reported living with HIV & on ART,52,1,0
+Round 1,8,116,Self-reported living with HIV & NOT on ART,4,0,0
+Round 1,8,116,Tested positive by CHiP,34,2,0
+Round 1,8,116,Tested negative by CHiP,525,15,2
+Round 1,8,116,Not tested/indeterminate,211,2,0
+Round 1,8,116,Self-reported living with HIV & on ART,61,1,0
+Round 1,8,117,Self-reported living with HIV & NOT on ART,1,0,0
+Round 1,8,117,Tested positive by CHiP,35,6,1
+Round 1,8,117,Tested negative by CHiP,510,3,0
+Round 1,8,117,Not tested/indeterminate,66,1,0
+Round 1,8,117,Self-reported living with HIV & on ART,41,0,0
+Round 1,8,118,Self-reported living with HIV & NOT on ART,11,0,0
+Round 1,8,118,Tested positive by CHiP,35,2,0
+Round 1,8,118,Tested negative by CHiP,349,2,0
+Round 1,8,118,Not tested/indeterminate,132,0,0
+Round 1,8,118,Self-reported living with HIV & on ART,52,4,2
+Round 1,8,119,Self-reported living with HIV & NOT on ART,6,0,0
+Round 1,8,119,Tested positive by CHiP,32,3,0
+Round 1,8,119,Tested negative by CHiP,726,2,0
+Round 1,8,119,Not tested/indeterminate,63,0,0
+Round 1,8,119,Self-reported living with HIV & on ART,44,3,0
+Round 1,8,120,Self-reported living with HIV & NOT on ART,11,1,0
+Round 1,8,120,Tested positive by CHiP,43,1,0
+Round 1,8,120,Tested negative by CHiP,519,5,2
+Round 1,8,120,Not tested/indeterminate,170,0,0
+Round 1,8,120,Self-reported living with HIV & on ART,40,1,0
+Round 1,9,121,Self-reported living with HIV & NOT on ART,16,2,0
+Round 1,9,121,Tested positive by CHiP,20,0,0
+Round 1,9,121,Tested negative by CHiP,549,5,0
+Round 1,9,121,Not tested/indeterminate,349,0,0
+Round 1,9,121,Self-reported living with HIV & on ART,31,1,0
+Round 1,9,122,Self-reported living with HIV & NOT on ART,22,0,0
+Round 1,9,122,Tested positive by CHiP,40,1,0
+Round 1,9,122,Tested negative by CHiP,425,2,0
+Round 1,9,122,Not tested/indeterminate,473,5,1
+Round 1,9,122,Self-reported living with HIV & on ART,49,1,1
+Round 1,9,123,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,9,123,Tested positive by CHiP,27,1,0
+Round 1,9,123,Tested negative by CHiP,350,2,0
+Round 1,9,123,Not tested/indeterminate,528,4,0
+Round 1,9,123,Self-reported living with HIV & on ART,44,0,0
+Round 1,9,124,Self-reported living with HIV & NOT on ART,13,1,0
+Round 1,9,124,Tested positive by CHiP,22,5,0
+Round 1,9,124,Tested negative by CHiP,326,2,0
+Round 1,9,124,Not tested/indeterminate,76,0,0
+Round 1,9,124,Self-reported living with HIV & on ART,68,4,0
+Round 1,9,125,Self-reported living with HIV & NOT on ART,19,1,0
+Round 1,9,125,Tested positive by CHiP,33,3,0
+Round 1,9,125,Tested negative by CHiP,460,4,0
+Round 1,9,125,Not tested/indeterminate,377,1,0
+Round 1,9,125,Self-reported living with HIV & on ART,76,0,0
+Round 1,9,126,Self-reported living with HIV & NOT on ART,9,1,1
+Round 1,9,126,Tested positive by CHiP,17,1,0
+Round 1,9,126,Tested negative by CHiP,356,5,0
+Round 1,9,126,Not tested/indeterminate,436,1,0
+Round 1,9,126,Self-reported living with HIV & on ART,38,0,0
+Round 1,9,127,Self-reported living with HIV & NOT on ART,13,4,0
+Round 1,9,127,Tested positive by CHiP,47,7,0
+Round 1,9,127,Tested negative by CHiP,364,16,0
+Round 1,9,127,Not tested/indeterminate,229,5,0
+Round 1,9,127,Self-reported living with HIV & on ART,43,2,0
+Round 1,9,128,Self-reported living with HIV & NOT on ART,15,1,0
+Round 1,9,128,Tested positive by CHiP,19,0,0
+Round 1,9,128,Tested negative by CHiP,318,2,1
+Round 1,9,128,Not tested/indeterminate,320,3,0
+Round 1,9,128,Self-reported living with HIV & on ART,42,2,0
+Round 1,9,129,Self-reported living with HIV & NOT on ART,13,1,1
+Round 1,9,129,Tested positive by CHiP,21,6,0
+Round 1,9,129,Tested negative by CHiP,333,5,1
+Round 1,9,129,Not tested/indeterminate,744,4,1
+Round 1,9,129,Self-reported living with HIV & on ART,25,2,0
+Round 1,9,130,Self-reported living with HIV & NOT on ART,5,0,0
+Round 1,9,130,Tested positive by CHiP,18,0,0
+Round 1,9,130,Tested negative by CHiP,483,1,0
+Round 1,9,130,Not tested/indeterminate,437,1,0
+Round 1,9,130,Self-reported living with HIV & on ART,32,1,0
+Round 1,9,131,Self-reported living with HIV & NOT on ART,8,0,0
+Round 1,9,131,Tested positive by CHiP,10,0,0
+Round 1,9,131,Tested negative by CHiP,248,3,0
+Round 1,9,131,Not tested/indeterminate,449,1,0
+Round 1,9,131,Self-reported living with HIV & on ART,27,1,0
+Round 1,9,132,Self-reported living with HIV & NOT on ART,15,2,0
+Round 1,9,132,Tested positive by CHiP,35,2,0
+Round 1,9,132,Tested negative by CHiP,351,32,1
+Round 1,9,132,Not tested/indeterminate,322,23,0
+Round 1,9,132,Self-reported living with HIV & on ART,52,4,0
+Round 1,9,133,Self-reported living with HIV & NOT on ART,9,2,0
+Round 1,9,133,Tested positive by CHiP,39,4,1
+Round 1,9,133,Tested negative by CHiP,448,4,0
+Round 1,9,133,Not tested/indeterminate,136,0,0
+Round 1,9,133,Self-reported living with HIV & on ART,52,1,0
+Round 1,9,134,Self-reported living with HIV & NOT on ART,14,2,1
+Round 1,9,134,Tested positive by CHiP,30,0,0
+Round 1,9,134,Tested negative by CHiP,736,13,0
+Round 1,9,134,Not tested/indeterminate,228,5,0
+Round 1,9,134,Self-reported living with HIV & on ART,17,2,0
+Round 1,9,135,Self-reported living with HIV & NOT on ART,23,0,0
+Round 1,9,135,Tested positive by CHiP,33,0,0
+Round 1,9,135,Tested negative by CHiP,410,3,0
+Round 1,9,135,Not tested/indeterminate,704,1,0
+Round 1,9,135,Self-reported living with HIV & on ART,76,0,0
+Round 1,9,136,Self-reported living with HIV & NOT on ART,12,1,0
+Round 1,9,136,Tested positive by CHiP,15,0,0
+Round 1,9,136,Tested negative by CHiP,442,0,0
+Round 1,9,136,Not tested/indeterminate,739,0,0
+Round 1,9,136,Self-reported living with HIV & on ART,53,0,0
+Round 1,9,137,Self-reported living with HIV & NOT on ART,17,0,0
+Round 1,9,137,Tested positive by CHiP,36,1,0
+Round 1,9,137,Tested negative by CHiP,773,0,0
+Round 1,9,137,Not tested/indeterminate,176,0,0
+Round 1,9,137,Self-reported living with HIV & on ART,64,1,1
+Round 1,9,138,Self-reported living with HIV & NOT on ART,16,1,0
+Round 1,9,138,Tested positive by CHiP,30,3,1
+Round 1,9,138,Tested negative by CHiP,599,14,0
+Round 1,9,138,Not tested/indeterminate,264,5,0
+Round 1,9,138,Self-reported living with HIV & on ART,36,0,0
+Round 1,9,139,Self-reported living with HIV & NOT on ART,14,0,0
+Round 1,9,139,Tested positive by CHiP,16,1,0
+Round 1,9,139,Tested negative by CHiP,490,6,0
+Round 1,9,139,Not tested/indeterminate,565,0,0
+Round 1,9,139,Self-reported living with HIV & on ART,46,0,0
+Round 1,9,140,Self-reported living with HIV & NOT on ART,21,0,0
+Round 1,9,140,Tested positive by CHiP,51,2,1
+Round 1,9,140,Tested negative by CHiP,591,9,0
+Round 1,9,140,Not tested/indeterminate,731,0,0
+Round 1,9,140,Self-reported living with HIV & on ART,94,1,0
+Round 1,9,141,Self-reported living with HIV & NOT on ART,6,0,0
+Round 1,9,141,Tested positive by CHiP,30,1,0
+Round 1,9,141,Tested negative by CHiP,302,4,1
+Round 1,9,141,Not tested/indeterminate,758,3,0
+Round 1,9,141,Self-reported living with HIV & on ART,50,1,0
+Round 1,9,142,Self-reported living with HIV & NOT on ART,28,0,0
+Round 1,9,142,Tested positive by CHiP,25,0,0
+Round 1,9,142,Tested negative by CHiP,355,1,0
+Round 1,9,142,Not tested/indeterminate,664,1,0
+Round 1,9,142,Self-reported living with HIV & on ART,64,0,0
+Round 1,9,143,Self-reported living with HIV & NOT on ART,13,0,0
+Round 1,9,143,Tested positive by CHiP,16,0,0
+Round 1,9,143,Tested negative by CHiP,471,1,1
+Round 1,9,143,Not tested/indeterminate,304,0,0
+Round 1,9,143,Self-reported living with HIV & on ART,36,0,0
+Round 1,9,144,Self-reported living with HIV & NOT on ART,20,2,0
+Round 1,9,144,Tested positive by CHiP,31,1,0
+Round 1,9,144,Tested negative by CHiP,492,5,0
+Round 1,9,144,Not tested/indeterminate,549,1,0
+Round 1,9,144,Self-reported living with HIV & on ART,53,1,0
+Round 1,9,145,Self-reported living with HIV & NOT on ART,14,0,0
+Round 1,9,145,Tested positive by CHiP,28,0,0
+Round 1,9,145,Tested negative by CHiP,418,8,0
+Round 1,9,145,Not tested/indeterminate,779,1,0
+Round 1,9,145,Self-reported living with HIV & on ART,49,2,0
+Round 1,9,146,Self-reported living with HIV & NOT on ART,10,0,0
+Round 1,9,146,Tested positive by CHiP,25,2,0
+Round 1,9,146,Tested negative by CHiP,595,0,0
+Round 1,9,146,Not tested/indeterminate,374,2,0
+Round 1,9,146,Self-reported living with HIV & on ART,45,0,0
+Round 1,9,147,Self-reported living with HIV & NOT on ART,21,1,0
+Round 1,9,147,Tested positive by CHiP,22,2,0
+Round 1,9,147,Tested negative by CHiP,262,3,0
+Round 1,9,147,Not tested/indeterminate,155,0,0
+Round 1,9,147,Self-reported living with HIV & on ART,58,2,0
+Round 1,9,148,Self-reported living with HIV & NOT on ART,11,1,0
+Round 1,9,148,Tested positive by CHiP,36,3,1
+Round 1,9,148,Tested negative by CHiP,766,13,1
+Round 1,9,148,Not tested/indeterminate,361,2,0
+Round 1,9,148,Self-reported living with HIV & on ART,51,1,0
+Round 1,9,149,Self-reported living with HIV & NOT on ART,19,1,1
+Round 1,9,149,Tested positive by CHiP,60,1,0
+Round 1,9,149,Tested negative by CHiP,532,5,0
+Round 1,9,149,Not tested/indeterminate,610,1,0
+Round 1,9,149,Self-reported living with HIV & on ART,89,3,0
+Round 1,9,150,Self-reported living with HIV & NOT on ART,17,0,0
+Round 1,9,150,Tested positive by CHiP,59,3,2
+Round 1,9,150,Tested negative by CHiP,713,2,0
+Round 1,9,150,Not tested/indeterminate,86,0,0
+Round 1,9,150,Self-reported living with HIV & on ART,35,0,0
+Round 1,9,151,Self-reported living with HIV & NOT on ART,18,0,0
+Round 1,9,151,Tested positive by CHiP,51,9,0
+Round 1,9,151,Tested negative by CHiP,612,5,1
+Round 1,9,151,Not tested/indeterminate,91,1,0
+Round 1,9,151,Self-reported living with HIV & on ART,57,3,0
+Round 1,9,152,Self-reported living with HIV & NOT on ART,16,1,0
+Round 1,9,152,Tested positive by CHiP,39,8,0
+Round 1,9,152,Tested negative by CHiP,529,5,0
+Round 1,9,152,Not tested/indeterminate,242,0,0
+Round 1,9,152,Self-reported living with HIV & on ART,57,3,0
+Round 1,9,153,Self-reported living with HIV & NOT on ART,14,0,0
+Round 1,9,153,Tested positive by CHiP,42,1,0
+Round 1,9,153,Tested negative by CHiP,707,3,0
+Round 1,9,153,Not tested/indeterminate,344,1,0
+Round 1,9,153,Self-reported living with HIV & on ART,45,3,0
+Round 1,9,154,Self-reported living with HIV & NOT on ART,26,2,0
+Round 1,9,154,Tested positive by CHiP,40,5,1
+Round 1,9,154,Tested negative by CHiP,317,14,0
+Round 1,9,154,Not tested/indeterminate,382,13,0
+Round 1,9,154,Self-reported living with HIV & on ART,66,3,0
+Round 1,9,155,Self-reported living with HIV & NOT on ART,36,1,1
+Round 1,9,155,Tested positive by CHiP,71,1,0
+Round 1,9,155,Tested negative by CHiP,390,5,1
+Round 1,9,155,Not tested/indeterminate,549,0,0
+Round 1,9,155,Self-reported living with HIV & on ART,80,0,0
+Round 1,9,156,Self-reported living with HIV & NOT on ART,41,2,0
+Round 1,9,156,Tested positive by CHiP,106,13,0
+Round 1,9,156,Tested negative by CHiP,819,12,0
+Round 1,9,156,Not tested/indeterminate,76,0,0
+Round 1,9,156,Self-reported living with HIV & on ART,104,2,0
+Round 1,9,157,Self-reported living with HIV & NOT on ART,25,0,0
+Round 1,9,157,Tested positive by CHiP,51,3,0
+Round 1,9,157,Tested negative by CHiP,503,3,0
+Round 1,9,157,Not tested/indeterminate,412,1,0
+Round 1,9,157,Self-reported living with HIV & on ART,97,1,0
+Round 1,9,158,Self-reported living with HIV & NOT on ART,37,0,0
+Round 1,9,158,Tested positive by CHiP,68,0,0
+Round 1,9,158,Tested negative by CHiP,531,7,0
+Round 1,9,158,Not tested/indeterminate,473,1,0
+Round 1,9,158,Self-reported living with HIV & on ART,100,2,0
+Round 1,9,159,Self-reported living with HIV & NOT on ART,28,1,0
+Round 1,9,159,Tested positive by CHiP,44,3,2
+Round 1,9,159,Tested negative by CHiP,407,6,0
+Round 1,9,159,Not tested/indeterminate,574,2,0
+Round 1,9,159,Self-reported living with HIV & on ART,73,6,0
+Round 1,9,160,Self-reported living with HIV & NOT on ART,24,4,0
+Round 1,9,160,Tested positive by CHiP,34,6,1
+Round 1,9,160,Tested negative by CHiP,309,9,0
+Round 1,9,160,Not tested/indeterminate,268,3,0
+Round 1,9,160,Self-reported living with HIV & on ART,59,0,0
+Round 1,9,161,Self-reported living with HIV & NOT on ART,12,1,0
+Round 1,9,161,Tested positive by CHiP,69,2,1
+Round 1,9,161,Tested negative by CHiP,442,0,0
+Round 1,9,161,Not tested/indeterminate,344,0,0
+Round 1,9,161,Self-reported living with HIV & on ART,47,1,0
+Round 1,9,162,Self-reported living with HIV & NOT on ART,19,0,0
+Round 1,9,162,Tested positive by CHiP,52,3,1
+Round 1,9,162,Tested negative by CHiP,448,8,0
+Round 1,9,162,Not tested/indeterminate,196,3,0
+Round 1,9,162,Self-reported living with HIV & on ART,59,2,0
+Round 1,9,163,Self-reported living with HIV & NOT on ART,12,0,0
+Round 1,9,163,Tested positive by CHiP,40,4,0
+Round 1,9,163,Tested negative by CHiP,325,1,0
+Round 1,9,163,Not tested/indeterminate,208,1,0
+Round 1,9,163,Self-reported living with HIV & on ART,47,5,0
+Round 1,9,164,Self-reported living with HIV & NOT on ART,23,2,0
+Round 1,9,164,Tested positive by CHiP,36,2,0
+Round 1,9,164,Tested negative by CHiP,534,5,0
+Round 1,9,164,Not tested/indeterminate,73,0,0
+Round 1,9,164,Self-reported living with HIV & on ART,94,2,0
+Round 1,9,165,Self-reported living with HIV & NOT on ART,15,1,0
+Round 1,9,165,Tested positive by CHiP,25,1,0
+Round 1,9,165,Tested negative by CHiP,235,1,0
+Round 1,9,165,Not tested/indeterminate,426,2,0
+Round 1,9,165,Self-reported living with HIV & on ART,44,0,0
+Round 1,9,166,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,9,166,Tested positive by CHiP,25,0,0
+Round 1,9,166,Tested negative by CHiP,294,0,0
+Round 1,9,166,Not tested/indeterminate,267,2,0
+Round 1,9,166,Self-reported living with HIV & on ART,57,2,0
+Round 1,9,167,Self-reported living with HIV & NOT on ART,17,0,0
+Round 1,9,167,Tested positive by CHiP,47,3,0
+Round 1,9,167,Tested negative by CHiP,573,5,1
+Round 1,9,167,Not tested/indeterminate,404,2,0
+Round 1,9,167,Self-reported living with HIV & on ART,54,2,0
+Round 1,9,168,Self-reported living with HIV & NOT on ART,12,0,0
+Round 1,9,168,Tested positive by CHiP,36,3,0
+Round 1,9,168,Tested negative by CHiP,394,2,0
+Round 1,9,168,Not tested/indeterminate,680,1,0
+Round 1,9,168,Self-reported living with HIV & on ART,59,1,0
+Round 1,9,169,Self-reported living with HIV & NOT on ART,18,0,0
+Round 1,9,169,Tested positive by CHiP,17,1,1
+Round 1,9,169,Tested negative by CHiP,346,5,0
+Round 1,9,169,Not tested/indeterminate,445,2,0
+Round 1,9,169,Self-reported living with HIV & on ART,40,2,0
+Round 1,9,170,Self-reported living with HIV & NOT on ART,18,1,0
+Round 1,9,170,Tested positive by CHiP,14,0,0
+Round 1,9,170,Tested negative by CHiP,194,1,0
+Round 1,9,170,Not tested/indeterminate,517,0,0
+Round 1,9,170,Self-reported living with HIV & on ART,28,0,0
+Round 1,10,171,Self-reported living with HIV & NOT on ART,19,0,0
+Round 1,10,171,Tested positive by CHiP,40,3,0
+Round 1,10,171,Tested negative by CHiP,321,17,0
+Round 1,10,171,Not tested/indeterminate,446,3,0
+Round 1,10,171,Self-reported living with HIV & on ART,63,5,1
+Round 1,10,172,Self-reported living with HIV & NOT on ART,17,0,0
+Round 1,10,172,Tested positive by CHiP,41,2,0
+Round 1,10,172,Tested negative by CHiP,369,3,1
+Round 1,10,172,Not tested/indeterminate,206,1,0
+Round 1,10,172,Self-reported living with HIV & on ART,68,1,0
+Round 1,10,173,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,10,173,Tested positive by CHiP,15,0,0
+Round 1,10,173,Tested negative by CHiP,345,0,0
+Round 1,10,173,Not tested/indeterminate,539,0,0
+Round 1,10,173,Self-reported living with HIV & on ART,49,1,0
+Round 1,10,174,Self-reported living with HIV & NOT on ART,10,2,0
+Round 1,10,174,Tested positive by CHiP,41,6,1
+Round 1,10,174,Tested negative by CHiP,590,27,0
+Round 1,10,174,Not tested/indeterminate,197,5,0
+Round 1,10,174,Self-reported living with HIV & on ART,79,2,1
+Round 1,10,175,Self-reported living with HIV & NOT on ART,7,0,0
+Round 1,10,175,Tested positive by CHiP,61,1,0
+Round 1,10,175,Tested negative by CHiP,578,2,0
+Round 1,10,175,Not tested/indeterminate,168,1,0
+Round 1,10,175,Self-reported living with HIV & on ART,64,0,0
+Round 1,10,176,Self-reported living with HIV & NOT on ART,22,1,0
+Round 1,10,176,Tested positive by CHiP,43,2,0
+Round 1,10,176,Tested negative by CHiP,399,6,0
+Round 1,10,176,Not tested/indeterminate,483,0,0
+Round 1,10,176,Self-reported living with HIV & on ART,71,0,0
+Round 1,10,177,Self-reported living with HIV & NOT on ART,11,1,0
+Round 1,10,177,Tested positive by CHiP,19,3,0
+Round 1,10,177,Tested negative by CHiP,392,4,0
+Round 1,10,177,Not tested/indeterminate,229,2,0
+Round 1,10,177,Self-reported living with HIV & on ART,44,2,0
+Round 1,10,178,Self-reported living with HIV & NOT on ART,6,0,0
+Round 1,10,178,Tested positive by CHiP,53,1,0
+Round 1,10,178,Tested negative by CHiP,409,3,0
+Round 1,10,178,Not tested/indeterminate,170,0,0
+Round 1,10,178,Self-reported living with HIV & on ART,82,1,0
+Round 1,10,179,Self-reported living with HIV & NOT on ART,27,0,0
+Round 1,10,179,Tested positive by CHiP,54,5,0
+Round 1,10,179,Tested negative by CHiP,501,8,0
+Round 1,10,179,Not tested/indeterminate,421,1,0
+Round 1,10,179,Self-reported living with HIV & on ART,99,5,0
+Round 1,10,180,Self-reported living with HIV & NOT on ART,9,1,0
+Round 1,10,180,Tested positive by CHiP,41,2,0
+Round 1,10,180,Tested negative by CHiP,436,4,0
+Round 1,10,180,Not tested/indeterminate,442,0,0
+Round 1,10,180,Self-reported living with HIV & on ART,101,0,0
+Round 1,10,181,Self-reported living with HIV & NOT on ART,36,3,0
+Round 1,10,181,Tested positive by CHiP,39,4,0
+Round 1,10,181,Tested negative by CHiP,474,4,0
+Round 1,10,181,Not tested/indeterminate,315,1,0
+Round 1,10,181,Self-reported living with HIV & on ART,99,4,0
+Round 1,10,182,Self-reported living with HIV & NOT on ART,8,0,0
+Round 1,10,182,Tested positive by CHiP,23,3,0
+Round 1,10,182,Tested negative by CHiP,375,4,0
+Round 1,10,182,Not tested/indeterminate,268,1,0
+Round 1,10,182,Self-reported living with HIV & on ART,61,0,0
+Round 1,10,183,Self-reported living with HIV & NOT on ART,18,0,0
+Round 1,10,183,Tested positive by CHiP,67,4,1
+Round 1,10,183,Tested negative by CHiP,757,14,0
+Round 1,10,183,Not tested/indeterminate,312,2,0
+Round 1,10,183,Self-reported living with HIV & on ART,96,1,0
+Round 1,10,184,Self-reported living with HIV & NOT on ART,19,2,1
+Round 1,10,184,Tested positive by CHiP,30,2,0
+Round 1,10,184,Tested negative by CHiP,224,5,0
+Round 1,10,184,Not tested/indeterminate,86,0,0
+Round 1,10,184,Self-reported living with HIV & on ART,55,7,0
+Round 1,10,185,Self-reported living with HIV & NOT on ART,17,1,0
+Round 1,10,185,Tested positive by CHiP,30,2,0
+Round 1,10,185,Tested negative by CHiP,212,4,1
+Round 1,10,185,Not tested/indeterminate,259,0,0
+Round 1,10,185,Self-reported living with HIV & on ART,87,2,1
+Round 1,10,186,Self-reported living with HIV & NOT on ART,12,0,0
+Round 1,10,186,Tested positive by CHiP,38,0,0
+Round 1,10,186,Tested negative by CHiP,336,2,0
+Round 1,10,186,Not tested/indeterminate,276,0,0
+Round 1,10,186,Self-reported living with HIV & on ART,92,2,0
+Round 1,10,187,Self-reported living with HIV & NOT on ART,9,1,0
+Round 1,10,187,Tested positive by CHiP,40,4,1
+Round 1,10,187,Tested negative by CHiP,260,5,0
+Round 1,10,187,Not tested/indeterminate,160,0,0
+Round 1,10,187,Self-reported living with HIV & on ART,52,2,1
+Round 1,10,188,Self-reported living with HIV & NOT on ART,18,0,0
+Round 1,10,188,Tested positive by CHiP,33,0,0
+Round 1,10,188,Tested negative by CHiP,494,4,0
+Round 1,10,188,Not tested/indeterminate,239,6,1
+Round 1,10,188,Self-reported living with HIV & on ART,47,1,0
+Round 1,10,189,Self-reported living with HIV & NOT on ART,29,2,0
+Round 1,10,189,Tested positive by CHiP,66,0,0
+Round 1,10,189,Tested negative by CHiP,652,4,0
+Round 1,10,189,Not tested/indeterminate,371,1,0
+Round 1,10,189,Self-reported living with HIV & on ART,100,0,0
+Round 1,11,190,Self-reported living with HIV & NOT on ART,26,0,0
+Round 1,11,190,Tested positive by CHiP,27,0,0
+Round 1,11,190,Tested negative by CHiP,564,1,0
+Round 1,11,190,Not tested/indeterminate,389,0,0
+Round 1,11,190,Self-reported living with HIV & on ART,101,0,0
+Round 1,11,191,Self-reported living with HIV & NOT on ART,14,0,0
+Round 1,11,191,Tested positive by CHiP,26,3,1
+Round 1,11,191,Tested negative by CHiP,517,6,0
+Round 1,11,191,Not tested/indeterminate,652,0,0
+Round 1,11,191,Self-reported living with HIV & on ART,61,3,2
+Round 1,11,192,Self-reported living with HIV & NOT on ART,9,0,0
+Round 1,11,192,Tested positive by CHiP,22,1,0
+Round 1,11,192,Tested negative by CHiP,639,4,0
+Round 1,11,192,Not tested/indeterminate,557,3,0
+Round 1,11,192,Self-reported living with HIV & on ART,83,5,0
+Round 1,11,193,Self-reported living with HIV & NOT on ART,35,2,0
+Round 1,11,193,Tested positive by CHiP,26,0,0
+Round 1,11,193,Tested negative by CHiP,300,3,0
+Round 1,11,193,Not tested/indeterminate,389,5,0
+Round 1,11,193,Self-reported living with HIV & on ART,101,3,0
+Round 1,11,194,Self-reported living with HIV & NOT on ART,28,1,1
+Round 1,11,194,Tested positive by CHiP,28,5,0
+Round 1,11,194,Tested negative by CHiP,461,1,0
+Round 1,11,194,Not tested/indeterminate,356,2,0
+Round 1,11,194,Self-reported living with HIV & on ART,93,2,0
+Round 1,11,195,Self-reported living with HIV & NOT on ART,20,0,0
+Round 1,11,195,Tested positive by CHiP,33,1,0
+Round 1,11,195,Tested negative by CHiP,656,3,0
+Round 1,11,195,Not tested/indeterminate,762,0,0
+Round 1,11,195,Self-reported living with HIV & on ART,66,1,0
+Round 1,11,196,Self-reported living with HIV & NOT on ART,19,1,0
+Round 1,11,196,Tested positive by CHiP,14,0,0
+Round 1,11,196,Tested negative by CHiP,261,5,0
+Round 1,11,196,Not tested/indeterminate,658,5,0
+Round 1,11,196,Self-reported living with HIV & on ART,84,3,0
+Round 1,11,197,Self-reported living with HIV & NOT on ART,41,0,0
+Round 1,11,197,Tested positive by CHiP,43,1,0
+Round 1,11,197,Tested negative by CHiP,457,10,0
+Round 1,11,197,Not tested/indeterminate,466,1,0
+Round 1,11,197,Self-reported living with HIV & on ART,104,4,0
+Round 1,11,198,Self-reported living with HIV & NOT on ART,24,0,0
+Round 1,11,198,Tested positive by CHiP,32,1,0
+Round 1,11,198,Tested negative by CHiP,388,2,1
+Round 1,11,198,Not tested/indeterminate,644,1,0
+Round 1,11,198,Self-reported living with HIV & on ART,89,0,0
+Round 1,11,199,Self-reported living with HIV & NOT on ART,29,1,0
+Round 1,11,199,Tested positive by CHiP,25,0,0
+Round 1,11,199,Tested negative by CHiP,350,2,0
+Round 1,11,199,Not tested/indeterminate,247,1,0
+Round 1,11,199,Self-reported living with HIV & on ART,58,2,0
+Round 1,11,200,Self-reported living with HIV & NOT on ART,21,0,0
+Round 1,11,200,Tested positive by CHiP,32,1,0
+Round 1,11,200,Tested negative by CHiP,390,4,0
+Round 1,11,200,Not tested/indeterminate,260,0,0
+Round 1,11,200,Self-reported living with HIV & on ART,71,1,0
+Round 1,11,201,Self-reported living with HIV & NOT on ART,17,0,0
+Round 1,11,201,Tested positive by CHiP,20,1,0
+Round 1,11,201,Tested negative by CHiP,339,2,0
+Round 1,11,201,Not tested/indeterminate,561,3,0
+Round 1,11,201,Self-reported living with HIV & on ART,78,2,0
+Round 1,11,202,Self-reported living with HIV & NOT on ART,5,0,0
+Round 1,11,202,Tested positive by CHiP,30,0,0
+Round 1,11,202,Tested negative by CHiP,414,1,0
+Round 1,11,202,Not tested/indeterminate,633,3,0
+Round 1,11,202,Self-reported living with HIV & on ART,70,0,0
+Round 1,11,203,Self-reported living with HIV & NOT on ART,15,0,0
+Round 1,11,203,Tested positive by CHiP,24,1,0
+Round 1,11,203,Tested negative by CHiP,432,6,0
+Round 1,11,203,Not tested/indeterminate,402,1,0
+Round 1,11,203,Self-reported living with HIV & on ART,72,0,0
+Round 1,11,204,Self-reported living with HIV & NOT on ART,8,1,0
+Round 1,11,204,Tested positive by CHiP,15,0,0
+Round 1,11,204,Tested negative by CHiP,356,3,0
+Round 1,11,204,Not tested/indeterminate,396,2,0
+Round 1,11,204,Self-reported living with HIV & on ART,66,2,0
+Round 1,11,205,Self-reported living with HIV & NOT on ART,23,0,0
+Round 1,11,205,Tested positive by CHiP,58,2,0
+Round 1,11,205,Tested negative by CHiP,625,4,0
+Round 1,11,205,Not tested/indeterminate,436,1,0
+Round 1,11,205,Self-reported living with HIV & on ART,105,2,0
+Round 1,11,206,Self-reported living with HIV & NOT on ART,21,1,0
+Round 1,11,206,Tested positive by CHiP,44,2,0
+Round 1,11,206,Tested negative by CHiP,539,7,0
+Round 1,11,206,Not tested/indeterminate,374,0,0
+Round 1,11,206,Self-reported living with HIV & on ART,68,1,0
+Round 2,1,1,Self-reported living with HIV & NOT on ART,16,2,0
+Round 2,1,1,Tested positive by CHiP,22,2,1
+Round 2,1,1,Tested negative by CHiP,528,3,0
+Round 2,1,1,Not tested/indeterminate,230,0,0
+Round 2,1,1,Self-reported living with HIV & on ART,73,2,0
+Round 2,1,2,Self-reported living with HIV & NOT on ART,28,0,0
+Round 2,1,2,Tested positive by CHiP,20,0,0
+Round 2,1,2,Tested negative by CHiP,666,8,0
+Round 2,1,2,Not tested/indeterminate,311,2,0
+Round 2,1,2,Self-reported living with HIV & on ART,88,0,0
+Round 2,1,3,Self-reported living with HIV & NOT on ART,17,2,0
+Round 2,1,3,Tested positive by CHiP,26,5,1
+Round 2,1,3,Tested negative by CHiP,678,12,0
+Round 2,1,3,Not tested/indeterminate,392,1,0
+Round 2,1,3,Self-reported living with HIV & on ART,81,2,0
+Round 2,1,4,Self-reported living with HIV & NOT on ART,12,1,0
+Round 2,1,4,Tested positive by CHiP,26,4,0
+Round 2,1,4,Tested negative by CHiP,680,1,0
+Round 2,1,4,Not tested/indeterminate,212,0,0
+Round 2,1,4,Self-reported living with HIV & on ART,69,1,0
+Round 2,1,5,Self-reported living with HIV & NOT on ART,6,0,0
+Round 2,1,5,Tested positive by CHiP,25,4,1
+Round 2,1,5,Tested negative by CHiP,659,5,0
+Round 2,1,5,Not tested/indeterminate,313,0,0
+Round 2,1,5,Self-reported living with HIV & on ART,82,2,0
+Round 2,1,6,Self-reported living with HIV & NOT on ART,16,0,0
+Round 2,1,6,Tested positive by CHiP,25,6,0
+Round 2,1,6,Tested negative by CHiP,683,13,0
+Round 2,1,6,Not tested/indeterminate,197,0,0
+Round 2,1,6,Self-reported living with HIV & on ART,71,2,1
+Round 2,1,7,Self-reported living with HIV & NOT on ART,9,1,0
+Round 2,1,7,Tested positive by CHiP,14,0,0
+Round 2,1,7,Tested negative by CHiP,573,3,1
+Round 2,1,7,Not tested/indeterminate,300,0,0
+Round 2,1,7,Self-reported living with HIV & on ART,75,3,0
+Round 2,1,8,Self-reported living with HIV & NOT on ART,20,0,0
+Round 2,1,8,Tested positive by CHiP,29,2,1
+Round 2,1,8,Tested negative by CHiP,620,10,1
+Round 2,1,8,Not tested/indeterminate,335,0,0
+Round 2,1,8,Self-reported living with HIV & on ART,94,1,0
+Round 2,1,9,Self-reported living with HIV & NOT on ART,11,0,0
+Round 2,1,9,Tested positive by CHiP,14,5,0
+Round 2,1,9,Tested negative by CHiP,736,9,1
+Round 2,1,9,Not tested/indeterminate,299,0,0
+Round 2,1,9,Self-reported living with HIV & on ART,67,1,0
+Round 2,1,10,Self-reported living with HIV & NOT on ART,10,0,0
+Round 2,1,10,Tested positive by CHiP,20,2,0
+Round 2,1,10,Tested negative by CHiP,589,8,1
+Round 2,1,10,Not tested/indeterminate,191,1,0
+Round 2,1,10,Self-reported living with HIV & on ART,47,0,0
+Round 2,1,11,Self-reported living with HIV & NOT on ART,7,1,0
+Round 2,1,11,Tested positive by CHiP,21,1,0
+Round 2,1,11,Tested negative by CHiP,514,7,0
+Round 2,1,11,Not tested/indeterminate,345,1,0
+Round 2,1,11,Self-reported living with HIV & on ART,60,1,0
+Round 2,1,12,Self-reported living with HIV & NOT on ART,20,1,0
+Round 2,1,12,Tested positive by CHiP,23,0,0
+Round 2,1,12,Tested negative by CHiP,858,28,1
+Round 2,1,12,Not tested/indeterminate,378,1,0
+Round 2,1,12,Self-reported living with HIV & on ART,115,0,0
+Round 2,1,13,Self-reported living with HIV & NOT on ART,19,0,0
+Round 2,1,13,Tested positive by CHiP,13,0,0
+Round 2,1,13,Tested negative by CHiP,734,12,1
+Round 2,1,13,Not tested/indeterminate,303,0,0
+Round 2,1,13,Self-reported living with HIV & on ART,96,4,2
+Round 2,1,14,Self-reported living with HIV & NOT on ART,9,0,0
+Round 2,1,14,Tested positive by CHiP,22,3,0
+Round 2,1,14,Tested negative by CHiP,847,2,0
+Round 2,1,14,Not tested/indeterminate,269,1,0
+Round 2,1,14,Self-reported living with HIV & on ART,70,0,0
+Round 2,1,15,Self-reported living with HIV & NOT on ART,18,0,0
+Round 2,1,15,Tested positive by CHiP,16,1,1
+Round 2,1,15,Tested negative by CHiP,654,5,0
+Round 2,1,15,Not tested/indeterminate,275,3,0
+Round 2,1,15,Self-reported living with HIV & on ART,62,1,0
+Round 2,1,16,Self-reported living with HIV & NOT on ART,10,2,0
+Round 2,1,16,Tested positive by CHiP,31,4,1
+Round 2,1,16,Tested negative by CHiP,728,8,0
+Round 2,1,16,Not tested/indeterminate,286,2,0
+Round 2,1,16,Self-reported living with HIV & on ART,63,2,0
+Round 2,1,17,Self-reported living with HIV & NOT on ART,13,0,0
+Round 2,1,17,Tested positive by CHiP,15,0,0
+Round 2,1,17,Tested negative by CHiP,583,5,0
+Round 2,1,17,Not tested/indeterminate,210,0,0
+Round 2,1,17,Self-reported living with HIV & on ART,73,0,0
+Round 2,1,18,Self-reported living with HIV & NOT on ART,22,1,0
+Round 2,1,18,Tested positive by CHiP,21,2,0
+Round 2,1,18,Tested negative by CHiP,702,7,0
+Round 2,1,18,Not tested/indeterminate,220,0,0
+Round 2,1,18,Self-reported living with HIV & on ART,75,2,0
+Round 2,1,19,Self-reported living with HIV & NOT on ART,11,0,0
+Round 2,1,19,Tested positive by CHiP,18,3,0
+Round 2,1,19,Tested negative by CHiP,602,6,0
+Round 2,1,19,Not tested/indeterminate,170,0,0
+Round 2,1,19,Self-reported living with HIV & on ART,58,0,0
+Round 2,1,20,Self-reported living with HIV & NOT on ART,19,1,0
+Round 2,1,20,Tested positive by CHiP,19,2,1
+Round 2,1,20,Tested negative by CHiP,692,4,0
+Round 2,1,20,Not tested/indeterminate,215,1,0
+Round 2,1,20,Self-reported living with HIV & on ART,64,1,0
+Round 2,2,21,Self-reported living with HIV & NOT on ART,6,0,0
+Round 2,2,21,Tested positive by CHiP,14,0,0
+Round 2,2,21,Tested negative by CHiP,560,0,0
+Round 2,2,21,Not tested/indeterminate,345,1,0
+Round 2,2,21,Self-reported living with HIV & on ART,65,3,1
+Round 2,2,22,Self-reported living with HIV & NOT on ART,11,0,0
+Round 2,2,22,Tested positive by CHiP,27,5,0
+Round 2,2,22,Tested negative by CHiP,826,17,0
+Round 2,2,22,Not tested/indeterminate,477,2,0
+Round 2,2,22,Self-reported living with HIV & on ART,47,0,0
+Round 2,2,23,Self-reported living with HIV & NOT on ART,9,1,1
+Round 2,2,23,Tested positive by CHiP,26,2,0
+Round 2,2,23,Tested negative by CHiP,502,5,0
+Round 2,2,23,Not tested/indeterminate,429,3,1
+Round 2,2,23,Self-reported living with HIV & on ART,38,3,0
+Round 2,2,24,Self-reported living with HIV & NOT on ART,10,0,0
+Round 2,2,24,Tested positive by CHiP,23,6,1
+Round 2,2,24,Tested negative by CHiP,804,6,1
+Round 2,2,24,Not tested/indeterminate,210,0,0
+Round 2,2,24,Self-reported living with HIV & on ART,88,2,0
+Round 2,2,25,Self-reported living with HIV & NOT on ART,6,1,1
+Round 2,2,25,Tested positive by CHiP,21,1,0
+Round 2,2,25,Tested negative by CHiP,528,1,0
+Round 2,2,25,Not tested/indeterminate,295,0,0
+Round 2,2,25,Self-reported living with HIV & on ART,81,1,1
+Round 2,2,26,Self-reported living with HIV & NOT on ART,4,0,0
+Round 2,2,26,Tested positive by CHiP,18,4,1
+Round 2,2,26,Tested negative by CHiP,588,7,1
+Round 2,2,26,Not tested/indeterminate,267,1,0
+Round 2,2,26,Self-reported living with HIV & on ART,56,1,0
+Round 2,2,27,Self-reported living with HIV & NOT on ART,5,0,0
+Round 2,2,27,Tested positive by CHiP,25,4,2
+Round 2,2,27,Tested negative by CHiP,610,6,0
+Round 2,2,27,Not tested/indeterminate,389,5,0
+Round 2,2,27,Self-reported living with HIV & on ART,80,2,0
+Round 2,2,28,Self-reported living with HIV & NOT on ART,13,1,0
+Round 2,2,28,Tested positive by CHiP,21,3,1
+Round 2,2,28,Tested negative by CHiP,734,1,0
+Round 2,2,28,Not tested/indeterminate,226,0,0
+Round 2,2,28,Self-reported living with HIV & on ART,67,0,0
+Round 2,2,29,Self-reported living with HIV & NOT on ART,2,0,0
+Round 2,2,29,Tested positive by CHiP,15,2,0
+Round 2,2,29,Tested negative by CHiP,443,5,0
+Round 2,2,29,Not tested/indeterminate,247,1,0
+Round 2,2,29,Self-reported living with HIV & on ART,32,4,1
+Round 2,2,30,Self-reported living with HIV & NOT on ART,6,0,0
+Round 2,2,30,Tested positive by CHiP,15,1,0
+Round 2,2,30,Tested negative by CHiP,619,3,0
+Round 2,2,30,Not tested/indeterminate,253,1,0
+Round 2,2,30,Self-reported living with HIV & on ART,50,0,0
+Round 2,5,31,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,5,31,Tested positive by CHiP,26,4,0
+Round 2,5,31,Tested negative by CHiP,753,7,0
+Round 2,5,31,Not tested/indeterminate,29,0,0
+Round 2,5,31,Self-reported living with HIV & on ART,85,6,0
+Round 2,5,32,Self-reported living with HIV & NOT on ART,8,0,0
+Round 2,5,32,Tested positive by CHiP,39,1,0
+Round 2,5,32,Tested negative by CHiP,866,6,0
+Round 2,5,32,Not tested/indeterminate,321,1,0
+Round 2,5,32,Self-reported living with HIV & on ART,82,1,0
+Round 2,5,33,Self-reported living with HIV & NOT on ART,6,0,0
+Round 2,5,33,Tested positive by CHiP,34,2,0
+Round 2,5,33,Tested negative by CHiP,719,10,2
+Round 2,5,33,Not tested/indeterminate,76,0,0
+Round 2,5,33,Self-reported living with HIV & on ART,78,7,2
+Round 2,5,34,Self-reported living with HIV & NOT on ART,9,2,0
+Round 2,5,34,Tested positive by CHiP,42,3,0
+Round 2,5,34,Tested negative by CHiP,727,3,0
+Round 2,5,34,Not tested/indeterminate,201,0,0
+Round 2,5,34,Self-reported living with HIV & on ART,103,1,0
+Round 2,5,35,Self-reported living with HIV & NOT on ART,7,0,0
+Round 2,5,35,Tested positive by CHiP,29,2,1
+Round 2,5,35,Tested negative by CHiP,703,7,0
+Round 2,5,35,Not tested/indeterminate,63,0,0
+Round 2,5,35,Self-reported living with HIV & on ART,80,2,0
+Round 2,5,36,Self-reported living with HIV & NOT on ART,4,0,0
+Round 2,5,36,Tested positive by CHiP,26,1,0
+Round 2,5,36,Tested negative by CHiP,687,3,2
+Round 2,5,36,Not tested/indeterminate,37,0,0
+Round 2,5,36,Self-reported living with HIV & on ART,30,0,0
+Round 2,5,37,Self-reported living with HIV & NOT on ART,5,0,0
+Round 2,5,37,Tested positive by CHiP,30,1,0
+Round 2,5,37,Tested negative by CHiP,692,4,1
+Round 2,5,37,Not tested/indeterminate,179,1,0
+Round 2,5,37,Self-reported living with HIV & on ART,63,1,0
+Round 2,5,38,Self-reported living with HIV & NOT on ART,19,1,0
+Round 2,5,38,Tested positive by CHiP,45,0,0
+Round 2,5,38,Tested negative by CHiP,834,0,0
+Round 2,5,38,Not tested/indeterminate,399,0,0
+Round 2,5,38,Self-reported living with HIV & on ART,76,1,1
+Round 2,5,39,Self-reported living with HIV & NOT on ART,16,1,0
+Round 2,5,39,Tested positive by CHiP,35,1,1
+Round 2,5,39,Tested negative by CHiP,746,1,0
+Round 2,5,39,Not tested/indeterminate,232,0,0
+Round 2,5,39,Self-reported living with HIV & on ART,109,0,0
+Round 2,5,40,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,5,40,Tested positive by CHiP,33,1,0
+Round 2,5,40,Tested negative by CHiP,550,0,0
+Round 2,5,40,Not tested/indeterminate,46,0,0
+Round 2,5,40,Self-reported living with HIV & on ART,47,0,0
+Round 2,5,41,Self-reported living with HIV & NOT on ART,13,0,0
+Round 2,5,41,Tested positive by CHiP,29,0,0
+Round 2,5,41,Tested negative by CHiP,597,6,0
+Round 2,5,41,Not tested/indeterminate,108,1,0
+Round 2,5,41,Self-reported living with HIV & on ART,81,1,0
+Round 2,5,42,Self-reported living with HIV & NOT on ART,6,2,0
+Round 2,5,42,Tested positive by CHiP,32,0,0
+Round 2,5,42,Tested negative by CHiP,630,4,0
+Round 2,5,42,Not tested/indeterminate,93,0,0
+Round 2,5,42,Self-reported living with HIV & on ART,69,1,0
+Round 2,5,43,Self-reported living with HIV & NOT on ART,6,1,0
+Round 2,5,43,Tested positive by CHiP,17,1,0
+Round 2,5,43,Tested negative by CHiP,656,10,1
+Round 2,5,43,Not tested/indeterminate,147,0,0
+Round 2,5,43,Self-reported living with HIV & on ART,70,0,0
+Round 2,5,44,Self-reported living with HIV & NOT on ART,12,2,2
+Round 2,5,44,Tested positive by CHiP,33,5,2
+Round 2,5,44,Tested negative by CHiP,623,5,0
+Round 2,5,44,Not tested/indeterminate,110,0,0
+Round 2,5,44,Self-reported living with HIV & on ART,87,1,1
+Round 2,5,45,Self-reported living with HIV & NOT on ART,19,0,0
+Round 2,5,45,Tested positive by CHiP,38,1,1
+Round 2,5,45,Tested negative by CHiP,752,3,0
+Round 2,5,45,Not tested/indeterminate,185,0,0
+Round 2,5,45,Self-reported living with HIV & on ART,85,0,0
+Round 2,5,46,Self-reported living with HIV & NOT on ART,11,0,0
+Round 2,5,46,Tested positive by CHiP,46,0,0
+Round 2,5,46,Tested negative by CHiP,836,3,0
+Round 2,5,46,Not tested/indeterminate,148,1,1
+Round 2,5,46,Self-reported living with HIV & on ART,109,0,0
+Round 2,5,47,Self-reported living with HIV & NOT on ART,7,0,0
+Round 2,5,47,Tested positive by CHiP,31,1,0
+Round 2,5,47,Tested negative by CHiP,687,2,0
+Round 2,5,47,Not tested/indeterminate,303,0,0
+Round 2,5,47,Self-reported living with HIV & on ART,106,0,0
+Round 2,5,48,Self-reported living with HIV & NOT on ART,6,0,0
+Round 2,5,48,Tested positive by CHiP,38,1,0
+Round 2,5,48,Tested negative by CHiP,663,0,0
+Round 2,5,48,Not tested/indeterminate,105,3,0
+Round 2,5,48,Self-reported living with HIV & on ART,69,0,0
+Round 2,5,49,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,5,49,Tested positive by CHiP,34,1,0
+Round 2,5,49,Tested negative by CHiP,810,4,3
+Round 2,5,49,Not tested/indeterminate,193,0,0
+Round 2,5,49,Self-reported living with HIV & on ART,88,2,1
+Round 2,5,50,Self-reported living with HIV & NOT on ART,10,1,0
+Round 2,5,50,Tested positive by CHiP,35,0,0
+Round 2,5,50,Tested negative by CHiP,818,3,0
+Round 2,5,50,Not tested/indeterminate,11,0,0
+Round 2,5,50,Self-reported living with HIV & on ART,72,0,0
+Round 2,6,51,Self-reported living with HIV & NOT on ART,18,1,0
+Round 2,6,51,Tested positive by CHiP,29,2,0
+Round 2,6,51,Tested negative by CHiP,731,23,0
+Round 2,6,51,Not tested/indeterminate,290,2,0
+Round 2,6,51,Self-reported living with HIV & on ART,93,3,0
+Round 2,6,52,Self-reported living with HIV & NOT on ART,17,0,0
+Round 2,6,52,Tested positive by CHiP,27,0,0
+Round 2,6,52,Tested negative by CHiP,738,2,0
+Round 2,6,52,Not tested/indeterminate,267,0,0
+Round 2,6,52,Self-reported living with HIV & on ART,148,0,0
+Round 2,6,53,Self-reported living with HIV & NOT on ART,8,1,0
+Round 2,6,53,Tested positive by CHiP,17,1,0
+Round 2,6,53,Tested negative by CHiP,399,10,0
+Round 2,6,53,Not tested/indeterminate,279,4,0
+Round 2,6,53,Self-reported living with HIV & on ART,55,1,0
+Round 2,6,54,Self-reported living with HIV & NOT on ART,16,0,0
+Round 2,6,54,Tested positive by CHiP,17,2,1
+Round 2,6,54,Tested negative by CHiP,1043,5,0
+Round 2,6,54,Not tested/indeterminate,129,0,0
+Round 2,6,54,Self-reported living with HIV & on ART,95,4,1
+Round 2,6,55,Self-reported living with HIV & NOT on ART,27,2,0
+Round 2,6,55,Tested positive by CHiP,42,8,0
+Round 2,6,55,Tested negative by CHiP,1013,16,1
+Round 2,6,55,Not tested/indeterminate,27,0,0
+Round 2,6,55,Self-reported living with HIV & on ART,115,5,0
+Round 2,6,56,Self-reported living with HIV & NOT on ART,10,1,0
+Round 2,6,56,Tested positive by CHiP,18,2,0
+Round 2,6,56,Tested negative by CHiP,652,4,1
+Round 2,6,56,Not tested/indeterminate,187,0,0
+Round 2,6,56,Self-reported living with HIV & on ART,105,2,1
+Round 2,6,57,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,6,57,Tested positive by CHiP,30,1,0
+Round 2,6,57,Tested negative by CHiP,554,9,0
+Round 2,6,57,Not tested/indeterminate,18,0,0
+Round 2,6,57,Self-reported living with HIV & on ART,100,1,0
+Round 2,6,58,Self-reported living with HIV & NOT on ART,21,0,0
+Round 2,6,58,Tested positive by CHiP,20,1,1
+Round 2,6,58,Tested negative by CHiP,870,3,0
+Round 2,6,58,Not tested/indeterminate,75,0,0
+Round 2,6,58,Self-reported living with HIV & on ART,129,2,0
+Round 2,6,59,Self-reported living with HIV & NOT on ART,20,0,0
+Round 2,6,59,Tested positive by CHiP,29,0,0
+Round 2,6,59,Tested negative by CHiP,513,6,0
+Round 2,6,59,Not tested/indeterminate,156,1,0
+Round 2,6,59,Self-reported living with HIV & on ART,107,4,0
+Round 2,6,60,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,6,60,Tested positive by CHiP,18,2,0
+Round 2,6,60,Tested negative by CHiP,910,10,0
+Round 2,6,60,Not tested/indeterminate,68,0,0
+Round 2,6,60,Self-reported living with HIV & on ART,107,0,0
+Round 2,6,61,Self-reported living with HIV & NOT on ART,22,0,0
+Round 2,6,61,Tested positive by CHiP,44,1,0
+Round 2,6,61,Tested negative by CHiP,1039,3,0
+Round 2,6,61,Not tested/indeterminate,81,0,0
+Round 2,6,61,Self-reported living with HIV & on ART,166,1,0
+Round 2,6,62,Self-reported living with HIV & NOT on ART,31,0,0
+Round 2,6,62,Tested positive by CHiP,26,2,0
+Round 2,6,62,Tested negative by CHiP,820,4,0
+Round 2,6,62,Not tested/indeterminate,76,0,0
+Round 2,6,62,Self-reported living with HIV & on ART,219,1,1
+Round 2,6,63,Self-reported living with HIV & NOT on ART,10,0,0
+Round 2,6,63,Tested positive by CHiP,28,3,0
+Round 2,6,63,Tested negative by CHiP,766,8,2
+Round 2,6,63,Not tested/indeterminate,182,0,0
+Round 2,6,63,Self-reported living with HIV & on ART,124,2,1
+Round 2,6,64,Self-reported living with HIV & NOT on ART,21,0,0
+Round 2,6,64,Tested positive by CHiP,33,0,0
+Round 2,6,64,Tested negative by CHiP,770,1,0
+Round 2,6,64,Not tested/indeterminate,181,0,0
+Round 2,6,64,Self-reported living with HIV & on ART,131,2,0
+Round 2,6,65,Self-reported living with HIV & NOT on ART,28,1,0
+Round 2,6,65,Tested positive by CHiP,27,0,0
+Round 2,6,65,Tested negative by CHiP,573,1,0
+Round 2,6,65,Not tested/indeterminate,220,0,0
+Round 2,6,65,Self-reported living with HIV & on ART,144,4,0
+Round 2,6,66,Self-reported living with HIV & NOT on ART,13,1,0
+Round 2,6,66,Tested positive by CHiP,25,5,0
+Round 2,6,66,Tested negative by CHiP,422,13,0
+Round 2,6,66,Not tested/indeterminate,115,2,0
+Round 2,6,66,Self-reported living with HIV & on ART,103,2,0
+Round 2,8,67,Self-reported living with HIV & NOT on ART,6,1,1
+Round 2,8,67,Tested positive by CHiP,46,3,2
+Round 2,8,67,Tested negative by CHiP,605,5,2
+Round 2,8,67,Not tested/indeterminate,159,0,0
+Round 2,8,67,Self-reported living with HIV & on ART,133,9,3
+Round 2,8,68,Self-reported living with HIV & NOT on ART,19,2,1
+Round 2,8,68,Tested positive by CHiP,43,6,0
+Round 2,8,68,Tested negative by CHiP,581,5,0
+Round 2,8,68,Not tested/indeterminate,271,2,0
+Round 2,8,68,Self-reported living with HIV & on ART,141,4,1
+Round 2,8,69,Self-reported living with HIV & NOT on ART,18,0,0
+Round 2,8,69,Tested positive by CHiP,37,4,2
+Round 2,8,69,Tested negative by CHiP,669,12,1
+Round 2,8,69,Not tested/indeterminate,259,1,0
+Round 2,8,69,Self-reported living with HIV & on ART,115,2,0
+Round 2,8,70,Self-reported living with HIV & NOT on ART,13,2,0
+Round 2,8,70,Tested positive by CHiP,33,4,0
+Round 2,8,70,Tested negative by CHiP,554,6,2
+Round 2,8,70,Not tested/indeterminate,67,1,0
+Round 2,8,70,Self-reported living with HIV & on ART,109,4,0
+Round 2,8,71,Self-reported living with HIV & NOT on ART,8,1,0
+Round 2,8,71,Tested positive by CHiP,42,9,1
+Round 2,8,71,Tested negative by CHiP,487,16,0
+Round 2,8,71,Not tested/indeterminate,72,1,0
+Round 2,8,71,Self-reported living with HIV & on ART,82,6,0
+Round 2,8,72,Self-reported living with HIV & NOT on ART,10,0,0
+Round 2,8,72,Tested positive by CHiP,45,3,0
+Round 2,8,72,Tested negative by CHiP,502,4,0
+Round 2,8,72,Not tested/indeterminate,211,0,0
+Round 2,8,72,Self-reported living with HIV & on ART,122,1,0
+Round 2,8,73,Self-reported living with HIV & NOT on ART,17,0,0
+Round 2,8,73,Tested positive by CHiP,22,1,0
+Round 2,8,73,Tested negative by CHiP,674,8,0
+Round 2,8,73,Not tested/indeterminate,124,0,0
+Round 2,8,73,Self-reported living with HIV & on ART,86,4,0
+Round 2,8,74,Self-reported living with HIV & NOT on ART,10,2,0
+Round 2,8,74,Tested positive by CHiP,11,2,0
+Round 2,8,74,Tested negative by CHiP,312,5,1
+Round 2,8,74,Not tested/indeterminate,91,0,0
+Round 2,8,74,Self-reported living with HIV & on ART,41,8,1
+Round 2,8,75,Self-reported living with HIV & NOT on ART,8,0,0
+Round 2,8,75,Tested positive by CHiP,32,3,0
+Round 2,8,75,Tested negative by CHiP,728,2,0
+Round 2,8,75,Not tested/indeterminate,156,0,0
+Round 2,8,75,Self-reported living with HIV & on ART,85,2,0
+Round 2,8,76,Self-reported living with HIV & NOT on ART,4,0,0
+Round 2,8,76,Tested positive by CHiP,36,0,0
+Round 2,8,76,Tested negative by CHiP,697,0,0
+Round 2,8,76,Not tested/indeterminate,130,0,0
+Round 2,8,76,Self-reported living with HIV & on ART,83,2,0
+Round 2,8,77,Self-reported living with HIV & NOT on ART,10,1,0
+Round 2,8,77,Tested positive by CHiP,32,2,0
+Round 2,8,77,Tested negative by CHiP,460,14,0
+Round 2,8,77,Not tested/indeterminate,158,4,0
+Round 2,8,77,Self-reported living with HIV & on ART,101,4,0
+Round 2,8,78,Self-reported living with HIV & NOT on ART,11,0,0
+Round 2,8,78,Tested positive by CHiP,47,9,0
+Round 2,8,78,Tested negative by CHiP,595,9,3
+Round 2,8,78,Not tested/indeterminate,131,0,0
+Round 2,8,78,Self-reported living with HIV & on ART,102,3,1
+Round 2,8,79,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,8,79,Tested positive by CHiP,31,4,1
+Round 2,8,79,Tested negative by CHiP,557,11,0
+Round 2,8,79,Not tested/indeterminate,185,1,0
+Round 2,8,79,Self-reported living with HIV & on ART,120,7,1
+Round 2,8,80,Self-reported living with HIV & NOT on ART,13,0,0
+Round 2,8,80,Tested positive by CHiP,27,2,0
+Round 2,8,80,Tested negative by CHiP,676,12,0
+Round 2,8,80,Not tested/indeterminate,259,1,0
+Round 2,8,80,Self-reported living with HIV & on ART,77,5,0
+Round 2,8,81,Self-reported living with HIV & NOT on ART,9,0,0
+Round 2,8,81,Tested positive by CHiP,14,1,0
+Round 2,8,81,Tested negative by CHiP,718,10,1
+Round 2,8,81,Not tested/indeterminate,206,0,0
+Round 2,8,81,Self-reported living with HIV & on ART,59,4,0
+Round 2,8,82,Self-reported living with HIV & NOT on ART,20,2,1
+Round 2,8,82,Tested positive by CHiP,18,1,0
+Round 2,8,82,Tested negative by CHiP,659,7,1
+Round 2,8,82,Not tested/indeterminate,147,1,0
+Round 2,8,82,Self-reported living with HIV & on ART,83,2,0
+Round 2,8,83,Self-reported living with HIV & NOT on ART,3,0,0
+Round 2,8,83,Tested positive by CHiP,18,4,0
+Round 2,8,83,Tested negative by CHiP,357,1,0
+Round 2,8,83,Not tested/indeterminate,217,0,0
+Round 2,8,83,Self-reported living with HIV & on ART,77,1,0
+Round 2,8,84,Self-reported living with HIV & NOT on ART,6,0,0
+Round 2,8,84,Tested positive by CHiP,6,0,0
+Round 2,8,84,Tested negative by CHiP,249,1,1
+Round 2,8,84,Not tested/indeterminate,297,0,0
+Round 2,8,84,Self-reported living with HIV & on ART,45,2,0
+Round 2,8,85,Self-reported living with HIV & NOT on ART,4,0,0
+Round 2,8,85,Tested positive by CHiP,18,3,0
+Round 2,8,85,Tested negative by CHiP,326,0,0
+Round 2,8,85,Not tested/indeterminate,312,0,0
+Round 2,8,85,Self-reported living with HIV & on ART,33,1,0
+Round 2,8,86,Self-reported living with HIV & NOT on ART,1,0,0
+Round 2,8,86,Tested positive by CHiP,18,2,0
+Round 2,8,86,Tested negative by CHiP,421,5,1
+Round 2,8,86,Not tested/indeterminate,183,0,0
+Round 2,8,86,Self-reported living with HIV & on ART,61,3,0
+Round 2,8,87,Self-reported living with HIV & NOT on ART,8,0,0
+Round 2,8,87,Tested positive by CHiP,21,3,0
+Round 2,8,87,Tested negative by CHiP,410,3,1
+Round 2,8,87,Not tested/indeterminate,106,0,0
+Round 2,8,87,Self-reported living with HIV & on ART,62,7,1
+Round 2,8,88,Self-reported living with HIV & NOT on ART,5,0,0
+Round 2,8,88,Tested positive by CHiP,17,0,0
+Round 2,8,88,Tested negative by CHiP,467,1,0
+Round 2,8,88,Not tested/indeterminate,374,0,0
+Round 2,8,88,Self-reported living with HIV & on ART,43,2,1
+Round 2,8,89,Self-reported living with HIV & NOT on ART,7,0,0
+Round 2,8,89,Tested positive by CHiP,27,3,0
+Round 2,8,89,Tested negative by CHiP,403,5,0
+Round 2,8,89,Not tested/indeterminate,75,0,0
+Round 2,8,89,Self-reported living with HIV & on ART,37,0,0
+Round 2,8,90,Self-reported living with HIV & NOT on ART,4,0,0
+Round 2,8,90,Tested positive by CHiP,22,1,0
+Round 2,8,90,Tested negative by CHiP,522,2,1
+Round 2,8,90,Not tested/indeterminate,99,0,0
+Round 2,8,90,Self-reported living with HIV & on ART,39,1,0
+Round 2,8,91,Self-reported living with HIV & NOT on ART,11,1,0
+Round 2,8,91,Tested positive by CHiP,26,6,0
+Round 2,8,91,Tested negative by CHiP,325,6,0
+Round 2,8,91,Not tested/indeterminate,412,2,0
+Round 2,8,91,Self-reported living with HIV & on ART,66,6,1
+Round 2,8,92,Self-reported living with HIV & NOT on ART,4,0,0
+Round 2,8,92,Tested positive by CHiP,24,5,0
+Round 2,8,92,Tested negative by CHiP,510,6,0
+Round 2,8,92,Not tested/indeterminate,213,3,0
+Round 2,8,92,Self-reported living with HIV & on ART,45,1,0
+Round 2,8,93,Self-reported living with HIV & NOT on ART,3,0,0
+Round 2,8,93,Tested positive by CHiP,13,0,0
+Round 2,8,93,Tested negative by CHiP,520,0,0
+Round 2,8,93,Not tested/indeterminate,98,0,0
+Round 2,8,93,Self-reported living with HIV & on ART,56,0,0
+Round 2,8,94,Self-reported living with HIV & NOT on ART,9,0,0
+Round 2,8,94,Tested positive by CHiP,23,2,0
+Round 2,8,94,Tested negative by CHiP,331,5,0
+Round 2,8,94,Not tested/indeterminate,94,0,0
+Round 2,8,94,Self-reported living with HIV & on ART,56,1,0
+Round 2,8,95,Self-reported living with HIV & NOT on ART,12,0,0
+Round 2,8,95,Tested positive by CHiP,23,4,0
+Round 2,8,95,Tested negative by CHiP,273,1,0
+Round 2,8,95,Not tested/indeterminate,138,0,0
+Round 2,8,95,Self-reported living with HIV & on ART,69,0,0
+Round 2,8,96,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,8,96,Tested positive by CHiP,20,2,1
+Round 2,8,96,Tested negative by CHiP,374,0,0
+Round 2,8,96,Not tested/indeterminate,407,1,0
+Round 2,8,96,Self-reported living with HIV & on ART,96,4,1
+Round 2,8,97,Self-reported living with HIV & NOT on ART,7,0,0
+Round 2,8,97,Tested positive by CHiP,19,3,3
+Round 2,8,97,Tested negative by CHiP,538,1,0
+Round 2,8,97,Not tested/indeterminate,310,0,0
+Round 2,8,97,Self-reported living with HIV & on ART,68,0,0
+Round 2,8,98,Self-reported living with HIV & NOT on ART,12,1,0
+Round 2,8,98,Tested positive by CHiP,29,7,0
+Round 2,8,98,Tested negative by CHiP,396,4,1
+Round 2,8,98,Not tested/indeterminate,238,0,0
+Round 2,8,98,Self-reported living with HIV & on ART,107,4,0
+Round 2,8,99,Self-reported living with HIV & NOT on ART,6,1,0
+Round 2,8,99,Tested positive by CHiP,12,1,0
+Round 2,8,99,Tested negative by CHiP,535,5,1
+Round 2,8,99,Not tested/indeterminate,165,0,0
+Round 2,8,99,Self-reported living with HIV & on ART,42,1,0
+Round 2,8,100,Self-reported living with HIV & NOT on ART,5,0,0
+Round 2,8,100,Tested positive by CHiP,17,4,0
+Round 2,8,100,Tested negative by CHiP,399,5,0
+Round 2,8,100,Not tested/indeterminate,352,0,0
+Round 2,8,100,Self-reported living with HIV & on ART,51,1,0
+Round 2,8,101,Self-reported living with HIV & NOT on ART,8,0,0
+Round 2,8,101,Tested positive by CHiP,17,5,0
+Round 2,8,101,Tested negative by CHiP,340,5,1
+Round 2,8,101,Not tested/indeterminate,187,0,0
+Round 2,8,101,Self-reported living with HIV & on ART,42,3,0
+Round 2,8,102,Self-reported living with HIV & NOT on ART,9,0,0
+Round 2,8,102,Tested positive by CHiP,6,1,1
+Round 2,8,102,Tested negative by CHiP,313,2,0
+Round 2,8,102,Not tested/indeterminate,486,1,0
+Round 2,8,102,Self-reported living with HIV & on ART,66,5,0
+Round 2,8,103,Self-reported living with HIV & NOT on ART,9,1,1
+Round 2,8,103,Tested positive by CHiP,17,3,0
+Round 2,8,103,Tested negative by CHiP,313,4,0
+Round 2,8,103,Not tested/indeterminate,230,1,0
+Round 2,8,103,Self-reported living with HIV & on ART,65,2,0
+Round 2,8,104,Self-reported living with HIV & NOT on ART,6,0,0
+Round 2,8,104,Tested positive by CHiP,24,2,0
+Round 2,8,104,Tested negative by CHiP,377,5,1
+Round 2,8,104,Not tested/indeterminate,122,0,0
+Round 2,8,104,Self-reported living with HIV & on ART,80,2,0
+Round 2,8,105,Self-reported living with HIV & NOT on ART,12,1,0
+Round 2,8,105,Tested positive by CHiP,19,3,0
+Round 2,8,105,Tested negative by CHiP,426,3,1
+Round 2,8,105,Not tested/indeterminate,197,0,0
+Round 2,8,105,Self-reported living with HIV & on ART,69,3,1
+Round 2,8,106,Self-reported living with HIV & NOT on ART,7,0,0
+Round 2,8,106,Tested positive by CHiP,17,1,0
+Round 2,8,106,Tested negative by CHiP,400,0,0
+Round 2,8,106,Not tested/indeterminate,260,2,0
+Round 2,8,106,Self-reported living with HIV & on ART,49,2,0
+Round 2,8,107,Self-reported living with HIV & NOT on ART,9,0,0
+Round 2,8,107,Tested positive by CHiP,38,9,0
+Round 2,8,107,Tested negative by CHiP,482,3,2
+Round 2,8,107,Not tested/indeterminate,279,2,0
+Round 2,8,107,Self-reported living with HIV & on ART,118,12,1
+Round 2,8,108,Self-reported living with HIV & NOT on ART,3,1,0
+Round 2,8,108,Tested positive by CHiP,21,3,0
+Round 2,8,108,Tested negative by CHiP,407,5,0
+Round 2,8,108,Not tested/indeterminate,144,0,0
+Round 2,8,108,Self-reported living with HIV & on ART,54,3,1
+Round 2,8,109,Self-reported living with HIV & NOT on ART,7,0,0
+Round 2,8,109,Tested positive by CHiP,22,1,1
+Round 2,8,109,Tested negative by CHiP,561,5,2
+Round 2,8,109,Not tested/indeterminate,201,0,0
+Round 2,8,109,Self-reported living with HIV & on ART,84,3,1
+Round 2,8,110,Self-reported living with HIV & NOT on ART,12,2,0
+Round 2,8,110,Tested positive by CHiP,33,7,2
+Round 2,8,110,Tested negative by CHiP,613,4,0
+Round 2,8,110,Not tested/indeterminate,231,2,1
+Round 2,8,110,Self-reported living with HIV & on ART,108,9,1
+Round 2,8,111,Self-reported living with HIV & NOT on ART,13,1,0
+Round 2,8,111,Tested positive by CHiP,27,5,0
+Round 2,8,111,Tested negative by CHiP,480,0,0
+Round 2,8,111,Not tested/indeterminate,331,0,0
+Round 2,8,111,Self-reported living with HIV & on ART,82,0,0
+Round 2,8,112,Self-reported living with HIV & NOT on ART,8,0,0
+Round 2,8,112,Tested positive by CHiP,26,5,0
+Round 2,8,112,Tested negative by CHiP,496,4,0
+Round 2,8,112,Not tested/indeterminate,88,0,0
+Round 2,8,112,Self-reported living with HIV & on ART,41,1,1
+Round 2,8,113,Self-reported living with HIV & NOT on ART,1,0,0
+Round 2,8,113,Tested positive by CHiP,18,2,0
+Round 2,8,113,Tested negative by CHiP,350,7,0
+Round 2,8,113,Not tested/indeterminate,346,3,2
+Round 2,8,113,Self-reported living with HIV & on ART,38,2,1
+Round 2,8,114,Self-reported living with HIV & NOT on ART,5,0,0
+Round 2,8,114,Tested positive by CHiP,18,2,1
+Round 2,8,114,Tested negative by CHiP,408,1,0
+Round 2,8,114,Not tested/indeterminate,189,0,0
+Round 2,8,114,Self-reported living with HIV & on ART,95,1,0
+Round 2,8,115,Self-reported living with HIV & NOT on ART,5,0,0
+Round 2,8,115,Tested positive by CHiP,16,1,0
+Round 2,8,115,Tested negative by CHiP,248,2,0
+Round 2,8,115,Not tested/indeterminate,199,0,0
+Round 2,8,115,Self-reported living with HIV & on ART,33,2,0
+Round 2,8,116,Self-reported living with HIV & NOT on ART,9,0,0
+Round 2,8,116,Tested positive by CHiP,31,0,0
+Round 2,8,116,Tested negative by CHiP,381,5,1
+Round 2,8,116,Not tested/indeterminate,247,2,0
+Round 2,8,116,Self-reported living with HIV & on ART,59,0,0
+Round 2,8,117,Self-reported living with HIV & NOT on ART,5,0,0
+Round 2,8,117,Tested positive by CHiP,18,3,1
+Round 2,8,117,Tested negative by CHiP,357,2,0
+Round 2,8,117,Not tested/indeterminate,180,1,0
+Round 2,8,117,Self-reported living with HIV & on ART,71,3,0
+Round 2,8,118,Self-reported living with HIV & NOT on ART,8,0,0
+Round 2,8,118,Tested positive by CHiP,23,2,0
+Round 2,8,118,Tested negative by CHiP,309,7,0
+Round 2,8,118,Not tested/indeterminate,138,1,0
+Round 2,8,118,Self-reported living with HIV & on ART,48,6,1
+Round 2,8,119,Self-reported living with HIV & NOT on ART,12,0,0
+Round 2,8,119,Tested positive by CHiP,15,1,0
+Round 2,8,119,Tested negative by CHiP,579,10,2
+Round 2,8,119,Not tested/indeterminate,228,1,0
+Round 2,8,119,Self-reported living with HIV & on ART,71,2,1
+Round 2,8,120,Self-reported living with HIV & NOT on ART,3,0,0
+Round 2,8,120,Tested positive by CHiP,27,0,0
+Round 2,8,120,Tested negative by CHiP,404,2,1
+Round 2,8,120,Not tested/indeterminate,51,1,0
+Round 2,8,120,Self-reported living with HIV & on ART,51,2,0
+Round 2,9,121,Self-reported living with HIV & NOT on ART,10,0,0
+Round 2,9,121,Tested positive by CHiP,14,2,0
+Round 2,9,121,Tested negative by CHiP,619,6,0
+Round 2,9,121,Not tested/indeterminate,343,1,0
+Round 2,9,121,Self-reported living with HIV & on ART,40,0,0
+Round 2,9,122,Self-reported living with HIV & NOT on ART,11,0,0
+Round 2,9,122,Tested positive by CHiP,27,3,1
+Round 2,9,122,Tested negative by CHiP,436,10,0
+Round 2,9,122,Not tested/indeterminate,316,1,0
+Round 2,9,122,Self-reported living with HIV & on ART,86,3,0
+Round 2,9,123,Self-reported living with HIV & NOT on ART,8,0,0
+Round 2,9,123,Tested positive by CHiP,23,0,0
+Round 2,9,123,Tested negative by CHiP,592,3,0
+Round 2,9,123,Not tested/indeterminate,303,0,0
+Round 2,9,123,Self-reported living with HIV & on ART,67,2,1
+Round 2,9,124,Self-reported living with HIV & NOT on ART,13,0,0
+Round 2,9,124,Tested positive by CHiP,22,2,0
+Round 2,9,124,Tested negative by CHiP,541,4,0
+Round 2,9,124,Not tested/indeterminate,146,2,0
+Round 2,9,124,Self-reported living with HIV & on ART,118,4,0
+Round 2,9,125,Self-reported living with HIV & NOT on ART,12,2,0
+Round 2,9,125,Tested positive by CHiP,15,2,0
+Round 2,9,125,Tested negative by CHiP,340,5,0
+Round 2,9,125,Not tested/indeterminate,279,1,0
+Round 2,9,125,Self-reported living with HIV & on ART,78,4,0
+Round 2,9,126,Self-reported living with HIV & NOT on ART,6,0,0
+Round 2,9,126,Tested positive by CHiP,15,5,0
+Round 2,9,126,Tested negative by CHiP,483,20,0
+Round 2,9,126,Not tested/indeterminate,600,4,0
+Round 2,9,126,Self-reported living with HIV & on ART,85,3,0
+Round 2,9,127,Self-reported living with HIV & NOT on ART,29,0,0
+Round 2,9,127,Tested positive by CHiP,35,1,0
+Round 2,9,127,Tested negative by CHiP,456,5,0
+Round 2,9,127,Not tested/indeterminate,439,5,0
+Round 2,9,127,Self-reported living with HIV & on ART,86,3,0
+Round 2,9,128,Self-reported living with HIV & NOT on ART,10,1,0
+Round 2,9,128,Tested positive by CHiP,10,2,0
+Round 2,9,128,Tested negative by CHiP,232,1,0
+Round 2,9,128,Not tested/indeterminate,317,1,0
+Round 2,9,128,Self-reported living with HIV & on ART,53,4,0
+Round 2,9,129,Self-reported living with HIV & NOT on ART,7,0,0
+Round 2,9,129,Tested positive by CHiP,14,2,0
+Round 2,9,129,Tested negative by CHiP,351,4,0
+Round 2,9,129,Not tested/indeterminate,243,0,0
+Round 2,9,129,Self-reported living with HIV & on ART,61,2,0
+Round 2,9,130,Self-reported living with HIV & NOT on ART,13,0,0
+Round 2,9,130,Tested positive by CHiP,13,0,0
+Round 2,9,130,Tested negative by CHiP,572,4,0
+Round 2,9,130,Not tested/indeterminate,388,3,0
+Round 2,9,130,Self-reported living with HIV & on ART,57,2,0
+Round 2,9,131,Self-reported living with HIV & NOT on ART,3,0,0
+Round 2,9,131,Tested positive by CHiP,12,1,0
+Round 2,9,131,Tested negative by CHiP,174,4,0
+Round 2,9,131,Not tested/indeterminate,184,0,0
+Round 2,9,131,Self-reported living with HIV & on ART,29,0,0
+Round 2,9,132,Self-reported living with HIV & NOT on ART,17,0,0
+Round 2,9,132,Tested positive by CHiP,22,2,1
+Round 2,9,132,Tested negative by CHiP,420,12,0
+Round 2,9,132,Not tested/indeterminate,355,7,0
+Round 2,9,132,Self-reported living with HIV & on ART,85,6,0
+Round 2,9,133,Self-reported living with HIV & NOT on ART,7,0,0
+Round 2,9,133,Tested positive by CHiP,20,3,0
+Round 2,9,133,Tested negative by CHiP,436,1,0
+Round 2,9,133,Not tested/indeterminate,203,0,0
+Round 2,9,133,Self-reported living with HIV & on ART,62,2,0
+Round 2,9,134,Self-reported living with HIV & NOT on ART,9,0,0
+Round 2,9,134,Tested positive by CHiP,11,2,0
+Round 2,9,134,Tested negative by CHiP,253,3,0
+Round 2,9,134,Not tested/indeterminate,189,1,0
+Round 2,9,134,Self-reported living with HIV & on ART,56,0,0
+Round 2,9,135,Self-reported living with HIV & NOT on ART,12,0,0
+Round 2,9,135,Tested positive by CHiP,15,1,0
+Round 2,9,135,Tested negative by CHiP,286,1,0
+Round 2,9,135,Not tested/indeterminate,263,1,0
+Round 2,9,135,Self-reported living with HIV & on ART,71,0,0
+Round 2,9,136,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,9,136,Tested positive by CHiP,10,0,0
+Round 2,9,136,Tested negative by CHiP,366,2,0
+Round 2,9,136,Not tested/indeterminate,254,0,0
+Round 2,9,136,Self-reported living with HIV & on ART,65,0,0
+Round 2,9,137,Self-reported living with HIV & NOT on ART,9,0,0
+Round 2,9,137,Tested positive by CHiP,19,0,0
+Round 2,9,137,Tested negative by CHiP,255,3,0
+Round 2,9,137,Not tested/indeterminate,225,0,0
+Round 2,9,137,Self-reported living with HIV & on ART,69,1,0
+Round 2,9,138,Self-reported living with HIV & NOT on ART,4,0,0
+Round 2,9,138,Tested positive by CHiP,13,2,0
+Round 2,9,138,Tested negative by CHiP,171,1,0
+Round 2,9,138,Not tested/indeterminate,120,1,0
+Round 2,9,138,Self-reported living with HIV & on ART,50,1,0
+Round 2,9,139,Self-reported living with HIV & NOT on ART,8,1,0
+Round 2,9,139,Tested positive by CHiP,9,1,0
+Round 2,9,139,Tested negative by CHiP,144,1,0
+Round 2,9,139,Not tested/indeterminate,410,0,0
+Round 2,9,139,Self-reported living with HIV & on ART,35,0,0
+Round 2,9,140,Self-reported living with HIV & NOT on ART,16,0,0
+Round 2,9,140,Tested positive by CHiP,8,0,0
+Round 2,9,140,Tested negative by CHiP,356,2,0
+Round 2,9,140,Not tested/indeterminate,343,0,0
+Round 2,9,140,Self-reported living with HIV & on ART,103,0,0
+Round 2,9,141,Self-reported living with HIV & NOT on ART,6,0,0
+Round 2,9,141,Tested positive by CHiP,8,2,0
+Round 2,9,141,Tested negative by CHiP,246,6,2
+Round 2,9,141,Not tested/indeterminate,214,3,0
+Round 2,9,141,Self-reported living with HIV & on ART,45,0,0
+Round 2,9,142,Self-reported living with HIV & NOT on ART,10,0,0
+Round 2,9,142,Tested positive by CHiP,9,0,0
+Round 2,9,142,Tested negative by CHiP,183,1,0
+Round 2,9,142,Not tested/indeterminate,281,1,0
+Round 2,9,142,Self-reported living with HIV & on ART,50,0,0
+Round 2,9,143,Self-reported living with HIV & NOT on ART,2,0,0
+Round 2,9,143,Tested positive by CHiP,9,0,0
+Round 2,9,143,Tested negative by CHiP,251,3,0
+Round 2,9,143,Not tested/indeterminate,205,0,0
+Round 2,9,143,Self-reported living with HIV & on ART,65,2,0
+Round 2,9,144,Self-reported living with HIV & NOT on ART,3,1,0
+Round 2,9,144,Tested positive by CHiP,18,4,1
+Round 2,9,144,Tested negative by CHiP,764,8,0
+Round 2,9,144,Not tested/indeterminate,214,1,0
+Round 2,9,144,Self-reported living with HIV & on ART,96,6,1
+Round 2,9,145,Self-reported living with HIV & NOT on ART,7,1,0
+Round 2,9,145,Tested positive by CHiP,13,5,0
+Round 2,9,145,Tested negative by CHiP,263,2,0
+Round 2,9,145,Not tested/indeterminate,245,3,0
+Round 2,9,145,Self-reported living with HIV & on ART,53,0,0
+Round 2,9,146,Self-reported living with HIV & NOT on ART,11,0,0
+Round 2,9,146,Tested positive by CHiP,25,5,0
+Round 2,9,146,Tested negative by CHiP,242,3,0
+Round 2,9,146,Not tested/indeterminate,199,0,0
+Round 2,9,146,Self-reported living with HIV & on ART,54,1,1
+Round 2,9,147,Self-reported living with HIV & NOT on ART,15,2,1
+Round 2,9,147,Tested positive by CHiP,23,4,0
+Round 2,9,147,Tested negative by CHiP,439,6,0
+Round 2,9,147,Not tested/indeterminate,174,0,0
+Round 2,9,147,Self-reported living with HIV & on ART,85,0,0
+Round 2,9,148,Self-reported living with HIV & NOT on ART,9,0,0
+Round 2,9,148,Tested positive by CHiP,16,1,0
+Round 2,9,148,Tested negative by CHiP,307,0,0
+Round 2,9,148,Not tested/indeterminate,197,0,0
+Round 2,9,148,Self-reported living with HIV & on ART,65,0,0
+Round 2,9,149,Self-reported living with HIV & NOT on ART,16,1,0
+Round 2,9,149,Tested positive by CHiP,28,1,0
+Round 2,9,149,Tested negative by CHiP,343,6,0
+Round 2,9,149,Not tested/indeterminate,398,2,0
+Round 2,9,149,Self-reported living with HIV & on ART,83,5,0
+Round 2,9,150,Self-reported living with HIV & NOT on ART,18,1,0
+Round 2,9,150,Tested positive by CHiP,16,2,0
+Round 2,9,150,Tested negative by CHiP,665,4,0
+Round 2,9,150,Not tested/indeterminate,90,2,0
+Round 2,9,150,Self-reported living with HIV & on ART,63,0,0
+Round 2,9,151,Self-reported living with HIV & NOT on ART,25,1,0
+Round 2,9,151,Tested positive by CHiP,15,3,1
+Round 2,9,151,Tested negative by CHiP,567,0,0
+Round 2,9,151,Not tested/indeterminate,278,1,0
+Round 2,9,151,Self-reported living with HIV & on ART,81,2,1
+Round 2,9,152,Self-reported living with HIV & NOT on ART,10,0,0
+Round 2,9,152,Tested positive by CHiP,8,1,0
+Round 2,9,152,Tested negative by CHiP,240,5,0
+Round 2,9,152,Not tested/indeterminate,209,0,0
+Round 2,9,152,Self-reported living with HIV & on ART,55,7,0
+Round 2,9,153,Self-reported living with HIV & NOT on ART,5,1,0
+Round 2,9,153,Tested positive by CHiP,24,2,0
+Round 2,9,153,Tested negative by CHiP,386,4,0
+Round 2,9,153,Not tested/indeterminate,265,0,0
+Round 2,9,153,Self-reported living with HIV & on ART,81,1,0
+Round 2,9,154,Self-reported living with HIV & NOT on ART,16,1,0
+Round 2,9,154,Tested positive by CHiP,27,0,0
+Round 2,9,154,Tested negative by CHiP,405,7,0
+Round 2,9,154,Not tested/indeterminate,525,3,0
+Round 2,9,154,Self-reported living with HIV & on ART,93,1,0
+Round 2,9,155,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,9,155,Tested positive by CHiP,31,4,0
+Round 2,9,155,Tested negative by CHiP,286,0,0
+Round 2,9,155,Not tested/indeterminate,225,0,0
+Round 2,9,155,Self-reported living with HIV & on ART,101,1,0
+Round 2,9,156,Self-reported living with HIV & NOT on ART,25,0,0
+Round 2,9,156,Tested positive by CHiP,21,1,0
+Round 2,9,156,Tested negative by CHiP,283,6,0
+Round 2,9,156,Not tested/indeterminate,248,0,0
+Round 2,9,156,Self-reported living with HIV & on ART,106,0,0
+Round 2,9,157,Self-reported living with HIV & NOT on ART,8,1,0
+Round 2,9,157,Tested positive by CHiP,27,5,0
+Round 2,9,157,Tested negative by CHiP,369,3,0
+Round 2,9,157,Not tested/indeterminate,170,0,0
+Round 2,9,157,Self-reported living with HIV & on ART,59,1,0
+Round 2,9,158,Self-reported living with HIV & NOT on ART,16,0,0
+Round 2,9,158,Tested positive by CHiP,33,6,2
+Round 2,9,158,Tested negative by CHiP,311,8,0
+Round 2,9,158,Not tested/indeterminate,272,2,0
+Round 2,9,158,Self-reported living with HIV & on ART,78,2,0
+Round 2,9,159,Self-reported living with HIV & NOT on ART,23,1,0
+Round 2,9,159,Tested positive by CHiP,39,3,0
+Round 2,9,159,Tested negative by CHiP,333,3,0
+Round 2,9,159,Not tested/indeterminate,493,0,0
+Round 2,9,159,Self-reported living with HIV & on ART,90,2,0
+Round 2,9,160,Self-reported living with HIV & NOT on ART,31,0,0
+Round 2,9,160,Tested positive by CHiP,28,6,0
+Round 2,9,160,Tested negative by CHiP,298,0,0
+Round 2,9,160,Not tested/indeterminate,413,0,0
+Round 2,9,160,Self-reported living with HIV & on ART,93,1,0
+Round 2,9,161,Self-reported living with HIV & NOT on ART,13,0,0
+Round 2,9,161,Tested positive by CHiP,29,3,0
+Round 2,9,161,Tested negative by CHiP,269,4,0
+Round 2,9,161,Not tested/indeterminate,177,0,0
+Round 2,9,161,Self-reported living with HIV & on ART,83,0,0
+Round 2,9,162,Self-reported living with HIV & NOT on ART,22,0,0
+Round 2,9,162,Tested positive by CHiP,26,4,0
+Round 2,9,162,Tested negative by CHiP,366,4,1
+Round 2,9,162,Not tested/indeterminate,301,3,0
+Round 2,9,162,Self-reported living with HIV & on ART,99,4,0
+Round 2,9,163,Self-reported living with HIV & NOT on ART,18,2,1
+Round 2,9,163,Tested positive by CHiP,23,2,0
+Round 2,9,163,Tested negative by CHiP,400,5,0
+Round 2,9,163,Not tested/indeterminate,405,0,0
+Round 2,9,163,Self-reported living with HIV & on ART,94,2,0
+Round 2,9,164,Self-reported living with HIV & NOT on ART,21,0,0
+Round 2,9,164,Tested positive by CHiP,22,6,0
+Round 2,9,164,Tested negative by CHiP,409,4,1
+Round 2,9,164,Not tested/indeterminate,401,0,0
+Round 2,9,164,Self-reported living with HIV & on ART,93,3,0
+Round 2,9,165,Self-reported living with HIV & NOT on ART,22,0,0
+Round 2,9,165,Tested positive by CHiP,26,5,0
+Round 2,9,165,Tested negative by CHiP,351,8,0
+Round 2,9,165,Not tested/indeterminate,380,1,0
+Round 2,9,165,Self-reported living with HIV & on ART,81,3,0
+Round 2,9,166,Self-reported living with HIV & NOT on ART,22,0,0
+Round 2,9,166,Tested positive by CHiP,21,0,0
+Round 2,9,166,Tested negative by CHiP,428,1,0
+Round 2,9,166,Not tested/indeterminate,368,1,0
+Round 2,9,166,Self-reported living with HIV & on ART,62,0,0
+Round 2,9,167,Self-reported living with HIV & NOT on ART,26,0,0
+Round 2,9,167,Tested positive by CHiP,24,3,0
+Round 2,9,167,Tested negative by CHiP,443,2,0
+Round 2,9,167,Not tested/indeterminate,482,0,0
+Round 2,9,167,Self-reported living with HIV & on ART,98,1,0
+Round 2,9,168,Self-reported living with HIV & NOT on ART,12,0,0
+Round 2,9,168,Tested positive by CHiP,30,6,0
+Round 2,9,168,Tested negative by CHiP,445,4,0
+Round 2,9,168,Not tested/indeterminate,633,4,0
+Round 2,9,168,Self-reported living with HIV & on ART,92,0,0
+Round 2,9,169,Self-reported living with HIV & NOT on ART,11,1,0
+Round 2,9,169,Tested positive by CHiP,18,1,0
+Round 2,9,169,Tested negative by CHiP,486,5,0
+Round 2,9,169,Not tested/indeterminate,500,2,0
+Round 2,9,169,Self-reported living with HIV & on ART,81,2,1
+Round 2,9,170,Self-reported living with HIV & NOT on ART,20,1,0
+Round 2,9,170,Tested positive by CHiP,15,1,0
+Round 2,9,170,Tested negative by CHiP,419,1,0
+Round 2,9,170,Not tested/indeterminate,390,0,0
+Round 2,9,170,Self-reported living with HIV & on ART,54,0,0
+Round 2,10,171,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,10,171,Tested positive by CHiP,25,0,0
+Round 2,10,171,Tested negative by CHiP,703,4,0
+Round 2,10,171,Not tested/indeterminate,106,0,0
+Round 2,10,171,Self-reported living with HIV & on ART,92,2,0
+Round 2,10,172,Self-reported living with HIV & NOT on ART,20,1,0
+Round 2,10,172,Tested positive by CHiP,26,1,0
+Round 2,10,172,Tested negative by CHiP,496,5,0
+Round 2,10,172,Not tested/indeterminate,97,2,0
+Round 2,10,172,Self-reported living with HIV & on ART,105,4,0
+Round 2,10,173,Tested positive by CHiP,6,0,0
+Round 2,10,173,Tested negative by CHiP,400,0,0
+Round 2,10,173,Not tested/indeterminate,412,0,0
+Round 2,10,173,Self-reported living with HIV & on ART,73,0,0
+Round 2,10,174,Self-reported living with HIV & NOT on ART,8,0,0
+Round 2,10,174,Tested positive by CHiP,8,2,0
+Round 2,10,174,Tested negative by CHiP,1037,4,0
+Round 2,10,174,Not tested/indeterminate,124,0,0
+Round 2,10,174,Self-reported living with HIV & on ART,105,4,1
+Round 2,10,175,Self-reported living with HIV & NOT on ART,16,0,0
+Round 2,10,175,Tested positive by CHiP,11,0,0
+Round 2,10,175,Tested negative by CHiP,634,2,0
+Round 2,10,175,Not tested/indeterminate,163,0,0
+Round 2,10,175,Self-reported living with HIV & on ART,88,1,0
+Round 2,10,176,Self-reported living with HIV & NOT on ART,11,0,0
+Round 2,10,176,Tested positive by CHiP,11,0,0
+Round 2,10,176,Tested negative by CHiP,430,0,0
+Round 2,10,176,Not tested/indeterminate,374,1,0
+Round 2,10,176,Self-reported living with HIV & on ART,107,2,0
+Round 2,10,177,Self-reported living with HIV & NOT on ART,4,0,0
+Round 2,10,177,Tested positive by CHiP,11,2,0
+Round 2,10,177,Tested negative by CHiP,424,4,0
+Round 2,10,177,Not tested/indeterminate,174,7,0
+Round 2,10,177,Self-reported living with HIV & on ART,68,0,0
+Round 2,10,178,Self-reported living with HIV & NOT on ART,13,1,0
+Round 2,10,178,Tested positive by CHiP,25,1,1
+Round 2,10,178,Tested negative by CHiP,425,2,0
+Round 2,10,178,Not tested/indeterminate,150,0,0
+Round 2,10,178,Self-reported living with HIV & on ART,109,0,0
+Round 2,10,179,Self-reported living with HIV & NOT on ART,13,0,0
+Round 2,10,179,Tested positive by CHiP,19,0,0
+Round 2,10,179,Tested negative by CHiP,759,3,0
+Round 2,10,179,Not tested/indeterminate,189,1,0
+Round 2,10,179,Self-reported living with HIV & on ART,104,1,0
+Round 2,10,180,Self-reported living with HIV & NOT on ART,5,0,0
+Round 2,10,180,Tested positive by CHiP,26,1,0
+Round 2,10,180,Tested negative by CHiP,400,1,0
+Round 2,10,180,Not tested/indeterminate,307,0,0
+Round 2,10,180,Self-reported living with HIV & on ART,116,1,0
+Round 2,10,181,Self-reported living with HIV & NOT on ART,21,1,0
+Round 2,10,181,Tested positive by CHiP,19,1,0
+Round 2,10,181,Tested negative by CHiP,701,5,0
+Round 2,10,181,Not tested/indeterminate,232,2,0
+Round 2,10,181,Self-reported living with HIV & on ART,122,3,0
+Round 2,10,182,Self-reported living with HIV & NOT on ART,8,0,0
+Round 2,10,182,Tested positive by CHiP,11,0,0
+Round 2,10,182,Tested negative by CHiP,241,0,0
+Round 2,10,182,Not tested/indeterminate,204,0,0
+Round 2,10,182,Self-reported living with HIV & on ART,57,0,0
+Round 2,10,183,Self-reported living with HIV & NOT on ART,22,1,0
+Round 2,10,183,Tested positive by CHiP,14,0,0
+Round 2,10,183,Tested negative by CHiP,439,4,0
+Round 2,10,183,Not tested/indeterminate,185,0,0
+Round 2,10,183,Self-reported living with HIV & on ART,100,2,0
+Round 2,10,184,Self-reported living with HIV & NOT on ART,16,0,0
+Round 2,10,184,Tested positive by CHiP,15,3,0
+Round 2,10,184,Tested negative by CHiP,261,3,0
+Round 2,10,184,Not tested/indeterminate,158,4,1
+Round 2,10,184,Self-reported living with HIV & on ART,80,5,1
+Round 2,10,185,Self-reported living with HIV & NOT on ART,19,0,0
+Round 2,10,185,Tested positive by CHiP,15,1,0
+Round 2,10,185,Tested negative by CHiP,455,3,0
+Round 2,10,185,Not tested/indeterminate,173,1,0
+Round 2,10,185,Self-reported living with HIV & on ART,140,4,0
+Round 2,10,186,Self-reported living with HIV & NOT on ART,11,0,0
+Round 2,10,186,Tested positive by CHiP,11,1,1
+Round 2,10,186,Tested negative by CHiP,588,4,0
+Round 2,10,186,Not tested/indeterminate,129,2,0
+Round 2,10,186,Self-reported living with HIV & on ART,84,1,0
+Round 2,10,187,Self-reported living with HIV & NOT on ART,16,1,0
+Round 2,10,187,Tested positive by CHiP,29,1,0
+Round 2,10,187,Tested negative by CHiP,516,3,0
+Round 2,10,187,Not tested/indeterminate,84,1,0
+Round 2,10,187,Self-reported living with HIV & on ART,100,2,0
+Round 2,10,188,Self-reported living with HIV & NOT on ART,5,0,0
+Round 2,10,188,Tested positive by CHiP,8,1,0
+Round 2,10,188,Tested negative by CHiP,170,0,0
+Round 2,10,188,Not tested/indeterminate,309,0,0
+Round 2,10,188,Self-reported living with HIV & on ART,75,2,0
+Round 2,10,189,Self-reported living with HIV & NOT on ART,28,2,0
+Round 2,10,189,Tested positive by CHiP,41,3,0
+Round 2,10,189,Tested negative by CHiP,763,11,0
+Round 2,10,189,Not tested/indeterminate,165,0,0
+Round 2,10,189,Self-reported living with HIV & on ART,119,0,0
+Round 2,11,190,Self-reported living with HIV & NOT on ART,13,0,0
+Round 2,11,190,Tested positive by CHiP,9,0,0
+Round 2,11,190,Tested negative by CHiP,639,2,0
+Round 2,11,190,Not tested/indeterminate,289,3,0
+Round 2,11,190,Self-reported living with HIV & on ART,67,0,0
+Round 2,11,191,Self-reported living with HIV & NOT on ART,15,1,0
+Round 2,11,191,Tested positive by CHiP,22,2,0
+Round 2,11,191,Tested negative by CHiP,524,8,2
+Round 2,11,191,Not tested/indeterminate,473,3,0
+Round 2,11,191,Self-reported living with HIV & on ART,91,1,0
+Round 2,11,192,Self-reported living with HIV & NOT on ART,14,0,0
+Round 2,11,192,Tested positive by CHiP,14,1,0
+Round 2,11,192,Tested negative by CHiP,516,3,0
+Round 2,11,192,Not tested/indeterminate,459,5,0
+Round 2,11,192,Self-reported living with HIV & on ART,84,3,0
+Round 2,11,193,Self-reported living with HIV & NOT on ART,17,1,1
+Round 2,11,193,Tested positive by CHiP,16,0,0
+Round 2,11,193,Tested negative by CHiP,356,5,0
+Round 2,11,193,Not tested/indeterminate,182,0,0
+Round 2,11,193,Self-reported living with HIV & on ART,109,7,2
+Round 2,11,194,Self-reported living with HIV & NOT on ART,13,1,0
+Round 2,11,194,Tested positive by CHiP,13,1,1
+Round 2,11,194,Tested negative by CHiP,467,6,0
+Round 2,11,194,Not tested/indeterminate,214,0,0
+Round 2,11,194,Self-reported living with HIV & on ART,115,2,1
+Round 2,11,195,Self-reported living with HIV & NOT on ART,16,0,0
+Round 2,11,195,Tested positive by CHiP,5,0,0
+Round 2,11,195,Tested negative by CHiP,786,2,0
+Round 2,11,195,Not tested/indeterminate,430,0,0
+Round 2,11,195,Self-reported living with HIV & on ART,71,0,0
+Round 2,11,196,Self-reported living with HIV & NOT on ART,8,1,0
+Round 2,11,196,Tested positive by CHiP,22,0,0
+Round 2,11,196,Tested negative by CHiP,498,4,0
+Round 2,11,196,Not tested/indeterminate,360,1,0
+Round 2,11,196,Self-reported living with HIV & on ART,110,1,0
+Round 2,11,197,Self-reported living with HIV & NOT on ART,24,1,0
+Round 2,11,197,Tested positive by CHiP,20,0,0
+Round 2,11,197,Tested negative by CHiP,492,10,0
+Round 2,11,197,Not tested/indeterminate,268,3,0
+Round 2,11,197,Self-reported living with HIV & on ART,97,3,0
+Round 2,11,198,Self-reported living with HIV & NOT on ART,21,1,0
+Round 2,11,198,Tested positive by CHiP,27,3,1
+Round 2,11,198,Tested negative by CHiP,393,7,0
+Round 2,11,198,Not tested/indeterminate,272,0,0
+Round 2,11,198,Self-reported living with HIV & on ART,93,4,0
+Round 2,11,199,Self-reported living with HIV & NOT on ART,9,0,0
+Round 2,11,199,Tested positive by CHiP,20,0,0
+Round 2,11,199,Tested negative by CHiP,386,9,1
+Round 2,11,199,Not tested/indeterminate,164,1,0
+Round 2,11,199,Self-reported living with HIV & on ART,52,2,0
+Round 2,11,200,Self-reported living with HIV & NOT on ART,12,0,0
+Round 2,11,200,Tested positive by CHiP,23,0,0
+Round 2,11,200,Tested negative by CHiP,427,6,0
+Round 2,11,200,Not tested/indeterminate,215,0,0
+Round 2,11,200,Self-reported living with HIV & on ART,78,1,1
+Round 2,11,201,Self-reported living with HIV & NOT on ART,12,1,0
+Round 2,11,201,Tested positive by CHiP,17,0,0
+Round 2,11,201,Tested negative by CHiP,349,2,0
+Round 2,11,201,Not tested/indeterminate,333,0,0
+Round 2,11,201,Self-reported living with HIV & on ART,84,0,0
+Round 2,11,202,Self-reported living with HIV & NOT on ART,6,1,0
+Round 2,11,202,Tested positive by CHiP,14,1,0
+Round 2,11,202,Tested negative by CHiP,488,9,0
+Round 2,11,202,Not tested/indeterminate,372,2,0
+Round 2,11,202,Self-reported living with HIV & on ART,80,2,0
+Round 2,11,203,Self-reported living with HIV & NOT on ART,15,1,0
+Round 2,11,203,Tested positive by CHiP,31,2,0
+Round 2,11,203,Tested negative by CHiP,369,10,0
+Round 2,11,203,Not tested/indeterminate,276,0,0
+Round 2,11,203,Self-reported living with HIV & on ART,79,0,0
+Round 2,11,204,Self-reported living with HIV & NOT on ART,10,0,0
+Round 2,11,204,Tested positive by CHiP,27,1,1
+Round 2,11,204,Tested negative by CHiP,359,2,0
+Round 2,11,204,Not tested/indeterminate,221,2,0
+Round 2,11,204,Self-reported living with HIV & on ART,62,1,0
+Round 2,11,205,Self-reported living with HIV & NOT on ART,18,1,1
+Round 2,11,205,Tested positive by CHiP,19,0,0
+Round 2,11,205,Tested negative by CHiP,444,10,0
+Round 2,11,205,Not tested/indeterminate,205,2,0
+Round 2,11,205,Self-reported living with HIV & on ART,111,5,1
+Round 2,11,206,Self-reported living with HIV & NOT on ART,22,0,0
+Round 2,11,206,Tested positive by CHiP,21,1,0
+Round 2,11,206,Tested negative by CHiP,441,5,0
+Round 2,11,206,Not tested/indeterminate,293,0,0
+Round 2,11,206,Self-reported living with HIV & on ART,64,0,0
+Round 3,1,1,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,1,1,Tested positive by CHiP,23,2,0
+Round 3,1,1,Tested negative by CHiP,716,12,0
+Round 3,1,1,Not tested/indeterminate,164,0,0
+Round 3,1,1,Self-reported living with HIV & on ART,100,3,1
+Round 3,1,2,Self-reported living with HIV & NOT on ART,12,0,0
+Round 3,1,2,Tested positive by CHiP,12,0,0
+Round 3,1,2,Tested negative by CHiP,853,21,0
+Round 3,1,2,Not tested/indeterminate,233,3,0
+Round 3,1,2,Self-reported living with HIV & on ART,98,1,0
+Round 3,1,3,Self-reported living with HIV & NOT on ART,14,2,1
+Round 3,1,3,Tested positive by CHiP,16,3,0
+Round 3,1,3,Tested negative by CHiP,809,27,0
+Round 3,1,3,Not tested/indeterminate,229,5,0
+Round 3,1,3,Self-reported living with HIV & on ART,84,6,1
+Round 3,1,4,Self-reported living with HIV & NOT on ART,10,1,0
+Round 3,1,4,Tested positive by CHiP,21,7,1
+Round 3,1,4,Tested negative by CHiP,947,22,1
+Round 3,1,4,Not tested/indeterminate,135,0,0
+Round 3,1,4,Self-reported living with HIV & on ART,91,8,0
+Round 3,1,5,Self-reported living with HIV & NOT on ART,13,2,0
+Round 3,1,5,Tested positive by CHiP,19,1,0
+Round 3,1,5,Tested negative by CHiP,877,20,0
+Round 3,1,5,Not tested/indeterminate,195,0,0
+Round 3,1,5,Self-reported living with HIV & on ART,104,5,0
+Round 3,1,6,Self-reported living with HIV & NOT on ART,7,0,0
+Round 3,1,6,Tested positive by CHiP,17,1,0
+Round 3,1,6,Tested negative by CHiP,868,31,0
+Round 3,1,6,Not tested/indeterminate,114,0,0
+Round 3,1,6,Self-reported living with HIV & on ART,85,6,0
+Round 3,1,7,Self-reported living with HIV & NOT on ART,14,0,0
+Round 3,1,7,Tested positive by CHiP,21,1,0
+Round 3,1,7,Tested negative by CHiP,827,20,0
+Round 3,1,7,Not tested/indeterminate,224,2,0
+Round 3,1,7,Self-reported living with HIV & on ART,79,3,1
+Round 3,1,8,Self-reported living with HIV & NOT on ART,14,0,0
+Round 3,1,8,Tested positive by CHiP,28,3,0
+Round 3,1,8,Tested negative by CHiP,818,19,0
+Round 3,1,8,Not tested/indeterminate,256,1,0
+Round 3,1,8,Self-reported living with HIV & on ART,115,2,0
+Round 3,1,9,Self-reported living with HIV & NOT on ART,8,1,0
+Round 3,1,9,Tested positive by CHiP,25,2,0
+Round 3,1,9,Tested negative by CHiP,814,47,1
+Round 3,1,9,Not tested/indeterminate,167,1,0
+Round 3,1,9,Self-reported living with HIV & on ART,92,11,0
+Round 3,1,10,Self-reported living with HIV & NOT on ART,13,0,0
+Round 3,1,10,Tested positive by CHiP,21,4,0
+Round 3,1,10,Tested negative by CHiP,699,16,2
+Round 3,1,10,Not tested/indeterminate,124,1,0
+Round 3,1,10,Self-reported living with HIV & on ART,48,0,0
+Round 3,1,11,Self-reported living with HIV & NOT on ART,11,1,1
+Round 3,1,11,Tested positive by CHiP,7,0,0
+Round 3,1,11,Tested negative by CHiP,707,11,0
+Round 3,1,11,Not tested/indeterminate,178,1,0
+Round 3,1,11,Self-reported living with HIV & on ART,67,2,1
+Round 3,1,12,Self-reported living with HIV & NOT on ART,15,1,0
+Round 3,1,12,Tested positive by CHiP,26,2,0
+Round 3,1,12,Tested negative by CHiP,1213,25,0
+Round 3,1,12,Not tested/indeterminate,226,4,0
+Round 3,1,12,Self-reported living with HIV & on ART,119,1,0
+Round 3,1,13,Self-reported living with HIV & NOT on ART,12,0,0
+Round 3,1,13,Tested positive by CHiP,18,3,0
+Round 3,1,13,Tested negative by CHiP,896,52,2
+Round 3,1,13,Not tested/indeterminate,197,2,0
+Round 3,1,13,Self-reported living with HIV & on ART,108,7,0
+Round 3,1,14,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,1,14,Tested positive by CHiP,27,1,0
+Round 3,1,14,Tested negative by CHiP,1054,15,0
+Round 3,1,14,Not tested/indeterminate,202,1,0
+Round 3,1,14,Self-reported living with HIV & on ART,83,3,0
+Round 3,1,15,Self-reported living with HIV & NOT on ART,9,0,0
+Round 3,1,15,Tested positive by CHiP,25,2,1
+Round 3,1,15,Tested negative by CHiP,916,24,0
+Round 3,1,15,Not tested/indeterminate,162,0,0
+Round 3,1,15,Self-reported living with HIV & on ART,66,3,0
+Round 3,1,16,Self-reported living with HIV & NOT on ART,13,1,0
+Round 3,1,16,Tested positive by CHiP,20,0,0
+Round 3,1,16,Tested negative by CHiP,806,13,0
+Round 3,1,16,Not tested/indeterminate,184,1,0
+Round 3,1,16,Self-reported living with HIV & on ART,73,1,0
+Round 3,1,17,Self-reported living with HIV & NOT on ART,3,0,0
+Round 3,1,17,Tested positive by CHiP,19,4,2
+Round 3,1,17,Tested negative by CHiP,728,19,0
+Round 3,1,17,Not tested/indeterminate,178,3,0
+Round 3,1,17,Self-reported living with HIV & on ART,91,12,1
+Round 3,1,18,Self-reported living with HIV & NOT on ART,13,1,0
+Round 3,1,18,Tested positive by CHiP,10,0,0
+Round 3,1,18,Tested negative by CHiP,912,12,0
+Round 3,1,18,Not tested/indeterminate,176,0,0
+Round 3,1,18,Self-reported living with HIV & on ART,97,4,0
+Round 3,1,19,Self-reported living with HIV & NOT on ART,16,0,0
+Round 3,1,19,Tested positive by CHiP,16,1,0
+Round 3,1,19,Tested negative by CHiP,767,15,0
+Round 3,1,19,Not tested/indeterminate,107,0,0
+Round 3,1,19,Self-reported living with HIV & on ART,82,3,0
+Round 3,1,20,Self-reported living with HIV & NOT on ART,13,1,0
+Round 3,1,20,Tested positive by CHiP,17,1,0
+Round 3,1,20,Tested negative by CHiP,863,13,1
+Round 3,1,20,Not tested/indeterminate,166,0,0
+Round 3,1,20,Self-reported living with HIV & on ART,87,4,1
+Round 3,2,21,Self-reported living with HIV & NOT on ART,2,0,0
+Round 3,2,21,Tested positive by CHiP,16,1,0
+Round 3,2,21,Tested negative by CHiP,742,39,0
+Round 3,2,21,Not tested/indeterminate,189,2,1
+Round 3,2,21,Self-reported living with HIV & on ART,84,8,0
+Round 3,2,22,Self-reported living with HIV & NOT on ART,3,0,0
+Round 3,2,22,Tested positive by CHiP,34,12,2
+Round 3,2,22,Tested negative by CHiP,904,37,0
+Round 3,2,22,Not tested/indeterminate,174,1,0
+Round 3,2,22,Self-reported living with HIV & on ART,67,4,1
+Round 3,2,23,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,2,23,Tested positive by CHiP,20,1,0
+Round 3,2,23,Tested negative by CHiP,614,23,0
+Round 3,2,23,Not tested/indeterminate,314,4,0
+Round 3,2,23,Self-reported living with HIV & on ART,74,6,0
+Round 3,2,24,Self-reported living with HIV & NOT on ART,7,1,1
+Round 3,2,24,Tested positive by CHiP,19,5,0
+Round 3,2,24,Tested negative by CHiP,858,20,1
+Round 3,2,24,Not tested/indeterminate,142,0,0
+Round 3,2,24,Self-reported living with HIV & on ART,103,9,1
+Round 3,2,25,Self-reported living with HIV & NOT on ART,3,0,0
+Round 3,2,25,Tested positive by CHiP,24,3,0
+Round 3,2,25,Tested negative by CHiP,760,27,0
+Round 3,2,25,Not tested/indeterminate,171,2,0
+Round 3,2,25,Self-reported living with HIV & on ART,75,4,0
+Round 3,2,26,Self-reported living with HIV & NOT on ART,2,1,0
+Round 3,2,26,Tested positive by CHiP,17,4,0
+Round 3,2,26,Tested negative by CHiP,685,15,0
+Round 3,2,26,Not tested/indeterminate,180,3,0
+Round 3,2,26,Self-reported living with HIV & on ART,62,4,1
+Round 3,2,27,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,2,27,Tested positive by CHiP,14,1,0
+Round 3,2,27,Tested negative by CHiP,840,62,0
+Round 3,2,27,Not tested/indeterminate,205,5,1
+Round 3,2,27,Self-reported living with HIV & on ART,81,7,0
+Round 3,2,28,Self-reported living with HIV & NOT on ART,3,0,0
+Round 3,2,28,Tested positive by CHiP,12,2,1
+Round 3,2,28,Tested negative by CHiP,726,19,0
+Round 3,2,28,Not tested/indeterminate,165,5,0
+Round 3,2,28,Self-reported living with HIV & on ART,83,2,0
+Round 3,2,29,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,2,29,Tested positive by CHiP,16,4,0
+Round 3,2,29,Tested negative by CHiP,737,41,1
+Round 3,2,29,Not tested/indeterminate,192,4,0
+Round 3,2,29,Self-reported living with HIV & on ART,63,2,0
+Round 3,2,30,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,2,30,Tested positive by CHiP,20,6,0
+Round 3,2,30,Tested negative by CHiP,837,37,0
+Round 3,2,30,Not tested/indeterminate,197,1,0
+Round 3,2,30,Self-reported living with HIV & on ART,60,3,0
+Round 3,5,31,Self-reported living with HIV & NOT on ART,7,0,0
+Round 3,5,31,Tested positive by CHiP,25,1,0
+Round 3,5,31,Tested negative by CHiP,783,10,0
+Round 3,5,31,Not tested/indeterminate,36,0,0
+Round 3,5,31,Self-reported living with HIV & on ART,113,6,0
+Round 3,5,32,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,5,32,Tested positive by CHiP,40,3,1
+Round 3,5,32,Tested negative by CHiP,1169,29,1
+Round 3,5,32,Not tested/indeterminate,124,0,0
+Round 3,5,32,Self-reported living with HIV & on ART,72,3,0
+Round 3,5,33,Self-reported living with HIV & NOT on ART,9,0,0
+Round 3,5,33,Tested positive by CHiP,32,4,1
+Round 3,5,33,Tested negative by CHiP,915,8,0
+Round 3,5,33,Not tested/indeterminate,59,0,0
+Round 3,5,33,Self-reported living with HIV & on ART,84,6,1
+Round 3,5,34,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,5,34,Tested positive by CHiP,34,6,1
+Round 3,5,34,Tested negative by CHiP,864,21,1
+Round 3,5,34,Not tested/indeterminate,265,0,0
+Round 3,5,34,Self-reported living with HIV & on ART,126,9,0
+Round 3,5,35,Self-reported living with HIV & NOT on ART,10,0,0
+Round 3,5,35,Tested positive by CHiP,19,2,0
+Round 3,5,35,Tested negative by CHiP,949,13,0
+Round 3,5,35,Not tested/indeterminate,95,0,0
+Round 3,5,35,Self-reported living with HIV & on ART,114,7,0
+Round 3,5,36,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,5,36,Tested positive by CHiP,26,4,0
+Round 3,5,36,Tested negative by CHiP,876,7,1
+Round 3,5,36,Not tested/indeterminate,135,0,0
+Round 3,5,36,Self-reported living with HIV & on ART,52,1,0
+Round 3,5,37,Self-reported living with HIV & NOT on ART,2,0,0
+Round 3,5,37,Tested positive by CHiP,19,1,0
+Round 3,5,37,Tested negative by CHiP,1044,13,1
+Round 3,5,37,Not tested/indeterminate,76,0,0
+Round 3,5,37,Self-reported living with HIV & on ART,63,5,0
+Round 3,5,38,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,5,38,Tested positive by CHiP,37,1,0
+Round 3,5,38,Tested negative by CHiP,1023,6,1
+Round 3,5,38,Not tested/indeterminate,114,0,0
+Round 3,5,38,Self-reported living with HIV & on ART,93,2,0
+Round 3,5,39,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,5,39,Tested positive by CHiP,17,1,0
+Round 3,5,39,Tested negative by CHiP,718,8,2
+Round 3,5,39,Not tested/indeterminate,122,0,0
+Round 3,5,39,Self-reported living with HIV & on ART,113,12,0
+Round 3,5,40,Self-reported living with HIV & NOT on ART,15,4,0
+Round 3,5,40,Tested positive by CHiP,51,5,1
+Round 3,5,40,Tested negative by CHiP,880,18,1
+Round 3,5,40,Not tested/indeterminate,100,1,1
+Round 3,5,40,Self-reported living with HIV & on ART,102,7,0
+Round 3,5,41,Self-reported living with HIV & NOT on ART,6,1,0
+Round 3,5,41,Tested positive by CHiP,41,8,0
+Round 3,5,41,Tested negative by CHiP,777,3,1
+Round 3,5,41,Not tested/indeterminate,35,1,0
+Round 3,5,41,Self-reported living with HIV & on ART,59,3,0
+Round 3,5,42,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,5,42,Tested positive by CHiP,34,0,0
+Round 3,5,42,Tested negative by CHiP,779,6,0
+Round 3,5,42,Not tested/indeterminate,41,0,0
+Round 3,5,42,Self-reported living with HIV & on ART,78,3,1
+Round 3,5,43,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,5,43,Tested positive by CHiP,20,2,0
+Round 3,5,43,Tested negative by CHiP,725,6,1
+Round 3,5,43,Not tested/indeterminate,136,1,0
+Round 3,5,43,Self-reported living with HIV & on ART,77,7,1
+Round 3,5,44,Self-reported living with HIV & NOT on ART,11,1,0
+Round 3,5,44,Tested positive by CHiP,29,3,1
+Round 3,5,44,Tested negative by CHiP,894,14,2
+Round 3,5,44,Not tested/indeterminate,74,0,0
+Round 3,5,44,Self-reported living with HIV & on ART,106,12,0
+Round 3,5,45,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,5,45,Tested positive by CHiP,29,2,0
+Round 3,5,45,Tested negative by CHiP,965,12,2
+Round 3,5,45,Not tested/indeterminate,133,3,0
+Round 3,5,45,Self-reported living with HIV & on ART,121,18,4
+Round 3,5,46,Self-reported living with HIV & NOT on ART,11,1,0
+Round 3,5,46,Tested positive by CHiP,38,3,1
+Round 3,5,46,Tested negative by CHiP,927,9,2
+Round 3,5,46,Not tested/indeterminate,98,0,0
+Round 3,5,46,Self-reported living with HIV & on ART,116,7,2
+Round 3,5,47,Self-reported living with HIV & NOT on ART,10,0,0
+Round 3,5,47,Tested positive by CHiP,25,6,1
+Round 3,5,47,Tested negative by CHiP,946,2,0
+Round 3,5,47,Not tested/indeterminate,222,2,0
+Round 3,5,47,Self-reported living with HIV & on ART,112,14,0
+Round 3,5,48,Self-reported living with HIV & NOT on ART,11,1,0
+Round 3,5,48,Tested positive by CHiP,38,3,0
+Round 3,5,48,Tested negative by CHiP,962,8,1
+Round 3,5,48,Not tested/indeterminate,96,1,0
+Round 3,5,48,Self-reported living with HIV & on ART,108,5,1
+Round 3,5,49,Self-reported living with HIV & NOT on ART,8,1,0
+Round 3,5,49,Tested positive by CHiP,31,1,0
+Round 3,5,49,Tested negative by CHiP,1016,23,3
+Round 3,5,49,Not tested/indeterminate,174,1,0
+Round 3,5,49,Self-reported living with HIV & on ART,103,7,2
+Round 3,5,50,Self-reported living with HIV & NOT on ART,15,0,0
+Round 3,5,50,Tested positive by CHiP,33,1,0
+Round 3,5,50,Tested negative by CHiP,856,11,2
+Round 3,5,50,Not tested/indeterminate,21,1,1
+Round 3,5,50,Self-reported living with HIV & on ART,109,11,1
+Round 3,6,51,Self-reported living with HIV & NOT on ART,11,1,0
+Round 3,6,51,Tested positive by CHiP,22,1,0
+Round 3,6,51,Tested negative by CHiP,842,11,0
+Round 3,6,51,Not tested/indeterminate,102,0,0
+Round 3,6,51,Self-reported living with HIV & on ART,116,4,1
+Round 3,6,52,Self-reported living with HIV & NOT on ART,9,0,0
+Round 3,6,52,Tested positive by CHiP,27,2,0
+Round 3,6,52,Tested negative by CHiP,815,5,0
+Round 3,6,52,Not tested/indeterminate,65,0,0
+Round 3,6,52,Self-reported living with HIV & on ART,149,4,0
+Round 3,6,53,Self-reported living with HIV & NOT on ART,8,1,0
+Round 3,6,53,Tested positive by CHiP,23,10,0
+Round 3,6,53,Tested negative by CHiP,656,21,0
+Round 3,6,53,Not tested/indeterminate,59,2,0
+Round 3,6,53,Self-reported living with HIV & on ART,72,5,0
+Round 3,6,54,Self-reported living with HIV & NOT on ART,1,0,0
+Round 3,6,54,Tested positive by CHiP,9,3,0
+Round 3,6,54,Tested negative by CHiP,1092,13,0
+Round 3,6,54,Not tested/indeterminate,13,0,0
+Round 3,6,54,Self-reported living with HIV & on ART,127,7,1
+Round 3,6,55,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,6,55,Tested positive by CHiP,25,5,1
+Round 3,6,55,Tested negative by CHiP,854,14,0
+Round 3,6,55,Not tested/indeterminate,77,0,0
+Round 3,6,55,Self-reported living with HIV & on ART,116,3,0
+Round 3,6,56,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,6,56,Tested positive by CHiP,26,3,0
+Round 3,6,56,Tested negative by CHiP,781,15,2
+Round 3,6,56,Not tested/indeterminate,96,0,0
+Round 3,6,56,Self-reported living with HIV & on ART,110,1,0
+Round 3,6,57,Self-reported living with HIV & NOT on ART,14,0,0
+Round 3,6,57,Tested positive by CHiP,23,0,0
+Round 3,6,57,Tested negative by CHiP,617,11,0
+Round 3,6,57,Not tested/indeterminate,6,0,0
+Round 3,6,57,Self-reported living with HIV & on ART,151,5,0
+Round 3,6,58,Self-reported living with HIV & NOT on ART,9,0,0
+Round 3,6,58,Tested positive by CHiP,13,1,0
+Round 3,6,58,Tested negative by CHiP,826,7,0
+Round 3,6,58,Not tested/indeterminate,48,0,0
+Round 3,6,58,Self-reported living with HIV & on ART,147,4,0
+Round 3,6,59,Self-reported living with HIV & NOT on ART,16,0,0
+Round 3,6,59,Tested positive by CHiP,24,3,0
+Round 3,6,59,Tested negative by CHiP,507,7,1
+Round 3,6,59,Not tested/indeterminate,123,0,0
+Round 3,6,59,Self-reported living with HIV & on ART,129,1,0
+Round 3,6,60,Tested positive by CHiP,13,1,0
+Round 3,6,60,Tested negative by CHiP,686,12,0
+Round 3,6,60,Not tested/indeterminate,86,1,1
+Round 3,6,60,Self-reported living with HIV & on ART,75,2,0
+Round 3,6,61,Self-reported living with HIV & NOT on ART,13,0,0
+Round 3,6,61,Tested positive by CHiP,20,2,0
+Round 3,6,61,Tested negative by CHiP,761,7,0
+Round 3,6,61,Not tested/indeterminate,150,0,0
+Round 3,6,61,Self-reported living with HIV & on ART,164,4,0
+Round 3,6,62,Self-reported living with HIV & NOT on ART,7,1,0
+Round 3,6,62,Tested positive by CHiP,25,1,0
+Round 3,6,62,Tested negative by CHiP,725,21,0
+Round 3,6,62,Not tested/indeterminate,63,1,0
+Round 3,6,62,Self-reported living with HIV & on ART,196,0,0
+Round 3,6,63,Self-reported living with HIV & NOT on ART,9,0,0
+Round 3,6,63,Tested positive by CHiP,23,2,0
+Round 3,6,63,Tested negative by CHiP,792,21,0
+Round 3,6,63,Not tested/indeterminate,91,1,0
+Round 3,6,63,Self-reported living with HIV & on ART,142,5,0
+Round 3,6,64,Self-reported living with HIV & NOT on ART,7,0,0
+Round 3,6,64,Tested positive by CHiP,22,3,1
+Round 3,6,64,Tested negative by CHiP,800,21,0
+Round 3,6,64,Not tested/indeterminate,70,0,0
+Round 3,6,64,Self-reported living with HIV & on ART,176,6,0
+Round 3,6,65,Self-reported living with HIV & NOT on ART,17,0,0
+Round 3,6,65,Tested positive by CHiP,18,1,0
+Round 3,6,65,Tested negative by CHiP,776,7,0
+Round 3,6,65,Not tested/indeterminate,158,1,0
+Round 3,6,65,Self-reported living with HIV & on ART,179,1,0
+Round 3,6,66,Self-reported living with HIV & NOT on ART,9,1,0
+Round 3,6,66,Tested positive by CHiP,22,3,0
+Round 3,6,66,Tested negative by CHiP,718,22,0
+Round 3,6,66,Not tested/indeterminate,68,1,0
+Round 3,6,66,Self-reported living with HIV & on ART,139,8,1
+Round 3,8,67,Self-reported living with HIV & NOT on ART,10,0,0
+Round 3,8,67,Tested positive by CHiP,36,3,0
+Round 3,8,67,Tested negative by CHiP,738,23,3
+Round 3,8,67,Not tested/indeterminate,116,1,0
+Round 3,8,67,Self-reported living with HIV & on ART,130,7,1
+Round 3,8,68,Self-reported living with HIV & NOT on ART,15,1,0
+Round 3,8,68,Tested positive by CHiP,24,5,2
+Round 3,8,68,Tested negative by CHiP,635,13,1
+Round 3,8,68,Not tested/indeterminate,97,0,0
+Round 3,8,68,Self-reported living with HIV & on ART,175,7,0
+Round 3,8,69,Self-reported living with HIV & NOT on ART,14,0,0
+Round 3,8,69,Tested positive by CHiP,21,3,1
+Round 3,8,69,Tested negative by CHiP,706,19,0
+Round 3,8,69,Not tested/indeterminate,161,1,0
+Round 3,8,69,Self-reported living with HIV & on ART,116,6,0
+Round 3,8,70,Self-reported living with HIV & NOT on ART,12,1,1
+Round 3,8,70,Tested positive by CHiP,24,4,0
+Round 3,8,70,Tested negative by CHiP,675,14,0
+Round 3,8,70,Not tested/indeterminate,147,7,1
+Round 3,8,70,Self-reported living with HIV & on ART,83,5,1
+Round 3,8,71,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,8,71,Tested positive by CHiP,25,2,1
+Round 3,8,71,Tested negative by CHiP,634,14,1
+Round 3,8,71,Not tested/indeterminate,106,1,0
+Round 3,8,71,Self-reported living with HIV & on ART,110,4,0
+Round 3,8,72,Self-reported living with HIV & NOT on ART,12,1,0
+Round 3,8,72,Tested positive by CHiP,32,5,1
+Round 3,8,72,Tested negative by CHiP,619,24,0
+Round 3,8,72,Not tested/indeterminate,133,2,0
+Round 3,8,72,Self-reported living with HIV & on ART,125,6,0
+Round 3,8,73,Self-reported living with HIV & NOT on ART,21,0,0
+Round 3,8,73,Tested positive by CHiP,27,7,0
+Round 3,8,73,Tested negative by CHiP,663,11,2
+Round 3,8,73,Not tested/indeterminate,100,0,0
+Round 3,8,73,Self-reported living with HIV & on ART,81,4,0
+Round 3,8,74,Self-reported living with HIV & NOT on ART,5,1,0
+Round 3,8,74,Tested positive by CHiP,11,2,0
+Round 3,8,74,Tested negative by CHiP,469,13,0
+Round 3,8,74,Not tested/indeterminate,53,0,0
+Round 3,8,74,Self-reported living with HIV & on ART,43,6,1
+Round 3,8,75,Self-reported living with HIV & NOT on ART,12,0,0
+Round 3,8,75,Tested positive by CHiP,25,1,0
+Round 3,8,75,Tested negative by CHiP,815,15,0
+Round 3,8,75,Not tested/indeterminate,68,0,0
+Round 3,8,75,Self-reported living with HIV & on ART,108,6,0
+Round 3,8,76,Self-reported living with HIV & NOT on ART,10,0,0
+Round 3,8,76,Tested positive by CHiP,28,1,0
+Round 3,8,76,Tested negative by CHiP,741,7,0
+Round 3,8,76,Not tested/indeterminate,111,1,0
+Round 3,8,76,Self-reported living with HIV & on ART,90,3,0
+Round 3,8,77,Self-reported living with HIV & NOT on ART,5,1,0
+Round 3,8,77,Tested positive by CHiP,19,6,1
+Round 3,8,77,Tested negative by CHiP,556,12,0
+Round 3,8,77,Not tested/indeterminate,83,1,0
+Round 3,8,77,Self-reported living with HIV & on ART,76,3,0
+Round 3,8,78,Self-reported living with HIV & NOT on ART,12,1,0
+Round 3,8,78,Tested positive by CHiP,34,10,1
+Round 3,8,78,Tested negative by CHiP,672,23,0
+Round 3,8,78,Not tested/indeterminate,78,0,0
+Round 3,8,78,Self-reported living with HIV & on ART,111,6,2
+Round 3,8,79,Self-reported living with HIV & NOT on ART,14,2,0
+Round 3,8,79,Tested positive by CHiP,29,1,0
+Round 3,8,79,Tested negative by CHiP,618,9,2
+Round 3,8,79,Not tested/indeterminate,140,0,0
+Round 3,8,79,Self-reported living with HIV & on ART,126,6,1
+Round 3,8,80,Self-reported living with HIV & NOT on ART,3,0,0
+Round 3,8,80,Tested positive by CHiP,20,5,1
+Round 3,8,80,Tested negative by CHiP,1026,22,0
+Round 3,8,80,Not tested/indeterminate,88,1,0
+Round 3,8,80,Self-reported living with HIV & on ART,110,14,0
+Round 3,8,81,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,8,81,Tested positive by CHiP,5,0,0
+Round 3,8,81,Tested negative by CHiP,693,23,1
+Round 3,8,81,Not tested/indeterminate,220,5,0
+Round 3,8,81,Self-reported living with HIV & on ART,101,15,0
+Round 3,8,82,Self-reported living with HIV & NOT on ART,10,1,0
+Round 3,8,82,Tested positive by CHiP,12,4,0
+Round 3,8,82,Tested negative by CHiP,996,25,0
+Round 3,8,82,Not tested/indeterminate,97,4,0
+Round 3,8,82,Self-reported living with HIV & on ART,114,10,0
+Round 3,8,83,Self-reported living with HIV & NOT on ART,2,0,0
+Round 3,8,83,Tested positive by CHiP,6,1,0
+Round 3,8,83,Tested negative by CHiP,735,10,1
+Round 3,8,83,Not tested/indeterminate,116,0,0
+Round 3,8,83,Self-reported living with HIV & on ART,104,3,0
+Round 3,8,84,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,8,84,Tested positive by CHiP,5,1,0
+Round 3,8,84,Tested negative by CHiP,613,11,0
+Round 3,8,84,Not tested/indeterminate,251,3,0
+Round 3,8,84,Self-reported living with HIV & on ART,74,4,0
+Round 3,8,85,Self-reported living with HIV & NOT on ART,3,1,0
+Round 3,8,85,Tested positive by CHiP,11,7,0
+Round 3,8,85,Tested negative by CHiP,639,12,0
+Round 3,8,85,Not tested/indeterminate,160,4,0
+Round 3,8,85,Self-reported living with HIV & on ART,51,21,1
+Round 3,8,86,Self-reported living with HIV & NOT on ART,8,0,0
+Round 3,8,86,Tested positive by CHiP,22,10,0
+Round 3,8,86,Tested negative by CHiP,638,18,0
+Round 3,8,86,Not tested/indeterminate,161,4,0
+Round 3,8,86,Self-reported living with HIV & on ART,89,11,1
+Round 3,8,87,Self-reported living with HIV & NOT on ART,11,2,0
+Round 3,8,87,Tested positive by CHiP,24,9,0
+Round 3,8,87,Tested negative by CHiP,669,31,1
+Round 3,8,87,Not tested/indeterminate,131,2,0
+Round 3,8,87,Self-reported living with HIV & on ART,66,28,1
+Round 3,8,88,Self-reported living with HIV & NOT on ART,2,0,0
+Round 3,8,88,Tested positive by CHiP,13,2,0
+Round 3,8,88,Tested negative by CHiP,763,16,0
+Round 3,8,88,Not tested/indeterminate,174,0,0
+Round 3,8,88,Self-reported living with HIV & on ART,70,4,1
+Round 3,8,89,Self-reported living with HIV & NOT on ART,8,0,0
+Round 3,8,89,Tested positive by CHiP,27,3,1
+Round 3,8,89,Tested negative by CHiP,607,11,0
+Round 3,8,89,Not tested/indeterminate,121,0,0
+Round 3,8,89,Self-reported living with HIV & on ART,54,9,0
+Round 3,8,90,Self-reported living with HIV & NOT on ART,4,1,0
+Round 3,8,90,Tested positive by CHiP,15,0,0
+Round 3,8,90,Tested negative by CHiP,851,32,0
+Round 3,8,90,Not tested/indeterminate,36,0,0
+Round 3,8,90,Self-reported living with HIV & on ART,74,7,0
+Round 3,8,91,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,8,91,Tested positive by CHiP,19,1,0
+Round 3,8,91,Tested negative by CHiP,525,15,0
+Round 3,8,91,Not tested/indeterminate,143,1,0
+Round 3,8,91,Self-reported living with HIV & on ART,57,6,0
+Round 3,8,92,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,8,92,Tested positive by CHiP,22,3,0
+Round 3,8,92,Tested negative by CHiP,669,17,0
+Round 3,8,92,Not tested/indeterminate,224,3,0
+Round 3,8,92,Self-reported living with HIV & on ART,67,1,0
+Round 3,8,93,Self-reported living with HIV & NOT on ART,8,0,0
+Round 3,8,93,Tested positive by CHiP,13,0,0
+Round 3,8,93,Tested negative by CHiP,479,23,1
+Round 3,8,93,Not tested/indeterminate,53,2,0
+Round 3,8,93,Self-reported living with HIV & on ART,74,5,0
+Round 3,8,94,Self-reported living with HIV & NOT on ART,6,2,0
+Round 3,8,94,Tested positive by CHiP,10,1,0
+Round 3,8,94,Tested negative by CHiP,426,24,0
+Round 3,8,94,Not tested/indeterminate,109,1,0
+Round 3,8,94,Self-reported living with HIV & on ART,75,3,0
+Round 3,8,95,Self-reported living with HIV & NOT on ART,4,1,1
+Round 3,8,95,Tested positive by CHiP,14,6,0
+Round 3,8,95,Tested negative by CHiP,280,12,2
+Round 3,8,95,Not tested/indeterminate,83,0,0
+Round 3,8,95,Self-reported living with HIV & on ART,92,3,1
+Round 3,8,96,Self-reported living with HIV & NOT on ART,8,0,0
+Round 3,8,96,Tested positive by CHiP,22,5,1
+Round 3,8,96,Tested negative by CHiP,635,9,0
+Round 3,8,96,Not tested/indeterminate,115,2,0
+Round 3,8,96,Self-reported living with HIV & on ART,124,11,1
+Round 3,8,97,Self-reported living with HIV & NOT on ART,3,0,0
+Round 3,8,97,Tested positive by CHiP,19,1,1
+Round 3,8,97,Tested negative by CHiP,738,7,0
+Round 3,8,97,Not tested/indeterminate,212,2,0
+Round 3,8,97,Self-reported living with HIV & on ART,83,1,0
+Round 3,8,98,Self-reported living with HIV & NOT on ART,8,1,0
+Round 3,8,98,Tested positive by CHiP,13,1,0
+Round 3,8,98,Tested negative by CHiP,496,24,1
+Round 3,8,98,Not tested/indeterminate,122,0,0
+Round 3,8,98,Self-reported living with HIV & on ART,124,28,1
+Round 3,8,99,Self-reported living with HIV & NOT on ART,5,2,0
+Round 3,8,99,Tested positive by CHiP,14,2,0
+Round 3,8,99,Tested negative by CHiP,737,13,0
+Round 3,8,99,Not tested/indeterminate,113,2,0
+Round 3,8,99,Self-reported living with HIV & on ART,39,4,0
+Round 3,8,100,Self-reported living with HIV & NOT on ART,8,0,0
+Round 3,8,100,Tested positive by CHiP,13,1,0
+Round 3,8,100,Tested negative by CHiP,506,20,0
+Round 3,8,100,Not tested/indeterminate,221,0,0
+Round 3,8,100,Self-reported living with HIV & on ART,58,10,0
+Round 3,8,101,Self-reported living with HIV & NOT on ART,3,0,0
+Round 3,8,101,Tested positive by CHiP,17,6,1
+Round 3,8,101,Tested negative by CHiP,376,10,0
+Round 3,8,101,Not tested/indeterminate,89,1,0
+Round 3,8,101,Self-reported living with HIV & on ART,76,13,1
+Round 3,8,102,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,8,102,Tested positive by CHiP,11,1,0
+Round 3,8,102,Tested negative by CHiP,541,16,0
+Round 3,8,102,Not tested/indeterminate,305,3,0
+Round 3,8,102,Self-reported living with HIV & on ART,87,6,1
+Round 3,8,103,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,8,103,Tested positive by CHiP,19,7,2
+Round 3,8,103,Tested negative by CHiP,566,18,0
+Round 3,8,103,Not tested/indeterminate,143,4,1
+Round 3,8,103,Self-reported living with HIV & on ART,85,5,0
+Round 3,8,104,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,8,104,Tested positive by CHiP,11,1,0
+Round 3,8,104,Tested negative by CHiP,584,19,1
+Round 3,8,104,Not tested/indeterminate,213,1,0
+Round 3,8,104,Self-reported living with HIV & on ART,92,4,0
+Round 3,8,105,Self-reported living with HIV & NOT on ART,2,0,0
+Round 3,8,105,Tested positive by CHiP,14,3,1
+Round 3,8,105,Tested negative by CHiP,584,17,0
+Round 3,8,105,Not tested/indeterminate,148,1,0
+Round 3,8,105,Self-reported living with HIV & on ART,81,11,1
+Round 3,8,106,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,8,106,Tested positive by CHiP,14,4,0
+Round 3,8,106,Tested negative by CHiP,675,43,0
+Round 3,8,106,Not tested/indeterminate,126,2,0
+Round 3,8,106,Self-reported living with HIV & on ART,75,5,0
+Round 3,8,107,Self-reported living with HIV & NOT on ART,8,0,0
+Round 3,8,107,Tested positive by CHiP,26,2,0
+Round 3,8,107,Tested negative by CHiP,554,28,1
+Round 3,8,107,Not tested/indeterminate,174,0,0
+Round 3,8,107,Self-reported living with HIV & on ART,112,9,1
+Round 3,8,108,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,8,108,Tested positive by CHiP,18,6,0
+Round 3,8,108,Tested negative by CHiP,668,14,0
+Round 3,8,108,Not tested/indeterminate,133,3,0
+Round 3,8,108,Self-reported living with HIV & on ART,81,4,0
+Round 3,8,109,Self-reported living with HIV & NOT on ART,4,2,0
+Round 3,8,109,Tested positive by CHiP,25,6,1
+Round 3,8,109,Tested negative by CHiP,593,14,0
+Round 3,8,109,Not tested/indeterminate,127,2,0
+Round 3,8,109,Self-reported living with HIV & on ART,95,22,0
+Round 3,8,110,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,8,110,Tested positive by CHiP,22,3,1
+Round 3,8,110,Tested negative by CHiP,719,11,0
+Round 3,8,110,Not tested/indeterminate,121,0,0
+Round 3,8,110,Self-reported living with HIV & on ART,110,12,1
+Round 3,8,111,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,8,111,Tested positive by CHiP,19,2,0
+Round 3,8,111,Tested negative by CHiP,509,8,0
+Round 3,8,111,Not tested/indeterminate,148,1,0
+Round 3,8,111,Self-reported living with HIV & on ART,82,11,2
+Round 3,8,112,Self-reported living with HIV & NOT on ART,14,0,0
+Round 3,8,112,Tested positive by CHiP,12,2,0
+Round 3,8,112,Tested negative by CHiP,487,2,0
+Round 3,8,112,Not tested/indeterminate,83,2,0
+Round 3,8,112,Self-reported living with HIV & on ART,43,1,0
+Round 3,8,113,Self-reported living with HIV & NOT on ART,2,0,0
+Round 3,8,113,Tested positive by CHiP,10,0,0
+Round 3,8,113,Tested negative by CHiP,687,14,0
+Round 3,8,113,Not tested/indeterminate,188,5,0
+Round 3,8,113,Self-reported living with HIV & on ART,45,2,1
+Round 3,8,114,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,8,114,Tested positive by CHiP,20,1,0
+Round 3,8,114,Tested negative by CHiP,570,10,1
+Round 3,8,114,Not tested/indeterminate,155,2,0
+Round 3,8,114,Self-reported living with HIV & on ART,112,9,2
+Round 3,8,115,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,8,115,Tested positive by CHiP,23,4,0
+Round 3,8,115,Tested negative by CHiP,682,15,0
+Round 3,8,115,Not tested/indeterminate,114,1,0
+Round 3,8,115,Self-reported living with HIV & on ART,74,6,0
+Round 3,8,116,Self-reported living with HIV & NOT on ART,1,0,0
+Round 3,8,116,Tested positive by CHiP,25,1,0
+Round 3,8,116,Tested negative by CHiP,504,4,0
+Round 3,8,116,Not tested/indeterminate,174,2,0
+Round 3,8,116,Self-reported living with HIV & on ART,83,20,0
+Round 3,8,117,Tested positive by CHiP,16,2,1
+Round 3,8,117,Tested negative by CHiP,499,19,0
+Round 3,8,117,Not tested/indeterminate,134,1,0
+Round 3,8,117,Self-reported living with HIV & on ART,103,13,0
+Round 3,8,118,Self-reported living with HIV & NOT on ART,10,2,1
+Round 3,8,118,Tested positive by CHiP,17,3,0
+Round 3,8,118,Tested negative by CHiP,531,30,0
+Round 3,8,118,Not tested/indeterminate,155,1,0
+Round 3,8,118,Self-reported living with HIV & on ART,71,8,0
+Round 3,8,119,Self-reported living with HIV & NOT on ART,4,1,0
+Round 3,8,119,Tested positive by CHiP,23,2,0
+Round 3,8,119,Tested negative by CHiP,581,12,1
+Round 3,8,119,Not tested/indeterminate,75,3,0
+Round 3,8,119,Self-reported living with HIV & on ART,74,11,1
+Round 3,8,120,Self-reported living with HIV & NOT on ART,2,0,0
+Round 3,8,120,Tested positive by CHiP,21,2,0
+Round 3,8,120,Tested negative by CHiP,477,5,0
+Round 3,8,120,Not tested/indeterminate,77,1,0
+Round 3,8,120,Self-reported living with HIV & on ART,78,8,0
+Round 3,9,121,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,9,121,Tested positive by CHiP,22,4,0
+Round 3,9,121,Tested negative by CHiP,578,18,0
+Round 3,9,121,Not tested/indeterminate,263,4,0
+Round 3,9,121,Self-reported living with HIV & on ART,66,0,0
+Round 3,9,122,Self-reported living with HIV & NOT on ART,10,0,0
+Round 3,9,122,Tested positive by CHiP,30,6,0
+Round 3,9,122,Tested negative by CHiP,542,12,0
+Round 3,9,122,Not tested/indeterminate,189,2,0
+Round 3,9,122,Self-reported living with HIV & on ART,115,2,0
+Round 3,9,123,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,9,123,Tested positive by CHiP,37,1,0
+Round 3,9,123,Tested negative by CHiP,517,13,0
+Round 3,9,123,Not tested/indeterminate,166,4,0
+Round 3,9,123,Self-reported living with HIV & on ART,94,6,2
+Round 3,9,124,Self-reported living with HIV & NOT on ART,2,0,0
+Round 3,9,124,Tested positive by CHiP,18,0,0
+Round 3,9,124,Tested negative by CHiP,556,11,0
+Round 3,9,124,Not tested/indeterminate,172,0,0
+Round 3,9,124,Self-reported living with HIV & on ART,116,3,0
+Round 3,9,125,Self-reported living with HIV & NOT on ART,8,1,0
+Round 3,9,125,Tested positive by CHiP,28,4,0
+Round 3,9,125,Tested negative by CHiP,554,14,0
+Round 3,9,125,Not tested/indeterminate,148,0,0
+Round 3,9,125,Self-reported living with HIV & on ART,73,5,0
+Round 3,9,126,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,9,126,Tested positive by CHiP,11,1,0
+Round 3,9,126,Tested negative by CHiP,421,12,0
+Round 3,9,126,Not tested/indeterminate,289,5,0
+Round 3,9,126,Self-reported living with HIV & on ART,89,5,0
+Round 3,9,127,Self-reported living with HIV & NOT on ART,20,2,0
+Round 3,9,127,Tested positive by CHiP,45,1,0
+Round 3,9,127,Tested negative by CHiP,557,6,0
+Round 3,9,127,Not tested/indeterminate,148,0,0
+Round 3,9,127,Self-reported living with HIV & on ART,125,2,0
+Round 3,9,128,Self-reported living with HIV & NOT on ART,14,1,0
+Round 3,9,128,Tested positive by CHiP,12,2,0
+Round 3,9,128,Tested negative by CHiP,468,19,0
+Round 3,9,128,Not tested/indeterminate,260,1,0
+Round 3,9,128,Self-reported living with HIV & on ART,83,3,0
+Round 3,9,129,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,9,129,Tested positive by CHiP,23,1,0
+Round 3,9,129,Tested negative by CHiP,518,16,0
+Round 3,9,129,Not tested/indeterminate,226,0,0
+Round 3,9,129,Self-reported living with HIV & on ART,77,1,0
+Round 3,9,130,Self-reported living with HIV & NOT on ART,3,0,0
+Round 3,9,130,Tested positive by CHiP,18,3,0
+Round 3,9,130,Tested negative by CHiP,661,32,2
+Round 3,9,130,Not tested/indeterminate,220,8,0
+Round 3,9,130,Self-reported living with HIV & on ART,67,3,0
+Round 3,9,131,Self-reported living with HIV & NOT on ART,9,2,0
+Round 3,9,131,Tested positive by CHiP,16,3,0
+Round 3,9,131,Tested negative by CHiP,510,14,0
+Round 3,9,131,Not tested/indeterminate,214,1,0
+Round 3,9,131,Self-reported living with HIV & on ART,66,5,0
+Round 3,9,132,Self-reported living with HIV & NOT on ART,8,1,0
+Round 3,9,132,Tested positive by CHiP,24,3,0
+Round 3,9,132,Tested negative by CHiP,419,13,0
+Round 3,9,132,Not tested/indeterminate,236,3,0
+Round 3,9,132,Self-reported living with HIV & on ART,94,6,0
+Round 3,9,133,Self-reported living with HIV & NOT on ART,3,1,0
+Round 3,9,133,Tested positive by CHiP,24,5,0
+Round 3,9,133,Tested negative by CHiP,557,9,0
+Round 3,9,133,Not tested/indeterminate,219,0,0
+Round 3,9,133,Self-reported living with HIV & on ART,89,3,0
+Round 3,9,134,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,9,134,Tested positive by CHiP,23,3,0
+Round 3,9,134,Tested negative by CHiP,414,8,0
+Round 3,9,134,Not tested/indeterminate,310,3,0
+Round 3,9,134,Self-reported living with HIV & on ART,96,2,0
+Round 3,9,135,Self-reported living with HIV & NOT on ART,13,1,0
+Round 3,9,135,Tested positive by CHiP,18,1,0
+Round 3,9,135,Tested negative by CHiP,452,7,0
+Round 3,9,135,Not tested/indeterminate,340,0,0
+Round 3,9,135,Self-reported living with HIV & on ART,92,6,0
+Round 3,9,136,Self-reported living with HIV & NOT on ART,15,0,0
+Round 3,9,136,Tested positive by CHiP,13,0,0
+Round 3,9,136,Tested negative by CHiP,541,1,0
+Round 3,9,136,Not tested/indeterminate,371,0,0
+Round 3,9,136,Self-reported living with HIV & on ART,101,0,0
+Round 3,9,137,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,9,137,Tested positive by CHiP,24,2,0
+Round 3,9,137,Tested negative by CHiP,397,4,0
+Round 3,9,137,Not tested/indeterminate,288,1,0
+Round 3,9,137,Self-reported living with HIV & on ART,114,8,0
+Round 3,9,138,Self-reported living with HIV & NOT on ART,7,1,0
+Round 3,9,138,Tested positive by CHiP,20,4,0
+Round 3,9,138,Tested negative by CHiP,360,6,0
+Round 3,9,138,Not tested/indeterminate,253,1,0
+Round 3,9,138,Self-reported living with HIV & on ART,96,4,0
+Round 3,9,139,Self-reported living with HIV & NOT on ART,8,0,0
+Round 3,9,139,Tested positive by CHiP,15,4,1
+Round 3,9,139,Tested negative by CHiP,470,7,0
+Round 3,9,139,Not tested/indeterminate,364,0,0
+Round 3,9,139,Self-reported living with HIV & on ART,66,0,0
+Round 3,9,140,Self-reported living with HIV & NOT on ART,7,0,0
+Round 3,9,140,Tested positive by CHiP,19,2,0
+Round 3,9,140,Tested negative by CHiP,684,8,1
+Round 3,9,140,Not tested/indeterminate,219,5,0
+Round 3,9,140,Self-reported living with HIV & on ART,118,4,0
+Round 3,9,141,Self-reported living with HIV & NOT on ART,10,0,0
+Round 3,9,141,Tested positive by CHiP,15,0,0
+Round 3,9,141,Tested negative by CHiP,380,4,0
+Round 3,9,141,Not tested/indeterminate,265,0,0
+Round 3,9,141,Self-reported living with HIV & on ART,57,1,0
+Round 3,9,142,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,9,142,Tested positive by CHiP,18,3,0
+Round 3,9,142,Tested negative by CHiP,461,7,0
+Round 3,9,142,Not tested/indeterminate,339,0,0
+Round 3,9,142,Self-reported living with HIV & on ART,70,3,0
+Round 3,9,143,Self-reported living with HIV & NOT on ART,3,0,0
+Round 3,9,143,Tested positive by CHiP,10,0,0
+Round 3,9,143,Tested negative by CHiP,512,4,0
+Round 3,9,143,Not tested/indeterminate,215,0,0
+Round 3,9,143,Self-reported living with HIV & on ART,92,3,0
+Round 3,9,144,Self-reported living with HIV & NOT on ART,8,0,0
+Round 3,9,144,Tested positive by CHiP,21,3,0
+Round 3,9,144,Tested negative by CHiP,545,13,0
+Round 3,9,144,Not tested/indeterminate,230,4,0
+Round 3,9,144,Self-reported living with HIV & on ART,88,5,1
+Round 3,9,145,Self-reported living with HIV & NOT on ART,5,1,0
+Round 3,9,145,Tested positive by CHiP,22,9,0
+Round 3,9,145,Tested negative by CHiP,452,4,0
+Round 3,9,145,Not tested/indeterminate,268,1,0
+Round 3,9,145,Self-reported living with HIV & on ART,70,3,0
+Round 3,9,146,Self-reported living with HIV & NOT on ART,15,1,0
+Round 3,9,146,Tested positive by CHiP,22,4,0
+Round 3,9,146,Tested negative by CHiP,350,4,0
+Round 3,9,146,Not tested/indeterminate,249,0,0
+Round 3,9,146,Self-reported living with HIV & on ART,96,1,1
+Round 3,9,147,Self-reported living with HIV & NOT on ART,9,1,0
+Round 3,9,147,Tested positive by CHiP,26,9,2
+Round 3,9,147,Tested negative by CHiP,507,27,1
+Round 3,9,147,Not tested/indeterminate,210,2,0
+Round 3,9,147,Self-reported living with HIV & on ART,101,5,0
+Round 3,9,148,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,9,148,Tested positive by CHiP,29,4,0
+Round 3,9,148,Tested negative by CHiP,594,26,0
+Round 3,9,148,Not tested/indeterminate,294,4,0
+Round 3,9,148,Self-reported living with HIV & on ART,91,2,0
+Round 3,9,149,Self-reported living with HIV & NOT on ART,7,0,0
+Round 3,9,149,Tested positive by CHiP,30,1,0
+Round 3,9,149,Tested negative by CHiP,597,5,0
+Round 3,9,149,Not tested/indeterminate,229,0,0
+Round 3,9,149,Self-reported living with HIV & on ART,107,1,0
+Round 3,9,150,Self-reported living with HIV & NOT on ART,14,1,0
+Round 3,9,150,Tested positive by CHiP,27,1,0
+Round 3,9,150,Tested negative by CHiP,596,14,0
+Round 3,9,150,Not tested/indeterminate,110,2,0
+Round 3,9,150,Self-reported living with HIV & on ART,95,3,0
+Round 3,9,151,Self-reported living with HIV & NOT on ART,10,1,0
+Round 3,9,151,Tested positive by CHiP,21,1,0
+Round 3,9,151,Tested negative by CHiP,757,16,0
+Round 3,9,151,Not tested/indeterminate,250,3,0
+Round 3,9,151,Self-reported living with HIV & on ART,86,0,0
+Round 3,9,152,Self-reported living with HIV & NOT on ART,4,2,0
+Round 3,9,152,Tested positive by CHiP,29,8,0
+Round 3,9,152,Tested negative by CHiP,532,24,0
+Round 3,9,152,Not tested/indeterminate,220,0,0
+Round 3,9,152,Self-reported living with HIV & on ART,87,4,0
+Round 3,9,153,Self-reported living with HIV & NOT on ART,9,1,0
+Round 3,9,153,Tested positive by CHiP,31,6,0
+Round 3,9,153,Tested negative by CHiP,720,21,1
+Round 3,9,153,Not tested/indeterminate,163,0,0
+Round 3,9,153,Self-reported living with HIV & on ART,131,5,1
+Round 3,9,154,Self-reported living with HIV & NOT on ART,13,1,0
+Round 3,9,154,Tested positive by CHiP,40,6,1
+Round 3,9,154,Tested negative by CHiP,439,7,0
+Round 3,9,154,Not tested/indeterminate,244,4,0
+Round 3,9,154,Self-reported living with HIV & on ART,97,3,0
+Round 3,9,155,Self-reported living with HIV & NOT on ART,8,1,0
+Round 3,9,155,Tested positive by CHiP,44,4,0
+Round 3,9,155,Tested negative by CHiP,603,9,1
+Round 3,9,155,Not tested/indeterminate,158,0,0
+Round 3,9,155,Self-reported living with HIV & on ART,141,3,0
+Round 3,9,156,Self-reported living with HIV & NOT on ART,26,2,0
+Round 3,9,156,Tested positive by CHiP,30,3,0
+Round 3,9,156,Tested negative by CHiP,583,11,0
+Round 3,9,156,Not tested/indeterminate,246,1,0
+Round 3,9,156,Self-reported living with HIV & on ART,158,15,0
+Round 3,9,157,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,9,157,Tested positive by CHiP,34,4,1
+Round 3,9,157,Tested negative by CHiP,605,23,1
+Round 3,9,157,Not tested/indeterminate,224,7,0
+Round 3,9,157,Self-reported living with HIV & on ART,98,5,1
+Round 3,9,158,Self-reported living with HIV & NOT on ART,16,1,0
+Round 3,9,158,Tested positive by CHiP,27,1,0
+Round 3,9,158,Tested negative by CHiP,526,18,0
+Round 3,9,158,Not tested/indeterminate,235,3,0
+Round 3,9,158,Self-reported living with HIV & on ART,109,7,0
+Round 3,9,159,Self-reported living with HIV & NOT on ART,7,0,0
+Round 3,9,159,Tested positive by CHiP,39,4,0
+Round 3,9,159,Tested negative by CHiP,498,17,0
+Round 3,9,159,Not tested/indeterminate,173,2,0
+Round 3,9,159,Self-reported living with HIV & on ART,116,6,1
+Round 3,9,160,Self-reported living with HIV & NOT on ART,11,1,0
+Round 3,9,160,Tested positive by CHiP,36,2,0
+Round 3,9,160,Tested negative by CHiP,475,19,0
+Round 3,9,160,Not tested/indeterminate,179,3,0
+Round 3,9,160,Self-reported living with HIV & on ART,122,11,0
+Round 3,9,161,Self-reported living with HIV & NOT on ART,14,0,0
+Round 3,9,161,Tested positive by CHiP,39,8,0
+Round 3,9,161,Tested negative by CHiP,463,7,1
+Round 3,9,161,Not tested/indeterminate,158,1,0
+Round 3,9,161,Self-reported living with HIV & on ART,113,6,0
+Round 3,9,162,Self-reported living with HIV & NOT on ART,16,3,0
+Round 3,9,162,Tested positive by CHiP,22,6,0
+Round 3,9,162,Tested negative by CHiP,569,16,0
+Round 3,9,162,Not tested/indeterminate,138,2,0
+Round 3,9,162,Self-reported living with HIV & on ART,118,14,1
+Round 3,9,163,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,9,163,Tested positive by CHiP,21,3,0
+Round 3,9,163,Tested negative by CHiP,429,8,0
+Round 3,9,163,Not tested/indeterminate,160,0,0
+Round 3,9,163,Self-reported living with HIV & on ART,95,6,1
+Round 3,9,164,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,9,164,Tested positive by CHiP,31,17,0
+Round 3,9,164,Tested negative by CHiP,564,19,0
+Round 3,9,164,Not tested/indeterminate,139,1,0
+Round 3,9,164,Self-reported living with HIV & on ART,99,5,0
+Round 3,9,165,Self-reported living with HIV & NOT on ART,8,1,0
+Round 3,9,165,Tested positive by CHiP,36,5,0
+Round 3,9,165,Tested negative by CHiP,571,17,0
+Round 3,9,165,Not tested/indeterminate,151,5,0
+Round 3,9,165,Self-reported living with HIV & on ART,129,10,0
+Round 3,9,166,Self-reported living with HIV & NOT on ART,13,0,0
+Round 3,9,166,Tested positive by CHiP,32,0,0
+Round 3,9,166,Tested negative by CHiP,509,11,0
+Round 3,9,166,Not tested/indeterminate,147,0,0
+Round 3,9,166,Self-reported living with HIV & on ART,92,4,0
+Round 3,9,167,Self-reported living with HIV & NOT on ART,9,2,0
+Round 3,9,167,Tested positive by CHiP,37,3,1
+Round 3,9,167,Tested negative by CHiP,687,10,0
+Round 3,9,167,Not tested/indeterminate,137,0,0
+Round 3,9,167,Self-reported living with HIV & on ART,109,3,0
+Round 3,9,168,Self-reported living with HIV & NOT on ART,8,0,0
+Round 3,9,168,Tested positive by CHiP,34,2,0
+Round 3,9,168,Tested negative by CHiP,606,24,0
+Round 3,9,168,Not tested/indeterminate,201,3,0
+Round 3,9,168,Self-reported living with HIV & on ART,99,9,0
+Round 3,9,169,Self-reported living with HIV & NOT on ART,7,0,0
+Round 3,9,169,Tested positive by CHiP,25,5,0
+Round 3,9,169,Tested negative by CHiP,604,10,0
+Round 3,9,169,Not tested/indeterminate,195,4,0
+Round 3,9,169,Self-reported living with HIV & on ART,90,5,0
+Round 3,9,170,Self-reported living with HIV & NOT on ART,17,0,0
+Round 3,9,170,Tested positive by CHiP,15,3,0
+Round 3,9,170,Tested negative by CHiP,507,23,0
+Round 3,9,170,Not tested/indeterminate,212,5,0
+Round 3,9,170,Self-reported living with HIV & on ART,76,4,0
+Round 3,10,171,Self-reported living with HIV & NOT on ART,7,0,0
+Round 3,10,171,Tested positive by CHiP,13,0,0
+Round 3,10,171,Tested negative by CHiP,564,11,0
+Round 3,10,171,Not tested/indeterminate,132,0,0
+Round 3,10,171,Self-reported living with HIV & on ART,111,4,1
+Round 3,10,172,Self-reported living with HIV & NOT on ART,9,1,0
+Round 3,10,172,Tested positive by CHiP,18,4,0
+Round 3,10,172,Tested negative by CHiP,411,19,2
+Round 3,10,172,Not tested/indeterminate,180,5,0
+Round 3,10,172,Self-reported living with HIV & on ART,111,8,0
+Round 3,10,173,Self-reported living with HIV & NOT on ART,3,0,0
+Round 3,10,173,Tested positive by CHiP,11,0,0
+Round 3,10,173,Tested negative by CHiP,458,14,0
+Round 3,10,173,Not tested/indeterminate,232,2,0
+Round 3,10,173,Self-reported living with HIV & on ART,92,10,1
+Round 3,10,174,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,10,174,Tested positive by CHiP,11,0,0
+Round 3,10,174,Tested negative by CHiP,377,7,0
+Round 3,10,174,Not tested/indeterminate,254,1,0
+Round 3,10,174,Self-reported living with HIV & on ART,102,2,0
+Round 3,10,175,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,10,175,Tested positive by CHiP,16,1,0
+Round 3,10,175,Tested negative by CHiP,696,5,0
+Round 3,10,175,Not tested/indeterminate,105,0,0
+Round 3,10,175,Self-reported living with HIV & on ART,119,3,0
+Round 3,10,176,Self-reported living with HIV & NOT on ART,4,0,0
+Round 3,10,176,Tested positive by CHiP,8,1,0
+Round 3,10,176,Tested negative by CHiP,841,18,0
+Round 3,10,176,Not tested/indeterminate,136,0,0
+Round 3,10,176,Self-reported living with HIV & on ART,135,8,0
+Round 3,10,177,Self-reported living with HIV & NOT on ART,10,0,0
+Round 3,10,177,Tested positive by CHiP,12,2,0
+Round 3,10,177,Tested negative by CHiP,441,7,0
+Round 3,10,177,Not tested/indeterminate,141,0,0
+Round 3,10,177,Self-reported living with HIV & on ART,81,3,0
+Round 3,10,178,Self-reported living with HIV & NOT on ART,9,0,0
+Round 3,10,178,Tested positive by CHiP,17,3,0
+Round 3,10,178,Tested negative by CHiP,510,3,1
+Round 3,10,178,Not tested/indeterminate,145,2,0
+Round 3,10,178,Self-reported living with HIV & on ART,128,1,0
+Round 3,10,179,Self-reported living with HIV & NOT on ART,11,2,0
+Round 3,10,179,Tested positive by CHiP,24,4,1
+Round 3,10,179,Tested negative by CHiP,514,9,0
+Round 3,10,179,Not tested/indeterminate,203,1,0
+Round 3,10,179,Self-reported living with HIV & on ART,89,2,0
+Round 3,10,180,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,10,180,Tested positive by CHiP,28,1,0
+Round 3,10,180,Tested negative by CHiP,567,10,0
+Round 3,10,180,Not tested/indeterminate,181,1,0
+Round 3,10,180,Self-reported living with HIV & on ART,128,3,1
+Round 3,10,181,Self-reported living with HIV & NOT on ART,14,0,0
+Round 3,10,181,Tested positive by CHiP,23,2,0
+Round 3,10,181,Tested negative by CHiP,520,11,0
+Round 3,10,181,Not tested/indeterminate,205,1,1
+Round 3,10,181,Self-reported living with HIV & on ART,101,4,1
+Round 3,10,182,Self-reported living with HIV & NOT on ART,6,0,0
+Round 3,10,182,Tested positive by CHiP,12,0,0
+Round 3,10,182,Tested negative by CHiP,398,4,0
+Round 3,10,182,Not tested/indeterminate,142,0,0
+Round 3,10,182,Self-reported living with HIV & on ART,66,5,1
+Round 3,10,183,Self-reported living with HIV & NOT on ART,15,0,0
+Round 3,10,183,Tested positive by CHiP,11,2,0
+Round 3,10,183,Tested negative by CHiP,725,10,0
+Round 3,10,183,Not tested/indeterminate,111,1,0
+Round 3,10,183,Self-reported living with HIV & on ART,139,11,1
+Round 3,10,184,Self-reported living with HIV & NOT on ART,7,1,0
+Round 3,10,184,Tested positive by CHiP,11,1,0
+Round 3,10,184,Tested negative by CHiP,333,12,1
+Round 3,10,184,Not tested/indeterminate,182,9,0
+Round 3,10,184,Self-reported living with HIV & on ART,125,12,2
+Round 3,10,185,Self-reported living with HIV & NOT on ART,9,1,0
+Round 3,10,185,Tested positive by CHiP,16,3,1
+Round 3,10,185,Tested negative by CHiP,380,8,1
+Round 3,10,185,Not tested/indeterminate,190,5,0
+Round 3,10,185,Self-reported living with HIV & on ART,142,13,0
+Round 3,10,186,Self-reported living with HIV & NOT on ART,7,0,0
+Round 3,10,186,Tested positive by CHiP,11,1,0
+Round 3,10,186,Tested negative by CHiP,437,10,1
+Round 3,10,186,Not tested/indeterminate,222,3,0
+Round 3,10,186,Self-reported living with HIV & on ART,99,2,0
+Round 3,10,187,Self-reported living with HIV & NOT on ART,15,2,0
+Round 3,10,187,Tested positive by CHiP,22,1,0
+Round 3,10,187,Tested negative by CHiP,399,5,0
+Round 3,10,187,Not tested/indeterminate,105,2,0
+Round 3,10,187,Self-reported living with HIV & on ART,120,11,1
+Round 3,10,188,Self-reported living with HIV & NOT on ART,2,0,0
+Round 3,10,188,Tested positive by CHiP,21,2,1
+Round 3,10,188,Tested negative by CHiP,598,7,0
+Round 3,10,188,Not tested/indeterminate,207,2,0
+Round 3,10,188,Self-reported living with HIV & on ART,140,1,0
+Round 3,10,189,Self-reported living with HIV & NOT on ART,17,0,0
+Round 3,10,189,Tested positive by CHiP,23,6,1
+Round 3,10,189,Tested negative by CHiP,843,13,0
+Round 3,10,189,Not tested/indeterminate,108,0,0
+Round 3,10,189,Self-reported living with HIV & on ART,138,6,0
+Round 3,11,190,Self-reported living with HIV & NOT on ART,5,0,0
+Round 3,11,190,Tested positive by CHiP,13,1,0
+Round 3,11,190,Tested negative by CHiP,595,12,0
+Round 3,11,190,Not tested/indeterminate,236,0,0
+Round 3,11,190,Self-reported living with HIV & on ART,74,1,0
+Round 3,11,191,Self-reported living with HIV & NOT on ART,14,0,0
+Round 3,11,191,Tested positive by CHiP,13,0,0
+Round 3,11,191,Tested negative by CHiP,577,15,0
+Round 3,11,191,Not tested/indeterminate,228,0,0
+Round 3,11,191,Self-reported living with HIV & on ART,105,5,0
+Round 3,11,192,Self-reported living with HIV & NOT on ART,18,0,0
+Round 3,11,192,Tested positive by CHiP,17,0,0
+Round 3,11,192,Tested negative by CHiP,689,14,0
+Round 3,11,192,Not tested/indeterminate,388,5,0
+Round 3,11,192,Self-reported living with HIV & on ART,106,6,0
+Round 3,11,193,Self-reported living with HIV & NOT on ART,7,0,0
+Round 3,11,193,Tested positive by CHiP,17,1,0
+Round 3,11,193,Tested negative by CHiP,360,7,0
+Round 3,11,193,Not tested/indeterminate,130,2,0
+Round 3,11,193,Self-reported living with HIV & on ART,110,7,1
+Round 3,11,194,Self-reported living with HIV & NOT on ART,7,1,0
+Round 3,11,194,Tested positive by CHiP,22,5,0
+Round 3,11,194,Tested negative by CHiP,459,23,2
+Round 3,11,194,Not tested/indeterminate,159,2,0
+Round 3,11,194,Self-reported living with HIV & on ART,136,19,0
+Round 3,11,195,Self-reported living with HIV & NOT on ART,10,0,0
+Round 3,11,195,Tested positive by CHiP,9,1,0
+Round 3,11,195,Tested negative by CHiP,591,8,0
+Round 3,11,195,Not tested/indeterminate,432,4,0
+Round 3,11,195,Self-reported living with HIV & on ART,99,4,0
+Round 3,11,196,Self-reported living with HIV & NOT on ART,12,0,0
+Round 3,11,196,Tested positive by CHiP,9,0,0
+Round 3,11,196,Tested negative by CHiP,476,12,1
+Round 3,11,196,Not tested/indeterminate,296,3,1
+Round 3,11,196,Self-reported living with HIV & on ART,129,5,0
+Round 3,11,197,Self-reported living with HIV & NOT on ART,9,0,0
+Round 3,11,197,Tested positive by CHiP,19,2,0
+Round 3,11,197,Tested negative by CHiP,555,21,0
+Round 3,11,197,Not tested/indeterminate,160,2,0
+Round 3,11,197,Self-reported living with HIV & on ART,113,9,2
+Round 3,11,198,Self-reported living with HIV & NOT on ART,15,1,0
+Round 3,11,198,Tested positive by CHiP,23,2,1
+Round 3,11,198,Tested negative by CHiP,485,6,0
+Round 3,11,198,Not tested/indeterminate,183,0,0
+Round 3,11,198,Self-reported living with HIV & on ART,140,7,1
+Round 3,11,199,Self-reported living with HIV & NOT on ART,13,0,0
+Round 3,11,199,Tested positive by CHiP,1,0,0
+Round 3,11,199,Tested negative by CHiP,506,16,2
+Round 3,11,199,Not tested/indeterminate,244,3,1
+Round 3,11,199,Self-reported living with HIV & on ART,60,4,0
+Round 3,11,200,Self-reported living with HIV & NOT on ART,9,0,0
+Round 3,11,200,Tested positive by CHiP,16,1,1
+Round 3,11,200,Tested negative by CHiP,510,12,1
+Round 3,11,200,Not tested/indeterminate,150,6,0
+Round 3,11,200,Self-reported living with HIV & on ART,76,6,0
+Round 3,11,201,Self-reported living with HIV & NOT on ART,11,0,0
+Round 3,11,201,Tested positive by CHiP,11,0,0
+Round 3,11,201,Tested negative by CHiP,363,8,0
+Round 3,11,201,Not tested/indeterminate,282,1,0
+Round 3,11,201,Self-reported living with HIV & on ART,93,4,1
+Round 3,11,202,Self-reported living with HIV & NOT on ART,5,2,0
+Round 3,11,202,Tested positive by CHiP,13,3,0
+Round 3,11,202,Tested negative by CHiP,305,2,0
+Round 3,11,202,Not tested/indeterminate,227,3,1
+Round 3,11,202,Self-reported living with HIV & on ART,71,3,1
+Round 3,11,203,Self-reported living with HIV & NOT on ART,12,1,1
+Round 3,11,203,Tested positive by CHiP,14,0,0
+Round 3,11,203,Tested negative by CHiP,432,3,0
+Round 3,11,203,Not tested/indeterminate,162,2,0
+Round 3,11,203,Self-reported living with HIV & on ART,107,6,0
+Round 3,11,204,Self-reported living with HIV & NOT on ART,5,1,0
+Round 3,11,204,Tested positive by CHiP,12,0,0
+Round 3,11,204,Tested negative by CHiP,338,7,0
+Round 3,11,204,Not tested/indeterminate,238,2,0
+Round 3,11,204,Self-reported living with HIV & on ART,72,3,2
+Round 3,11,205,Self-reported living with HIV & NOT on ART,14,0,0
+Round 3,11,205,Tested positive by CHiP,18,0,0
+Round 3,11,205,Tested negative by CHiP,571,11,1
+Round 3,11,205,Not tested/indeterminate,110,0,0
+Round 3,11,205,Self-reported living with HIV & on ART,128,2,0
+Round 3,11,206,Self-reported living with HIV & NOT on ART,6,1,0
+Round 3,11,206,Tested positive by CHiP,12,0,0
+Round 3,11,206,Tested negative by CHiP,449,2,0
+Round 3,11,206,Not tested/indeterminate,238,1,0
+Round 3,11,206,Self-reported living with HIV & on ART,61,3,0

@@ -1,0 +1,619 @@
+com,zone,repeat_screen,screened,screen_positive,tb_detected,started_treatment
+1,1,First time screening,431,7,0,0
+1,1,Screened once before in the same zone,298,6,0,0
+1,1,Screened twice before in the same zone,285,4,1,1
+1,2,First time screening,512,9,0,0
+1,2,Screened once before in the same zone,379,9,0,0
+1,2,Screened twice before in the same zone,317,7,0,0
+1,3,First time screening,444,13,1,1
+1,3,Screened once before in the same zone,308,17,0,0
+1,3,Screened twice before in the same zone,400,13,1,0
+1,4,First time screening,530,14,0,0
+1,4,Screened once before in the same zone,349,12,2,1
+1,4,Screened twice before in the same zone,325,12,0,0
+1,5,First time screening,444,15,0,0
+1,5,Screened once before in the same zone,289,2,0,0
+1,5,Screened twice before in the same zone,475,11,0,0
+1,6,First time screening,323,12,0,0
+1,6,Screened once before in the same zone,379,16,0,0
+1,6,Screened twice before in the same zone,389,10,0,0
+1,7,First time screening,415,8,0,0
+1,7,Screened once before in the same zone,344,6,0,0
+1,7,Screened twice before in the same zone,406,12,1,1
+1,8,First time screening,430,10,0,0
+1,8,Screened once before in the same zone,321,7,0,0
+1,8,Screened twice before in the same zone,480,8,0,0
+1,9,First time screening,338,18,1,0
+1,9,Screened once before in the same zone,334,17,0,0
+1,9,Screened twice before in the same zone,434,27,0,0
+1,10,First time screening,361,13,2,1
+1,10,Screened once before in the same zone,224,4,0,0
+1,10,Screened twice before in the same zone,320,4,0,0
+1,11,First time screening,354,7,0,0
+1,11,Screened once before in the same zone,280,3,2,1
+1,11,Screened twice before in the same zone,336,5,0,0
+1,12,First time screening,490,13,0,0
+1,12,Screened once before in the same zone,603,6,0,0
+1,12,Screened twice before in the same zone,506,14,0,0
+1,13,First time screening,459,26,0,0
+1,13,Screened once before in the same zone,342,15,2,1
+1,13,Screened twice before in the same zone,430,23,0,0
+1,14,First time screening,602,8,0,0
+1,14,Screened once before in the same zone,383,4,0,0
+1,14,Screened twice before in the same zone,392,8,0,0
+1,15,First time screening,422,8,1,1
+1,15,Screened once before in the same zone,356,8,0,0
+1,15,Screened twice before in the same zone,400,13,0,0
+1,16,First time screening,424,7,0,0
+1,16,Screened once before in the same zone,343,2,0,0
+1,16,Screened twice before in the same zone,329,7,0,0
+1,17,First time screening,257,6,1,0
+1,17,Screened once before in the same zone,325,7,0,0
+1,17,Screened twice before in the same zone,437,25,2,2
+1,18,First time screening,436,10,0,0
+1,18,Screened once before in the same zone,361,3,0,0
+1,18,Screened twice before in the same zone,411,4,0,0
+1,19,First time screening,385,9,0,0
+1,19,Screened once before in the same zone,281,3,0,0
+1,19,Screened twice before in the same zone,322,7,0,0
+1,20,First time screening,425,7,1,1
+1,20,Screened once before in the same zone,332,5,0,0
+1,20,Screened twice before in the same zone,389,7,1,1
+2,21,First time screening,429,21,0,0
+2,21,Screened once before in the same zone,323,13,0,0
+2,21,Screened twice before in the same zone,281,16,1,0
+2,22,First time screening,456,24,1,0
+2,22,Screened once before in the same zone,386,14,2,0
+2,22,Screened twice before in the same zone,340,16,0,0
+2,23,First time screening,414,16,0,0
+2,23,Screened once before in the same zone,304,9,0,0
+2,23,Screened twice before in the same zone,309,9,0,0
+2,24,First time screening,348,10,1,0
+2,24,Screened once before in the same zone,290,5,2,2
+2,24,Screened twice before in the same zone,491,20,0,0
+2,25,First time screening,483,18,0,0
+2,25,Screened once before in the same zone,325,12,0,0
+2,25,Screened twice before in the same zone,225,6,0,0
+2,26,First time screening,363,9,0,0
+2,26,Screened once before in the same zone,336,11,1,1
+2,26,Screened twice before in the same zone,247,7,0,0
+2,27,First time screening,421,17,1,1
+2,27,Screened once before in the same zone,394,34,0,0
+2,27,Screened twice before in the same zone,330,24,0,0
+2,28,First time screening,364,8,1,1
+2,28,Screened once before in the same zone,311,9,0,0
+2,28,Screened twice before in the same zone,314,11,0,0
+2,29,First time screening,490,32,0,0
+2,29,Screened once before in the same zone,284,11,1,0
+2,29,Screened twice before in the same zone,238,8,0,0
+2,30,First time screening,448,21,0,0
+2,30,Screened once before in the same zone,388,15,0,0
+2,30,Screened twice before in the same zone,283,11,0,0
+5,31,First time screening,378,9,0,0
+5,31,Screened once before in the same zone,221,3,0,0
+5,31,Screened twice before in the same zone,365,5,0,0
+5,32,First time screening,620,20,1,1
+5,32,Screened once before in the same zone,271,6,0,0
+5,32,Screened twice before in the same zone,525,9,1,0
+5,33,First time screening,500,5,1,1
+5,33,Screened once before in the same zone,334,5,0,0
+5,33,Screened twice before in the same zone,265,8,1,1
+5,34,First time screening,495,15,2,2
+5,34,Screened once before in the same zone,361,8,0,0
+5,34,Screened twice before in the same zone,444,13,0,0
+5,35,First time screening,472,8,0,0
+5,35,Screened once before in the same zone,350,4,0,0
+5,35,Screened twice before in the same zone,365,10,0,0
+5,36,First time screening,627,7,0,0
+5,36,Screened once before in the same zone,290,5,1,1
+5,36,Screened twice before in the same zone,177,0,0,0
+5,37,First time screening,475,10,1,1
+5,37,Screened once before in the same zone,383,6,0,0
+5,37,Screened twice before in the same zone,346,3,0,0
+5,38,First time screening,504,2,0,0
+5,38,Screened once before in the same zone,431,3,0,0
+5,38,Screened twice before in the same zone,343,4,1,0
+5,39,First time screening,309,4,0,0
+5,39,Screened once before in the same zone,295,6,1,1
+5,39,Screened twice before in the same zone,371,11,1,1
+5,40,First time screening,607,18,1,0
+5,40,Screened once before in the same zone,330,7,0,0
+5,40,Screened twice before in the same zone,211,10,2,1
+5,41,First time screening,499,12,0,0
+5,41,Screened once before in the same zone,199,3,1,0
+5,41,Screened twice before in the same zone,220,1,0,0
+5,42,First time screening,468,5,1,1
+5,42,Screened once before in the same zone,253,1,0,0
+5,42,Screened twice before in the same zone,217,3,0,0
+5,43,First time screening,365,6,1,0
+5,43,Screened once before in the same zone,272,5,0,0
+5,43,Screened twice before in the same zone,325,5,1,1
+5,44,First time screening,519,12,2,1
+5,44,Screened once before in the same zone,262,6,1,1
+5,44,Screened twice before in the same zone,333,12,0,0
+5,45,First time screening,444,8,2,2
+5,45,Screened once before in the same zone,393,11,2,2
+5,45,Screened twice before in the same zone,422,16,2,2
+5,46,First time screening,441,8,3,3
+5,46,Screened once before in the same zone,265,1,0,0
+5,46,Screened twice before in the same zone,484,11,2,2
+5,47,First time screening,491,10,1,1
+5,47,Screened once before in the same zone,429,4,0,0
+5,47,Screened twice before in the same zone,395,10,0,0
+5,48,First time screening,546,9,0,0
+5,48,Screened once before in the same zone,403,4,2,2
+5,48,Screened twice before in the same zone,266,5,0,0
+5,49,First time screening,536,14,2,1
+5,49,Screened once before in the same zone,392,6,0,0
+5,49,Screened twice before in the same zone,404,13,3,0
+5,50,First time screening,415,8,1,1
+5,50,Screened once before in the same zone,330,5,0,0
+5,50,Screened twice before in the same zone,289,11,3,3
+6,51,First time screening,324,6,0,0
+6,51,Screened once before in the same zone,349,6,1,1
+6,51,Screened twice before in the same zone,420,5,0,0
+6,52,First time screening,424,4,0,0
+6,52,Screened once before in the same zone,249,4,0,0
+6,52,Screened twice before in the same zone,392,3,0,0
+6,53,First time screening,354,17,0,0
+6,53,Screened once before in the same zone,207,10,0,0
+6,53,Screened twice before in the same zone,257,12,0,0
+6,54,First time screening,290,10,1,0
+6,54,Screened once before in the same zone,408,6,0,0
+6,54,Screened twice before in the same zone,544,7,0,0
+6,55,First time screening,254,7,1,1
+6,55,Screened once before in the same zone,303,4,0,0
+6,55,Screened twice before in the same zone,519,11,0,0
+6,56,First time screening,282,8,1,1
+6,56,Screened once before in the same zone,265,3,1,1
+6,56,Screened twice before in the same zone,471,8,0,0
+6,57,First time screening,332,10,0,0
+6,57,Screened once before in the same zone,225,4,0,0
+6,57,Screened twice before in the same zone,254,2,0,0
+6,58,First time screening,318,5,0,0
+6,58,Screened once before in the same zone,294,0,0,0
+6,58,Screened twice before in the same zone,431,7,0,0
+6,59,First time screening,406,4,0,0
+6,59,Screened once before in the same zone,208,5,1,1
+6,59,Screened twice before in the same zone,185,2,0,0
+6,60,First time screening,273,7,1,1
+6,60,Screened once before in the same zone,249,4,0,0
+6,60,Screened twice before in the same zone,338,5,0,0
+6,61,First time screening,426,7,0,0
+6,61,Screened once before in the same zone,233,2,0,0
+6,61,Screened twice before in the same zone,449,4,0,0
+6,62,First time screening,307,8,0,0
+6,62,Screened once before in the same zone,278,5,0,0
+6,62,Screened twice before in the same zone,431,11,0,0
+6,63,First time screening,375,12,0,0
+6,63,Screened once before in the same zone,236,4,0,0
+6,63,Screened twice before in the same zone,446,13,0,0
+6,64,First time screening,376,9,1,1
+6,64,Screened once before in the same zone,287,8,0,0
+6,64,Screened twice before in the same zone,412,13,0,0
+6,65,First time screening,434,4,0,0
+6,65,Screened once before in the same zone,328,2,0,0
+6,65,Screened twice before in the same zone,386,4,0,0
+6,66,First time screening,399,16,1,1
+6,66,Screened once before in the same zone,344,6,0,0
+6,66,Screened twice before in the same zone,213,13,0,0
+8,67,First time screening,488,15,3,2
+8,67,Screened once before in the same zone,291,12,0,0
+8,67,Screened twice before in the same zone,251,7,1,1
+8,68,First time screening,447,16,3,3
+8,68,Screened once before in the same zone,226,6,0,0
+8,68,Screened twice before in the same zone,273,4,0,0
+8,69,First time screening,418,12,0,0
+8,69,Screened once before in the same zone,259,2,1,1
+8,69,Screened twice before in the same zone,341,15,0,0
+8,70,First time screening,480,20,1,1
+8,70,Screened once before in the same zone,287,7,2,2
+8,70,Screened twice before in the same zone,174,4,0,0
+8,71,First time screening,516,12,1,1
+8,71,Screened once before in the same zone,245,6,0,0
+8,71,Screened twice before in the same zone,125,3,1,1
+8,72,First time screening,356,17,1,1
+8,72,Screened once before in the same zone,308,9,0,0
+8,72,Screened twice before in the same zone,257,12,0,0
+8,73,First time screening,306,12,1,1
+8,73,Screened once before in the same zone,223,3,1,1
+8,73,Screened twice before in the same zone,363,7,0,0
+8,74,First time screening,269,7,1,1
+8,74,Screened once before in the same zone,162,4,0,0
+8,74,Screened twice before in the same zone,150,11,0,0
+8,75,First time screening,393,8,0,0
+8,75,Screened once before in the same zone,303,8,0,0
+8,75,Screened twice before in the same zone,332,6,0,0
+8,76,First time screening,429,8,0,0
+8,76,Screened once before in the same zone,287,2,0,0
+8,76,Screened twice before in the same zone,264,2,0,0
+8,77,First time screening,263,10,1,1
+8,77,Screened once before in the same zone,276,4,0,0
+8,77,Screened twice before in the same zone,200,9,0,0
+8,78,First time screening,445,18,1,1
+8,78,Screened once before in the same zone,256,14,1,1
+8,78,Screened twice before in the same zone,206,8,1,1
+8,79,First time screening,467,7,1,0
+8,79,Screened once before in the same zone,244,5,2,1
+8,79,Screened twice before in the same zone,216,6,0,0
+8,80,First time screening,350,18,1,1
+8,80,Screened once before in the same zone,376,7,0,0
+8,80,Screened twice before in the same zone,521,17,0,0
+8,81,First time screening,404,18,0,0
+8,81,Screened once before in the same zone,371,15,1,1
+8,81,Screened twice before in the same zone,250,10,0,0
+8,82,First time screening,402,21,0,0
+8,82,Screened once before in the same zone,363,7,0,0
+8,82,Screened twice before in the same zone,464,16,0,0
+8,83,First time screening,347,9,0,0
+8,83,Screened once before in the same zone,413,4,0,0
+8,83,Screened twice before in the same zone,203,1,1,1
+8,84,First time screening,450,13,0,0
+8,84,Screened once before in the same zone,388,4,0,0
+8,84,Screened twice before in the same zone,111,2,0,0
+8,85,First time screening,357,24,1,1
+8,85,Screened once before in the same zone,293,13,0,0
+8,85,Screened twice before in the same zone,214,8,0,0
+8,86,First time screening,371,25,1,1
+8,86,Screened once before in the same zone,350,10,0,0
+8,86,Screened twice before in the same zone,197,8,0,0
+8,87,First time screening,357,25,0,0
+8,87,Screened once before in the same zone,362,19,2,2
+8,87,Screened twice before in the same zone,182,28,0,0
+8,88,First time screening,353,9,1,0
+8,88,Screened once before in the same zone,378,9,0,0
+8,88,Screened twice before in the same zone,291,4,0,0
+8,89,First time screening,485,11,1,0
+8,89,Screened once before in the same zone,261,8,0,0
+8,89,Screened twice before in the same zone,71,4,0,0
+8,90,First time screening,316,13,0,0
+8,90,Screened once before in the same zone,432,17,0,0
+8,90,Screened twice before in the same zone,232,10,0,0
+8,91,First time screening,398,11,0,0
+8,91,Screened once before in the same zone,224,10,0,0
+8,91,Screened twice before in the same zone,128,2,0,0
+8,92,First time screening,405,16,0,0
+8,92,Screened once before in the same zone,313,4,0,0
+8,92,Screened twice before in the same zone,270,4,0,0
+8,93,First time screening,207,11,1,1
+8,93,Screened once before in the same zone,159,6,0,0
+8,93,Screened twice before in the same zone,261,13,0,0
+8,94,First time screening,232,8,0,0
+8,94,Screened once before in the same zone,193,10,0,0
+8,94,Screened twice before in the same zone,201,13,0,0
+8,95,First time screening,214,12,3,3
+8,95,Screened once before in the same zone,153,7,1,1
+8,95,Screened twice before in the same zone,106,3,0,0
+8,96,First time screening,351,14,1,1
+8,96,Screened once before in the same zone,239,3,1,1
+8,96,Screened twice before in the same zone,314,10,0,0
+8,97,First time screening,373,2,0,0
+8,97,Screened once before in the same zone,383,5,1,1
+8,97,Screened twice before in the same zone,299,4,0,0
+8,98,First time screening,291,19,2,2
+8,98,Screened once before in the same zone,292,11,0,0
+8,98,Screened twice before in the same zone,180,24,0,0
+8,99,First time screening,274,12,0,0
+8,99,Screened once before in the same zone,318,5,0,0
+8,99,Screened twice before in the same zone,316,6,0,0
+8,100,First time screening,291,13,0,0
+8,100,Screened once before in the same zone,251,5,0,0
+8,100,Screened twice before in the same zone,264,13,0,0
+8,101,First time screening,227,14,1,1
+8,101,Screened once before in the same zone,205,9,0,0
+8,101,Screened twice before in the same zone,129,7,1,1
+8,102,First time screening,316,11,1,1
+8,102,Screened once before in the same zone,356,9,0,0
+8,102,Screened twice before in the same zone,276,6,0,0
+8,103,First time screening,287,15,3,3
+8,103,Screened once before in the same zone,296,8,0,0
+8,103,Screened twice before in the same zone,235,11,0,0
+8,104,First time screening,389,19,1,1
+8,104,Screened once before in the same zone,309,1,0,0
+8,104,Screened twice before in the same zone,207,5,0,0
+8,105,First time screening,253,10,1,1
+8,105,Screened once before in the same zone,346,12,1,0
+8,105,Screened twice before in the same zone,230,10,0,0
+8,106,First time screening,424,28,0,0
+8,106,Screened once before in the same zone,340,19,0,0
+8,106,Screened twice before in the same zone,131,7,0,0
+8,107,First time screening,362,17,0,0
+8,107,Screened once before in the same zone,267,8,2,2
+8,107,Screened twice before in the same zone,245,14,0,0
+8,108,First time screening,375,15,0,0
+8,108,Screened once before in the same zone,362,4,0,0
+8,108,Screened twice before in the same zone,167,8,0,0
+8,109,First time screening,379,21,1,1
+8,109,Screened once before in the same zone,177,9,0,0
+8,109,Screened twice before in the same zone,288,16,0,0
+8,110,First time screening,385,11,2,2
+8,110,Screened once before in the same zone,273,5,0,0
+8,110,Screened twice before in the same zone,320,10,0,0
+8,111,First time screening,221,6,1,1
+8,111,Screened once before in the same zone,188,6,0,0
+8,111,Screened twice before in the same zone,354,10,1,1
+8,112,First time screening,268,2,0,0
+8,112,Screened once before in the same zone,254,5,0,0
+8,112,Screened twice before in the same zone,117,0,0,0
+8,113,First time screening,417,11,1,1
+8,113,Screened once before in the same zone,308,1,0,0
+8,113,Screened twice before in the same zone,207,9,0,0
+8,114,First time screening,418,13,3,3
+8,114,Screened once before in the same zone,216,5,0,0
+8,114,Screened twice before in the same zone,227,4,0,0
+8,115,First time screening,466,12,0,0
+8,115,Screened once before in the same zone,313,9,0,0
+8,115,Screened twice before in the same zone,119,5,0,0
+8,116,First time screening,400,9,0,0
+8,116,Screened once before in the same zone,194,5,0,0
+8,116,Screened twice before in the same zone,193,13,0,0
+8,117,First time screening,460,17,1,1
+8,117,Screened once before in the same zone,167,6,0,0
+8,117,Screened twice before in the same zone,125,12,0,0
+8,118,First time screening,490,33,1,0
+8,118,Screened once before in the same zone,177,6,0,0
+8,118,Screened twice before in the same zone,117,5,0,0
+8,119,First time screening,376,8,1,1
+8,119,Screened once before in the same zone,167,5,0,0
+8,119,Screened twice before in the same zone,214,16,1,1
+8,120,First time screening,312,6,0,0
+8,120,Screened once before in the same zone,220,5,0,0
+8,120,Screened twice before in the same zone,123,5,0,0
+9,121,First time screening,435,11,0,0
+9,121,Screened once before in the same zone,296,7,0,0
+9,121,Screened twice before in the same zone,202,8,0,0
+9,122,First time screening,484,15,0,0
+9,122,Screened once before in the same zone,183,2,0,0
+9,122,Screened twice before in the same zone,219,5,0,0
+9,123,First time screening,437,11,1,1
+9,123,Screened once before in the same zone,174,6,1,0
+9,123,Screened twice before in the same zone,208,7,0,0
+9,124,First time screening,485,6,0,0
+9,124,Screened once before in the same zone,247,6,0,0
+9,124,Screened twice before in the same zone,132,2,0,0
+9,125,First time screening,443,15,0,0
+9,125,Screened once before in the same zone,212,4,0,0
+9,125,Screened twice before in the same zone,156,5,0,0
+9,126,First time screening,424,16,0,0
+9,126,Screened once before in the same zone,195,2,0,0
+9,126,Screened twice before in the same zone,195,5,0,0
+9,127,First time screening,561,8,0,0
+9,127,Screened once before in the same zone,228,3,0,0
+9,127,Screened twice before in the same zone,106,0,0,0
+9,128,First time screening,450,20,0,0
+9,128,Screened once before in the same zone,267,4,0,0
+9,128,Screened twice before in the same zone,120,2,0,0
+9,129,First time screening,427,13,0,0
+9,129,Screened once before in the same zone,246,3,0,0
+9,129,Screened twice before in the same zone,175,2,0,0
+9,130,First time screening,545,28,0,0
+9,130,Screened once before in the same zone,258,7,0,0
+9,130,Screened twice before in the same zone,166,11,2,2
+9,131,First time screening,552,19,0,0
+9,131,Screened once before in the same zone,187,4,0,0
+9,131,Screened twice before in the same zone,76,2,0,0
+9,132,First time screening,445,16,0,0
+9,132,Screened once before in the same zone,184,3,0,0
+9,132,Screened twice before in the same zone,152,7,0,0
+9,133,First time screening,673,16,0,0
+9,133,Screened once before in the same zone,124,0,0,0
+9,133,Screened twice before in the same zone,95,2,0,0
+9,134,First time screening,500,9,0,0
+9,134,Screened once before in the same zone,229,6,0,0
+9,134,Screened twice before in the same zone,118,1,0,0
+9,135,First time screening,371,4,0,0
+9,135,Screened once before in the same zone,295,7,0,0
+9,135,Screened twice before in the same zone,249,4,0,0
+9,136,First time screening,435,1,0,0
+9,136,Screened once before in the same zone,332,0,0,0
+9,136,Screened twice before in the same zone,274,0,0,0
+9,137,First time screening,447,7,0,0
+9,137,Screened once before in the same zone,208,1,0,0
+9,137,Screened twice before in the same zone,179,7,0,0
+9,138,First time screening,428,10,0,0
+9,138,Screened once before in the same zone,196,4,0,0
+9,138,Screened twice before in the same zone,112,2,0,0
+9,139,First time screening,407,6,1,1
+9,139,Screened once before in the same zone,368,2,0,0
+9,139,Screened twice before in the same zone,148,3,0,0
+9,140,First time screening,377,5,0,0
+9,140,Screened once before in the same zone,364,3,0,0
+9,140,Screened twice before in the same zone,306,11,1,1
+9,141,First time screening,399,3,0,0
+9,141,Screened once before in the same zone,187,2,0,0
+9,141,Screened twice before in the same zone,141,0,0,0
+9,142,First time screening,450,11,0,0
+9,142,Screened once before in the same zone,251,0,0,0
+9,142,Screened twice before in the same zone,198,2,0,0
+9,143,First time screening,318,3,0,0
+9,143,Screened once before in the same zone,250,0,0,0
+9,143,Screened twice before in the same zone,264,4,0,0
+9,144,First time screening,480,14,1,1
+9,144,Screened once before in the same zone,184,4,0,0
+9,144,Screened twice before in the same zone,228,7,0,0
+9,145,First time screening,444,14,0,0
+9,145,Screened once before in the same zone,226,4,0,0
+9,145,Screened twice before in the same zone,147,0,0,0
+9,146,First time screening,406,6,0,0
+9,146,Screened once before in the same zone,213,3,1,1
+9,146,Screened twice before in the same zone,113,1,0,0
+9,147,First time screening,543,27,3,3
+9,147,Screened once before in the same zone,211,15,0,0
+9,147,Screened twice before in the same zone,99,2,0,0
+9,148,First time screening,630,23,0,0
+9,148,Screened once before in the same zone,246,6,0,0
+9,148,Screened twice before in the same zone,138,7,0,0
+9,149,First time screening,503,4,0,0
+9,149,Screened once before in the same zone,277,2,0,0
+9,149,Screened twice before in the same zone,190,1,0,0
+9,150,First time screening,569,18,0,0
+9,150,Screened once before in the same zone,166,2,0,0
+9,150,Screened twice before in the same zone,107,1,0,0
+9,151,First time screening,566,12,0,0
+9,151,Screened once before in the same zone,344,6,0,0
+9,151,Screened twice before in the same zone,214,3,0,0
+9,152,First time screening,486,24,0,0
+9,152,Screened once before in the same zone,218,10,0,0
+9,152,Screened twice before in the same zone,168,4,0,0
+9,153,First time screening,481,20,0,0
+9,153,Screened once before in the same zone,337,11,2,2
+9,153,Screened twice before in the same zone,236,2,0,0
+9,154,First time screening,422,13,1,1
+9,154,Screened once before in the same zone,252,4,0,0
+9,154,Screened twice before in the same zone,159,4,0,0
+9,155,First time screening,503,11,0,0
+9,155,Screened once before in the same zone,285,5,1,0
+9,155,Screened twice before in the same zone,166,1,0,0
+9,156,First time screening,489,10,0,0
+9,156,Screened once before in the same zone,293,7,0,0
+9,156,Screened twice before in the same zone,261,15,0,0
+9,157,First time screening,535,28,2,1
+9,157,Screened once before in the same zone,248,9,1,1
+9,157,Screened twice before in the same zone,189,2,0,0
+9,158,First time screening,465,13,0,0
+9,158,Screened once before in the same zone,239,6,0,0
+9,158,Screened twice before in the same zone,209,11,0,0
+9,159,First time screening,517,18,1,1
+9,159,Screened once before in the same zone,144,7,0,0
+9,159,Screened twice before in the same zone,172,4,0,0
+9,160,First time screening,475,21,0,0
+9,160,Screened once before in the same zone,186,8,0,0
+9,160,Screened twice before in the same zone,162,7,0,0
+9,161,First time screening,459,14,0,0
+9,161,Screened once before in the same zone,223,4,0,0
+9,161,Screened twice before in the same zone,105,4,1,1
+9,162,First time screening,557,28,0,0
+9,162,Screened once before in the same zone,173,4,0,0
+9,162,Screened twice before in the same zone,133,9,1,1
+9,163,First time screening,419,11,0,0
+9,163,Screened once before in the same zone,156,2,1,0
+9,163,Screened twice before in the same zone,135,4,0,0
+9,164,First time screening,435,35,0,0
+9,164,Screened once before in the same zone,211,3,0,0
+9,164,Screened twice before in the same zone,193,4,0,0
+9,165,First time screening,520,20,0,0
+9,165,Screened once before in the same zone,199,8,0,0
+9,165,Screened twice before in the same zone,176,10,0,0
+9,166,First time screening,524,11,0,0
+9,166,Screened once before in the same zone,158,1,0,0
+9,166,Screened twice before in the same zone,111,3,0,0
+9,167,First time screening,510,9,0,0
+9,167,Screened once before in the same zone,203,4,1,1
+9,167,Screened twice before in the same zone,266,5,0,0
+9,168,First time screening,483,18,0,0
+9,168,Screened once before in the same zone,247,11,0,0
+9,168,Screened twice before in the same zone,218,9,0,0
+9,169,First time screening,474,14,0,0
+9,169,Screened once before in the same zone,201,2,0,0
+9,169,Screened twice before in the same zone,246,8,0,0
+9,170,First time screening,452,18,0,0
+9,170,Screened once before in the same zone,203,10,0,0
+9,170,Screened twice before in the same zone,172,7,0,0
+10,171,First time screening,220,6,1,0
+10,171,Screened once before in the same zone,215,5,0,0
+10,171,Screened twice before in the same zone,392,4,0,0
+10,172,First time screening,342,14,0,0
+10,172,Screened once before in the same zone,219,13,1,1
+10,172,Screened twice before in the same zone,168,10,1,1
+10,173,First time screening,229,14,1,1
+10,173,Screened once before in the same zone,284,4,0,0
+10,173,Screened twice before in the same zone,283,8,0,0
+10,174,First time screening,372,6,0,0
+10,174,Screened once before in the same zone,188,3,0,0
+10,174,Screened twice before in the same zone,190,1,0,0
+10,175,First time screening,413,6,0,0
+10,175,Screened once before in the same zone,262,0,0,0
+10,175,Screened twice before in the same zone,265,3,0,0
+10,176,First time screening,422,12,0,0
+10,176,Screened once before in the same zone,342,7,0,0
+10,176,Screened twice before in the same zone,360,8,0,0
+10,177,First time screening,382,5,0,0
+10,177,Screened once before in the same zone,190,3,0,0
+10,177,Screened twice before in the same zone,113,4,0,0
+10,178,First time screening,396,4,1,1
+10,178,Screened once before in the same zone,217,4,0,0
+10,178,Screened twice before in the same zone,196,1,0,0
+10,179,First time screening,428,8,1,0
+10,179,Screened once before in the same zone,172,5,0,0
+10,179,Screened twice before in the same zone,241,5,0,0
+10,180,First time screening,477,9,0,0
+10,180,Screened once before in the same zone,174,2,0,0
+10,180,Screened twice before in the same zone,259,4,1,1
+10,181,First time screening,427,14,1,1
+10,181,Screened once before in the same zone,212,2,1,1
+10,181,Screened twice before in the same zone,224,2,0,0
+10,182,First time screening,336,5,0,0
+10,182,Screened once before in the same zone,162,4,1,1
+10,182,Screened twice before in the same zone,126,0,0,0
+10,183,First time screening,231,8,0,0
+10,183,Screened once before in the same zone,329,6,0,0
+10,183,Screened twice before in the same zone,441,10,1,1
+10,184,First time screening,356,13,2,0
+10,184,Screened once before in the same zone,182,9,0,0
+10,184,Screened twice before in the same zone,120,13,1,1
+10,185,First time screening,397,19,1,1
+10,185,Screened once before in the same zone,187,7,1,1
+10,185,Screened twice before in the same zone,153,4,0,0
+10,186,First time screening,366,8,1,1
+10,186,Screened once before in the same zone,180,3,0,0
+10,186,Screened twice before in the same zone,230,5,0,0
+10,187,First time screening,389,13,1,1
+10,187,Screened once before in the same zone,152,7,0,0
+10,187,Screened twice before in the same zone,120,1,0,0
+10,188,First time screening,548,8,1,1
+10,188,Screened once before in the same zone,252,1,0,0
+10,188,Screened twice before in the same zone,168,3,0,0
+10,189,First time screening,410,12,1,0
+10,189,Screened once before in the same zone,310,6,0,0
+10,189,Screened twice before in the same zone,409,7,0,0
+11,190,First time screening,264,3,0,0
+11,190,Screened once before in the same zone,266,3,0,0
+11,190,Screened twice before in the same zone,393,8,0,0
+11,191,First time screening,298,11,0,0
+11,191,Screened once before in the same zone,289,2,0,0
+11,191,Screened twice before in the same zone,350,7,0,0
+11,192,First time screening,483,5,0,0
+11,192,Screened once before in the same zone,311,7,0,0
+11,192,Screened twice before in the same zone,424,13,0,0
+11,193,First time screening,281,12,1,1
+11,193,Screened once before in the same zone,169,4,0,0
+11,193,Screened twice before in the same zone,174,1,0,0
+11,194,First time screening,373,20,0,0
+11,194,Screened once before in the same zone,176,11,2,2
+11,194,Screened twice before in the same zone,234,19,0,0
+11,195,First time screening,384,6,0,0
+11,195,Screened once before in the same zone,278,2,0,0
+11,195,Screened twice before in the same zone,479,9,0,0
+11,196,First time screening,424,12,0,0
+11,196,Screened once before in the same zone,212,5,1,0
+11,196,Screened twice before in the same zone,286,3,1,1
+11,197,First time screening,353,12,0,0
+11,197,Screened once before in the same zone,227,8,1,1
+11,197,Screened twice before in the same zone,276,14,1,1
+11,198,First time screening,363,6,1,1
+11,198,Screened once before in the same zone,238,2,0,0
+11,198,Screened twice before in the same zone,245,8,1,1
+11,199,First time screening,440,8,2,2
+11,199,Screened once before in the same zone,266,9,1,1
+11,199,Screened twice before in the same zone,118,6,0,0
+11,200,First time screening,440,13,2,2
+11,200,Screened once before in the same zone,185,5,0,0
+11,200,Screened twice before in the same zone,136,7,0,0
+11,201,First time screening,358,2,0,0
+11,201,Screened once before in the same zone,185,7,0,0
+11,201,Screened twice before in the same zone,217,4,1,1
+11,202,First time screening,294,4,0,0
+11,202,Screened once before in the same zone,116,2,1,1
+11,202,Screened twice before in the same zone,211,7,1,1
+11,203,First time screening,267,6,1,1
+11,203,Screened once before in the same zone,223,3,0,0
+11,203,Screened twice before in the same zone,237,3,0,0
+11,204,First time screening,287,5,2,1
+11,204,Screened once before in the same zone,212,7,0,0
+11,204,Screened twice before in the same zone,166,1,0,0
+11,205,First time screening,344,6,0,0
+11,205,Screened once before in the same zone,186,4,0,0
+11,205,Screened twice before in the same zone,311,3,1,1
+11,206,First time screening,330,3,0,0
+11,206,Screened once before in the same zone,211,3,0,0
+11,206,Screened twice before in the same zone,225,1,0,0
